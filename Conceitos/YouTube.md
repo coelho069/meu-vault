@@ -1,8 +1,9 @@
 ---
+data: "2026-06-19"
 tags:
   - conceito
-data: "2026-06-19"
 ---
+
 
 # YouTube
 
@@ -16,3 +17,9 @@ Conversas relacionadas:
 Resumo: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa
 
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#conceito
+<!-- /memoria-agente-graph -->

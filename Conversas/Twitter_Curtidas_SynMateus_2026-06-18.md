@@ -1,11 +1,12 @@
 ---
-tags:
-  - twitter
-  - curtidas
-  - reach
-  - loop-engineering
 data: "2026-06-18"
+tags:
+  - curtidas
+  - loop-engineering
+  - reach
+  - twitter
 ---
+
 
 # Twitter_Curtidas_SynMateus_2026-06-18
 
@@ -31,3 +32,9 @@ data: "2026-06-18"
 - [[Conceitos/Agent-Reach]]
 
 Gerado por fetch_likes_cookie.py (isolado, resiliente).
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#curtidas #loop-engineering #reach #twitter
+<!-- /memoria-agente-graph -->

@@ -1,8 +1,9 @@
 ---
+data: "2026-06-20"
 tags:
   - conceito
-data: "2026-06-20"
 ---
+
 
 # Gemini
 
@@ -10,3 +11,9 @@ Resumo: The content likely delves into evaluating different AI systems such as C
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#conceito
+<!-- /memoria-agente-graph -->

@@ -1,12 +1,13 @@
 ---
+data: "2026-06-18"
 tags:
-  - telegram
-  - resumo
   - canais
   - loop-engineering
-canal: "durov"
-data: "2026-06-18"
+  - resumo
+  - telegram
+canal: durov
 ---
+
 
 # Telegram_Resumo_durov_2026-06-18
 
@@ -126,3 +127,9 @@ Start building
 - [[Conceitos/Obsidian]]
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#canais #loop-engineering #resumo #telegram
+<!-- /memoria-agente-graph -->

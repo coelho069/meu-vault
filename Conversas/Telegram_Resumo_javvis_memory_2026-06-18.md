@@ -1,12 +1,13 @@
 ---
+data: "2026-06-18"
 tags:
-  - telegram
-  - resumo
   - canais
   - loop-engineering
-canal: "javvis_memory"
-data: "2026-06-18"
+  - resumo
+  - telegram
+canal: javvis_memory
 ---
+
 
 # Telegram_Resumo_javvis_memory_2026-06-18
 
@@ -38,3 +39,9 @@ data: "2026-06-18"
 - [[Conceitos/Obsidian]]
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#canais #loop-engineering #resumo #telegram
+<!-- /memoria-agente-graph -->

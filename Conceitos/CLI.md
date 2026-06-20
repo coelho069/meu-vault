@@ -1,8 +1,9 @@
 ---
+data: "2026-06-18"
 tags:
   - conceito
-data: "2026-06-18"
 ---
+
 
 # CLI
 
@@ -16,3 +17,9 @@ Conversas relacionadas:
 Resumo: O CLI do Twitter está instalado.
 
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#conceito
+<!-- /memoria-agente-graph -->

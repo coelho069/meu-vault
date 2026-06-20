@@ -1,8 +1,9 @@
 ---
+data: "2026-06-19"
 tags:
   - conceito
-data: "2026-06-19"
 ---
+
 
 # Karpathy Wiki
 
@@ -10,3 +11,9 @@ Resumo: /akita podcast ai-memory: memória de longo prazo (Karpathy Wiki) e auto
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#conceito
+<!-- /memoria-agente-graph -->

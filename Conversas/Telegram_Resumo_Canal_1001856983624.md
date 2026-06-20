@@ -1,0 +1,47 @@
+---
+data: "2026-06-18"
+tags:
+  - canais
+  - loop-engineering
+  - resumo
+  - telegram
+canal: id_1001856983624
+---
+
+
+# Telegram_Resumo_id_1001856983624_2026-06-18
+
+**Fonte:** Telethon UserBot (tools/telegram_scraper/user_account.session)
+**Canal:** @id_1001856983624
+**Gerado em:** 2026-06-18T20:40:54+00:00
+
+**Resumo executivo:** Não foi possível coletar mensagens de @id_1001856983624 via UserBot no momento. Verifique tools/telegram_scraper/user_account.session e permissões no canal privado.
+
+**Tópicos principais:**
+- (nenhum tópico identificado)
+
+**Decisões / Insights:**
+- Sessão Telethon ausente/expirada ou canal inacessível para a conta autenticada.
+
+**Conceitos / Tags:** [[Telegram]] [[Llamafile]] [[Canais]] [[Obsidian]] [[Id_1001856983624]] [[Sessão Telethon Ausente/Expirada Ou Cana]]
+**Confiança:** 0.0
+
+## Mensagens coletadas (limpas)
+
+
+> **Aviso:** fallback heurístico local usado (sessão Telethon, Llamafile ou canal privado).
+
+## Referências bidirecionais
+
+- [[Conceitos/Telegram]]
+- [[Conceitos/Llamafile]]
+- [[Conceitos/Canais]]
+- [[Conceitos/Obsidian]]
+
+Gerado por fetch_channel_summary.py (isolado, resiliente).
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#canais #loop-engineering #resumo #telegram
+<!-- /memoria-agente-graph -->
