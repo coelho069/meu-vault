@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # Encontrei
 
@@ -11,10 +10,6 @@ Resumo: Encontrei o registro: o tweet saiu de @1MarcoAurelio2, não de @synmateu
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
-
-
-
-
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]

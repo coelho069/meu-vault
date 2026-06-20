@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # Ser
 
@@ -12,13 +11,9 @@ Resumo: Ser era essa @synmateus
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
-**🧠 Sinapses Neurais:** [[SynMateus_Resumo_Twitter_Post]], [[SynMateus_Vou_Resumo_Conceito]], [[Resumo_Sessao_2026_06]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[Sessao_2026_06_19]]
+**🧠 Sinapses Neurais:** [[SynMateus_Resumo_Twitter_Post]], [[SynMateus_Vou_Resumo_Conceito]], [[Sinapses_Neurais_2]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[Sinapses_Neurais_Memoria]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

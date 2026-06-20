@@ -1,6 +1,6 @@
 ---
 tags:
-  - conceito
+ - conceito
 data: "2026-06-20"
 ---
 

@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # Claude
 
@@ -18,13 +17,9 @@ Resumo: The content likely delves into evaluating different AI systems such as C
 
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[IA_Comparacao_Modelos_Linguisticos]], [[Twitter_Post_Oi_Sessao]], [[Sessao_2026-06-20]], [[Twitter_Post_Oi]], [[Resumo_Sessao_2026_06]]
+**🧠 Sinapses Neurais:** [[IA_Comparacao_Modelos_Linguisticos]], [[Twitter_Post_Oi_Sessao]], [[API_agentes_IA]], [[Twitter_Post_Oi]], [[Sinapses_Neurais_2]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

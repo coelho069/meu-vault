@@ -1,6 +1,6 @@
 ---
 tags:
-  - conceito
+ - conceito
 data: "2026-06-20"
 ---
 
@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[YouTube_Resumo_Sessao_2026_3]], [[YouTube_Skills_Busca_Transcricao_2]], [[YouTube_Resumo_Sessao_2026_4]], [[YouTube_Skills_Resumo_2]], [[Infelizmente_transcriA_fornecida_para]]
+**🧠 Sinapses Neurais:** [[Sinapses_Neurais_Memoria]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_Memoria_2]], [[Sinapses_Neurais_e_Memoria]], [[Infelizmente_transcriA_fornecida_para]]

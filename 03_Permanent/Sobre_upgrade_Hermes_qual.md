@@ -1,9 +1,8 @@
 ---
 data: "2026-06-18"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # Sobre
 
@@ -18,13 +17,9 @@ Resumo: Sobre o upgrade do Hermes, qual a sua dúvida ou necessidade específica
 
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Sessao_2026-06-18]], [[Hermes_Erro_Contexto_Gemma3]], [[Memoria_Agente_Resumo_Conceito]], [[Twitter_Post_Oi_Sessao]], [[telegram_hermes_freebot_Atualizacoes]]
+**🧠 Sinapses Neurais:** [[Hermes_Atualizacao_Usuario]], [[Hermes_Erro_Contexto_Gemma3]], [[Memoria_Agente_Resumo_Conceito]], [[Twitter_Post_Oi_Sessao]], [[telegram_hermes_freebot_Atualizacoes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

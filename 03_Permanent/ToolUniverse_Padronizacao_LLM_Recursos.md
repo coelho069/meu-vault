@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # ToolUniverse
 
@@ -12,13 +11,9 @@ Resumo: - [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) — padro
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_GitHub]]
-**🧠 Sinapses Neurais:** [[base_codigo_atual_faca]], [[GitHub_Conexao_SSH_Credenciais]], [[YouTube_Skills_Busca_Transcricao_2]], [[Twitter_Resumo_Sessao_2026]], [[Twitter_Status_Resumo_Sessao]]
+**🧠 Sinapses Neurais:** [[base_codigo_atual_faca]], [[GitHub_Conexao_SSH_Credenciais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_Memoria_2]], [[Twitter_Status_Resumo_Sessao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

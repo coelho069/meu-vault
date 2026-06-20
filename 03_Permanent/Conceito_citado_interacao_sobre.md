@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # Agente Ol
 
@@ -11,10 +10,6 @@ Resumo: Conceito citado em uma interacao do bot sobre Agente Ol.
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
-
-
-
-
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]

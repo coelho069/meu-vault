@@ -8,7 +8,7 @@ titulo: "MOC Twitter"
 
 Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 
-- [[2026-06-19_Twitter_Conta_Logada]]
+- [[Twitter_Conta_Logada]]
 - [[CLI_Verificacao_e_Instalacao]]
 - [[JSON_Autenticacao_Twitter_CLI]]
 - [[MarcoAurelio_Tweet_Origem_Sessao]]
@@ -17,13 +17,12 @@ Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 - [[SynMateus_Vou_Resumo_Conceito]]
 - [[Tweet_publicado_sucesso]]
 - [[Twitter_Autenticacao]]
-- [[Twitter_Curtidas_SynMateus_2026-06-18]]
+- [[Curtidas_Twitter_SynMateus]]
 - [[Twitter_Post_Oi]]
 - [[Twitter_Post_Oi_Sessao]]
 - [[Twitter_Publicando_Oi]]
 - [[Twitter_Status_Resumo_Sessao]]
-- [[Twitter_Resumo_Sessao_2026]]
-
+- [[Sinapses_Neurais_Memoria_2]]
 
 ---
 **🗺️ Hub:** [[MOC_Master]]

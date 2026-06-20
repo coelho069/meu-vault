@@ -1,9 +1,8 @@
 ---
 data: "2026-06-18"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # Tudo
 
@@ -18,13 +17,9 @@ Resumo: Tudo bem?
 
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Memoria_Agente_Status]], [[Hermes_Erro_Contexto_Gemma3]], [[Twitter_Post_Oi_Sessao]], [[Resumo_Sessao_2026_06]], [[Twitter_Post_Oi]]
+**🧠 Sinapses Neurais:** [[Memoria_Agente_Status]], [[Hermes_Erro_Contexto_Gemma3]], [[Twitter_Post_Oi_Sessao]], [[Sinapses_Neurais_2]], [[Twitter_Post_Oi]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

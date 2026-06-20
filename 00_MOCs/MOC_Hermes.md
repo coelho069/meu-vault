@@ -20,11 +20,10 @@ Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 - [[Memoria_Agente_Ok_Resumo]]
 - [[Memoria_Agente_Status]]
 - [[Primeiro_verifico_skill_redes]]
-- [[Sessao_2026-06-18]]
-- [[Telegram_Resumo_INEMAAGENTES_2026-06-18]]
+- [[Hermes_Atualizacao_Usuario]]
+- [[INEMA_Resumo_Telegram_Sem]]
 - [[gemma3_Contexto_Insuficiente_Falha]]
 - [[telegram_hermes_freebot_Atualizacoes]]
-
 
 ---
 **🗺️ Hub:** [[MOC_Master]]

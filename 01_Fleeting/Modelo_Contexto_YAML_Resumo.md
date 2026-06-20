@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # YAML
 
@@ -17,10 +16,6 @@ Conversas relacionadas:
 Resumo: Choose a model with at least 64K context, or set model.context_length in config.yaml to override.
 
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
-
-
-
-
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]

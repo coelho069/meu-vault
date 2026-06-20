@@ -1,6 +1,6 @@
 ---
 tags:
-  - conceito
+ - conceito
 data: "2026-06-20"
 ---
 
@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[AI_Comparacao_2026_Versus]], [[Telegram_Resumo_durov_2026-06-18]], [[AI_Comparacao_2026_Versus_5]]
+**🧠 Sinapses Neurais:** [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[AI_Comparacao_2026_Versus]], [[Telegram_Atualizacoes_e_Desenvolvimentos]], [[AI_Resumo_2026_Comparativo]]

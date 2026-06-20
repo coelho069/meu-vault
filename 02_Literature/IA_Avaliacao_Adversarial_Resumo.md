@@ -1,10 +1,10 @@
 ---
 data: "2026-06-20"
 tags:
-  - auto
-  - telegram
-  - memoria-agente
-  - hermes
+ - auto
+ - telegram
+ - memoria-agente
+ - hermes
 status: "active"
 titulo: "youtube https---youtu.be-HAkSUBdsd6M-is=nF5ZG2B-nd-i_hVa"
 ---

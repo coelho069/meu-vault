@@ -10,7 +10,7 @@ Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 
 - [[Hermes_Projeto_Teste_Acesso]]
 - [[Hermes_Teste_Memoria_Autonoma]]
-- [[2026-06-19_Twitter_Conta_Logada]]
+- [[Twitter_Conta_Logada]]
 - [[CLI_Verificacao_e_Instalacao]]
 - [[Erro_Hermes_Context_Window]]
 - [[Gemma3_Contexto_Muito_Pequeno]]
@@ -32,9 +32,8 @@ Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 - [[OpenClaw_Marketing_Skills_Resumo]]
 - [[Primeiro_verifico_skill_redes]]
 - [[Proximos_passos_Verificar_atualizar]]
-- [[Sessao_2026-06-18]]
+- [[Hermes_Atualizacao_Usuario]]
 - [[Sobre_upgrade_Hermes_qual]]
-
 
 ---
 **🗺️ Hub:** [[MOC_Master]]

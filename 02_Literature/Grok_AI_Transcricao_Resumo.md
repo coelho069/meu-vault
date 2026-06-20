@@ -3,23 +3,17 @@ data: "2026-06-20"
 titulo: "YouTube Grok AI Aprendizado v1"
 status: active
 tags:
-  - aprendizado
-  - bug
-  - erro
-  - error
-  - falha
-  - fix
-  - hermes
-  - log
-  - memoria-agente
-  - youtube
+ - aprendizado
+ - bug
+ - erro
+ - error
+ - falha
+ - fix
+ - hermes
+ - log
+ - memoria-agente
+ - youtube
 ---
-
-
-
-
-
-
 
 # YouTube_Aprendizado_TAirq97G7ow
 
@@ -97,13 +91,9 @@ Fluxo:
 
 Conclusão: o material disponível não permite aprender o conteúdo real do tutorial, mas permite extrair uma direção útil para o Hermes: transformar comandos de IA em fluxos estruturados com pesquisa atual, controle de tom, geração de conteúdo e registro confiável em memória.
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Grok_AI_Resumo_Transcricao]], [[Grok_Conteudo_Criativo_Avancado_2]], [[Grok_Conteudo_Criativo_Avancado]], [[Sessao_2026-06-20]], [[Grok_Resumo_Transcricao_Hermes]]
+**🧠 Sinapses Neurais:** [[Grok_AI_Resumo_Transcricao]], [[Grok_Aprendizado_Estrategico]], [[Grok_Conteudo_Criativo_Avancado]], [[API_agentes_IA]], [[Grok_Resumo_Transcricao_Hermes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

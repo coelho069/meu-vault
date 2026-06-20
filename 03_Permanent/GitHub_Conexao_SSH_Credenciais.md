@@ -1,9 +1,8 @@
 ---
 data: "2026-06-18"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # GitHub
 
@@ -17,10 +16,6 @@ Conversas relacionadas:
 Resumo: Ok, conecte-se ao GitHub via SSH usando as credenciais fornecidas.
 
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
-
-
-
-
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]

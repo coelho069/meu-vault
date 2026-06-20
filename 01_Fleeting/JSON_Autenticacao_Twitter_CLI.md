@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # JSON
 
@@ -12,13 +11,9 @@ Resumo: | `~/.bashrc` + `cookies.json` | cookies `TWITTER_AUTH_TOKEN` / `TWITTER
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
-**🧠 Sinapses Neurais:** [[2026-06-19_Twitter_Conta_Logada]], [[Twitter_Autenticacao]], [[CLI_Verificacao_e_Instalacao]], [[Resumo_Sessao_2026_06]], [[Sessao_2026-06-19]]
+**🧠 Sinapses Neurais:** [[Twitter_Conta_Logada]], [[Twitter_Autenticacao]], [[CLI_Verificacao_e_Instalacao]], [[Sinapses_Neurais_2]], [[Atualizacao_de_Configuracoes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

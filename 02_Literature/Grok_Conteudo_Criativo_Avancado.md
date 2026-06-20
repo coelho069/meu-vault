@@ -3,21 +3,15 @@ data: "2026-06-20"
 titulo: "YouTube Grok Contexto v2"
 status: active
 tags:
-  - agente
-  - aprendizado
-  - auto
-  - contexto
-  - hermes
-  - memoria-agente
-  - telegram
-  - youtube
+ - agente
+ - aprendizado
+ - auto
+ - contexto
+ - hermes
+ - memoria-agente
+ - telegram
+ - youtube
 ---
-
-
-
-
-
-
 
 # youtube https---youtu.be-TAirq97G7ow-is=qFYjOoI2UoWGUuQ5
 
@@ -48,13 +42,9 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 - **Comparação marketing vs. realidade:** uma técnica útil é cruzar fontes oficiais, que mostram promessas, com relatos de usuários, que mostram problemas práticos.
 - **Escrita com
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado_2]], [[Sessao_2026-06-20]], [[ideia_central_Grok_diferencia]], [[Grok_Resumo_Transcricao_Hermes]], [[Grok_AI_Transcricao_Resumo]]
+**🧠 Sinapses Neurais:** [[Grok_Aprendizado_Estrategico]], [[API_agentes_IA]], [[ideia_central_Grok_diferencia]], [[Grok_Resumo_Transcricao_Hermes]], [[Grok_AI_Transcricao_Resumo]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

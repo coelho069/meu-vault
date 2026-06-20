@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # 2026
 
@@ -18,13 +17,9 @@ Resumo: The video titled "Which AI is Best in 2026?" by Versus provides a compar
 
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
-
-
-
-
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
-**🧠 Sinapses Neurais:** [[AI_Comparacao_2026_Versus]], [[AI_Comparacao_2026_Versus_5]], [[AI_Comparacao_2026_Versus_6]], [[AI_Comparacao_2026_Versus_4]], [[Twitter_Post_Oi_Sessao]]
+**🧠 Sinapses Neurais:** [[AI_Comparacao_2026_Versus]], [[AI_Resumo_2026_Comparativo]], [[IA_Futuro_Comparativo]], [[Comparando_Modelos_de_IA]], [[Twitter_Post_Oi_Sessao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -1,9 +1,8 @@
 ---
 data: "2026-06-19"
 tags:
-  - conceito
+ - conceito
 ---
-
 
 # SynMateus Vou
 
@@ -11,10 +10,6 @@ Resumo: Conceito citado em uma interacao do bot sobre SynMateus Vou.
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
-
-
-
-
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
