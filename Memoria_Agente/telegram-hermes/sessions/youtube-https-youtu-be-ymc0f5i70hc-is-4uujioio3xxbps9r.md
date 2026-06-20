@@ -12,7 +12,7 @@ source: hermes-obsidian
 migrated_from: 2026-06-20_youtube_https_youtu_be_ymc0f5i70hc_is_4uujioio3xxbps9r_190334.md
 ---
 
-# youtube https---youtu.be-YMc0f5i70Hc-is=4uujIOiO3XXBPS9r
+# [[telegram-hermes/sessions/youtube-https-youtu-be-ymc0f5i70hc-is-4uujioio3xxbps9r-r-190404]]
 
 ## Contexto
 

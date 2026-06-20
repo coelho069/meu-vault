@@ -7,7 +7,7 @@ tags:
   - lyt
   - memoria-agente
   - hermes
-created_at: 2026-06-20T23:21:10Z
+created_at: 2026-06-20T23:25:40Z
 source: vault-linter
 ---
 
@@ -15,7 +15,7 @@ source: vault-linter
 
 Mapa de Conteúdo (LYT) autogerado pelo `vault_linter.py`. Hub central para navegação do grafo.
 
-**Última higienização:** 2026-06-20 23:21 UTC
+**Última higienização:** 2026-06-20 23:25 UTC
 **Total de notas:** 65
 
 ## Navegação LYT

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-06-20T23:31:39.071506+00:00",
+  "files_scanned": 66,
+  "synapse_rules": 162,
+  "synapses_created": 59,
+  "orphans_before": 0,
+  "orphans_after": 0,
+  "orphan_backlinks_injected": 0,
+  "mocs_linked": 1,
+  "brain_moc": "/home/ubuntu/telegram-hermes-freebot/obsidian_vault/Memoria_Agente/MOC_Cerebro_Central.md",
+  "total_outbound_links": 409,
+  "total_inbound_links": 409
+}
