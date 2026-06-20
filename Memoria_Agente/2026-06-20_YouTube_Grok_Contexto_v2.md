@@ -1,15 +1,19 @@
 ---
 data: "2026-06-20"
-titulo: "youtube https---youtu.be-TAirq97G7ow-is=qFYjOoI2UoWGUuQ5"
+titulo: "YouTube Grok Contexto v2"
 status: active
 tags:
+  - agente
   - aprendizado
   - auto
+  - contexto
   - hermes
   - memoria-agente
   - telegram
   - youtube
 ---
+
+
 
 
 
@@ -45,5 +49,5 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 
-#aprendizado #auto #hermes #memoria-agente #telegram #youtube
+#agente #aprendizado #auto #contexto #hermes #memoria-agente #telegram #youtube
 <!-- /memoria-agente-graph -->

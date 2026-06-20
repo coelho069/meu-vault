@@ -1,13 +1,17 @@
 ---
 data: "2026-06-20"
-titulo: "2026-06-20 YouTube Aprendizado TAirq97G7ow 055901"
+titulo: "YouTube Grok AI Aprendizado v2"
 status: active
 tags:
+  - agente
   - aprendizado
+  - contexto
   - hermes
   - memoria-agente
   - youtube
 ---
+
+
 
 
 
@@ -94,5 +98,5 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 
-#aprendizado #hermes #memoria-agente #youtube
+#agente #aprendizado #contexto #hermes #memoria-agente #youtube
 <!-- /memoria-agente-graph -->

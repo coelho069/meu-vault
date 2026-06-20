@@ -1,13 +1,21 @@
 ---
 data: "2026-06-20"
-titulo: "2026-06-20 YouTube Aprendizado TAirq97G7ow 052657"
+titulo: "YouTube Grok Erro API"
 status: active
 tags:
   - aprendizado
+  - bug
+  - erro
+  - error
+  - falha
+  - fix
   - hermes
+  - log
   - memoria-agente
   - youtube
 ---
+
+
 
 
 
@@ -26,5 +34,5 @@ Erro Técnico: Modo API ativo: fallback local desabilitado.
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 
-#aprendizado #hermes #memoria-agente #youtube
+#aprendizado #bug #erro #error #falha #fix #hermes #log #memoria-agente #youtube
 <!-- /memoria-agente-graph -->

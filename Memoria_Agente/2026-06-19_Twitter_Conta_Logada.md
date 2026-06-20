@@ -1,6 +1,6 @@
 ---
 data: "2026-06-19"
-titulo: "agora verificar qual conta do Twitter ta logada"
+titulo: "Twitter Conta Logada"
 status: active
 tags:
   - auto
@@ -10,6 +10,8 @@ tags:
   - telegram
   - twitter
 ---
+
+
 
 
 

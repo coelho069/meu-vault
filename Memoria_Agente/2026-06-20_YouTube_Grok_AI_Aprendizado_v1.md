@@ -1,13 +1,21 @@
 ---
 data: "2026-06-20"
-titulo: "2026-06-20 YouTube Aprendizado TAirq97G7ow 054902"
+titulo: "YouTube Grok AI Aprendizado v1"
 status: active
 tags:
   - aprendizado
+  - bug
+  - erro
+  - error
+  - falha
+  - fix
   - hermes
+  - log
   - memoria-agente
   - youtube
 ---
+
+
 
 
 
@@ -90,5 +98,5 @@ Conclusão: o material disponível não permite aprender o conteúdo real do tut
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 
-#aprendizado #hermes #memoria-agente #youtube
+#aprendizado #bug #erro #error #falha #fix #hermes #log #memoria-agente #youtube
 <!-- /memoria-agente-graph -->
