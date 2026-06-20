@@ -1,13 +1,17 @@
 ---
 data: "2026-06-20"
-tags:
-  - auto
-  - telegram
-  - memoria-agente
-  - hermes
-status: "active"
 titulo: "youtube https---youtu.be-TAirq97G7ow-is=qFYjOoI2UoWGUuQ5"
+status: active
+tags:
+  - aprendizado
+  - auto
+  - hermes
+  - memoria-agente
+  - telegram
+  - youtube
 ---
+
+
 
 # youtube https---youtu.be-TAirq97G7ow-is=qFYjOoI2UoWGUuQ5
 
@@ -44,3 +48,9 @@ Conceitos identificáveis a partir da descrição parcial:
 - O diferencial mencionado é não tratar o Grok como se fosse apenas outro ChatGPT.
 - O vídeo valoriza três capacidades: dados ao vivo do X, DeepSearch e tom controlável.
 - O uso sugerido parece ser mais estratégico: transformar Grok em parte de um sistema de pesquisa, escrita e conteúdo
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#aprendizado #auto #hermes #memoria-agente #telegram #youtube
+<!-- /memoria-agente-graph -->

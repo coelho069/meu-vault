@@ -1,13 +1,17 @@
 ---
 data: "2026-06-19"
+titulo: "agora verificar qual conta do Twitter ta logada"
+status: active
 tags:
   - auto
-  - telegram
-  - memoria-agente
   - hermes
-status: "active"
-titulo: "agora verificar qual conta do Twitter ta logada"
+  - memoria-agente
+  - social
+  - telegram
+  - twitter
 ---
+
+
 
 # agora verificar qual conta do Twitter ta logada
 
@@ -45,3 +49,9 @@ Antes (sessão de hoje) estava logado como **@1MarcoAurelio2**; os cookies foram
 Há uma inconsistência no `.env`: `TWITTER_USER_ID=1519721757303033858`, mas o `whoami` retorna `2002457797229965312`. O username está certo; o ID no `.env` parece desatualizado.
 
 O `xurl` não está autenticado (401) — o que importa para o bot é o CLI `twitter`, que está OK como @SynMateus.
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#auto #hermes #memoria-agente #social #telegram #twitter
+<!-- /memoria-agente-graph -->

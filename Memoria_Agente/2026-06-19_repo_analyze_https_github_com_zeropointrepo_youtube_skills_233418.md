@@ -1,13 +1,20 @@
 ---
 data: "2026-06-19"
-tags:
-  - auto
-  - telegram
-  - memoria-agente
-  - hermes
-status: "active"
 titulo: "repo_analyze https---github.com-ZeroPointRepo-youtube-skills"
+status: active
+tags:
+  - analise
+  - aprendizado
+  - auto
+  - github
+  - hermes
+  - memoria-agente
+  - repo
+  - telegram
+  - youtube
 ---
+
+
 
 # repo_analyze https---github.com-ZeroPointRepo-youtube-skills
 
@@ -74,3 +81,9 @@ Benefícios
 O que adiciona:
 - skills reutilizáveis que podem virar comandos ou prompts do Hermes.
 - ferramentas MCP para agentes chamare
+
+<!-- memoria-agente-graph -->
+**Índice:** [[000_INDEX_CENTRAL]]
+
+#analise #aprendizado #auto #github #hermes #memoria-agente #repo #telegram #youtube
+<!-- /memoria-agente-graph -->
