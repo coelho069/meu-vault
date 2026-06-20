@@ -10,3 +10,6 @@ Resumo: Segundo a transcrição, isso é especialmente perigoso em agentes de pr
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
+
+---
+**🧠 Sinapses:** [[Programacao_orientada_objetos]], [[Relatorio_PT_producao]], [[Sessao_de_discussao]], [[Tamb_Resumo]], [[Mensagem_clara_concisa]]
