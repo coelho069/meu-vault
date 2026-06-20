@@ -4,9 +4,9 @@ tags:
 data: "2026-06-20"
 ---
 
-# Spiderfoot
+# SpiderFoot
 
-Resumo: TambÃ©m hÃ¡ a ferramenta Spiderfoot para OSINT.
+Resumo: -  **OSINT:** integrado o SpiderFoot ao Hermes com comandos `/ipcheck`, `/osint` e `/attack_surface`.
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
