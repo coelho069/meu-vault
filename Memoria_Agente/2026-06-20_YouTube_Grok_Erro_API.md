@@ -19,6 +19,7 @@ tags:
 
 
 
+
 # YouTube_Aprendizado_TAirq97G7ow
 
 ## Video

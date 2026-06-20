@@ -13,8 +13,16 @@ status: active
 
 Mapa de Conteúdo (MoC) autogerado pelo agente SRE. Todos os nós linkam de volta para este índice.
 
-**Última reorganização:** 2026-06-20 06:17 UTC
+**Última reorganização:** 2026-06-20 06:18 UTC
 **Total de notas:** 9
+
+## 📺 YouTube
+
+- [[2026-06-20_YouTube_Grok_Erro_API]] — `2026-06-20_YouTube_Grok_Erro_API.md`
+- [[2026-06-20_YouTube_Grok_Contexto_v2]] — `2026-06-20_YouTube_Grok_Contexto_v2.md`
+- [[2026-06-20_YouTube_Grok_Contexto_v1]] — `2026-06-20_YouTube_Grok_Contexto_v1.md`
+- [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]] — `2026-06-20_YouTube_Grok_AI_Aprendizado_v2.md`
+- [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]] — `2026-06-20_YouTube_Grok_AI_Aprendizado_v1.md`
 
 ## 🐦 Twitter / Social
 
@@ -26,15 +34,10 @@ Mapa de Conteúdo (MoC) autogerado pelo agente SRE. Todos os nós linkam de volt
 
 ## ⚠️ Resolução de Erros
 
-- [[2026-06-20_YouTube_Grok_Erro_API]] — `2026-06-20_YouTube_Grok_Erro_API.md`
-- [[2026-06-20_YouTube_Grok_Contexto_v1]] — `2026-06-20_YouTube_Grok_Contexto_v1.md`
-- [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]] — `2026-06-20_YouTube_Grok_AI_Aprendizado_v1.md`
 - [[2026-06-19_Repo_YouTube_Skills]] — `2026-06-19_Repo_YouTube_Skills.md`
 
 ## 💬 Memória Geral
 
-- [[2026-06-20_YouTube_Grok_Contexto_v2]] — `2026-06-20_YouTube_Grok_Contexto_v2.md`
-- [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]] — `2026-06-20_YouTube_Grok_AI_Aprendizado_v2.md`
 - [[2026-06-19_Confirmar_Acesso_Projeto]] — `2026-06-19_Confirmar_Acesso_Projeto.md`
 
 ## Grafo
