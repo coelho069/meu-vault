@@ -5,7 +5,7 @@ tags:
 ---
 
 
-# OpenClaw
+# LeoYeAI
 
 Resumo: - [openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) — 37 skills de marketing para OpenClaw
 

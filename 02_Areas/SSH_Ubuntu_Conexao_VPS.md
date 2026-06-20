@@ -5,7 +5,7 @@ tags:
 ---
 
 
-# Aqui
+# 187
 
 Resumo: Aqui conectar a vps ssh ubuntu@187.84.150.241 -p 2222 e a senha c3Wv2VZ9
 
