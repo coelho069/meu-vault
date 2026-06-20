@@ -33,6 +33,10 @@ tags:
 
 Gerado por fetch_likes_cookie.py (isolado, resiliente).
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Telegram_Resumo_INEMAAGENTES_2026-06-18]], [[Telegram_Resumo_javvis_memory_2026-06-18]], [[Telegram_Resumo_Canal_1002433384436]], [[Telegram_Resumo_Canal_1001856983624]], [[Sessao_2026-06-19]], [[Modo API]], [[SynMateus_Resumo_Twitter_Post]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -12,4 +12,4 @@ Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
 ---
-**🧠 Sinapses:** [[Programacao_orientada_objetos]], [[Relatorio_PT_producao]], [[Sessao_de_discussao]], [[Mensagem_clara_concisa]], [[GANs_gerador_discriminador]]
+**🧠 Sinapses Neurais:** [[MN_Ol_Resumo_da]], [[Conceito_citado_interacao_sobre]], [[Memoria_Agente_Ok_Resumo]], [[SynMateus_Vou_Resumo_Conceito]], [[Sim Sim]], [[Resumo_Sessao_2026_06]], [[RelatA_sobre_YouTube]]

@@ -12,6 +12,10 @@ Resumo: Primeiro verifico o skill de redes sociais e o projeto em `/home/ubuntu/
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Hermes_Bot_Verificacao_Redes]], [[telegram_hermes_freebot_Atualizacoes]], [[2026-06-19_Confirmar_Acesso_Projeto]], [[Resumo_Sessao_2026_06]], [[Dado_transcriA_para_extraA]], [[Hermes_Erro_Contexto_Gemma3]], [[Sessao_2026-06-19]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

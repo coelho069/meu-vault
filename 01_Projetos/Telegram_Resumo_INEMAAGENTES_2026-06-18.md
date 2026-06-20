@@ -40,6 +40,10 @@ canal: INEMAAGENTES
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Telegram_Resumo_javvis_memory_2026-06-18]], [[Telegram_Resumo_Canal_1002433384436]], [[Telegram_Resumo_Canal_1001856983624]], [[Twitter_Curtidas_SynMateus_2026-06-18]], [[Telegram_Resumo_durov_2026-06-18]], [[Sessao_2026-06-19]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

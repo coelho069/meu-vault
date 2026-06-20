@@ -12,4 +12,4 @@ Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
 ---
-**🧠 Sinapses:** [[Relatorio_PT_producao]], [[Tamb_Resumo]], [[Programacao_orientada_objetos]], [[Mensagem_clara_concisa]], [[GANs_gerador_discriminador]]
+**🧠 Sinapses Neurais:** [[YouTube_HAkSUBdsd6M]], [[YouTube_Skills_Resumo]], [[YouTube_Resumo_Sessao_2026]], [[YouTube_TAirq97G7ow]], [[Infelizmente_transcriA_fornecida_para]], [[Resumo_Sessao_2026_06]], [[YouTube_Skills_Busca_Transcricao]]

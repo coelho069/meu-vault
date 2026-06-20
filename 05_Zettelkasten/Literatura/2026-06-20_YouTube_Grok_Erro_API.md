@@ -33,6 +33,10 @@ tags:
 
 Erro Técnico: Modo API ativo: fallback local desabilitado.
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Modo API]], [[YouTube_TAirq97G7ow]], [[Sessao_2026-06-20]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]], [[Extracao_Massiva_Erro_Cloud]], [[Grok_AI_Resumo_Transcricao]], [[Grok_Conteudo_Criativo_Avancado]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

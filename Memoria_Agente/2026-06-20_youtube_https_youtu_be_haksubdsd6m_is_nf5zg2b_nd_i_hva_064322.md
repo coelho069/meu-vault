@@ -34,3 +34,6 @@ A solução apresentada é usar uma arquitetura de desenvolvimento adversarial, 
 - em uma versão mais completa, um agente planejador, que transforma o pedido inicial em uma especificação estruturada.
 
 O vídeo compara essa ideia com GANs, onde um gerador tenta produzir algo convincente e um discriminador tenta detectar falhas. Aplicado a código, o implementador tenta entregar uma solução que pass
+
+---
+**🧠 Sinapses Neurais:** [[2026-06-20_youtube_https_youtu_be_haksubdsd6m_is_nf5zg2b_nd_i_hva_064326]], [[Sessao_2026-06-20]], [[GANs_gerador_discriminador]], [[Vies_de_autoavaliacao]], [[Programacao_orientada_objetos]], [[Mensagem_clara_concisa]], [[Grok_AI_Resumo_Transcricao]]

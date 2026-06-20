@@ -92,6 +92,10 @@ O que adiciona:
 - skills reutilizáveis que podem virar comandos ou prompts do Hermes.
 - ferramentas MCP para agentes chamare
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Sessao_2026-06-19]], [[YouTube_Skills_Busca_Transcricao]], [[YouTube_Skills_Resumo]], [[Openclaw_Marketing_Skills_Resumo]], [[OpenClaw_Marketing_Skills_Resumo]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

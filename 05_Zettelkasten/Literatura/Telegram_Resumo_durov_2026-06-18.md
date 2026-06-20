@@ -128,6 +128,10 @@ Start building
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Sessao_2026-06-20]], [[AI_Comparacao_2026_Versus]], [[2026-06-20_youtube_https_youtu_be_haksubdsd6m_is_nf5zg2b_nd_i_hva_064326]], [[2026-06-20_youtube_https_youtu_be_haksubdsd6m_is_nf5zg2b_nd_i_hva_064322]], [[Mensagem_clara_concisa]], [[IA_Comparacao_Modelos_Linguisticos]], [[Grok_AI_Resumo_Transcricao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

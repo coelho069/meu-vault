@@ -97,6 +97,10 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
    - “onde quebra”;
    - “como aplicar com supervisão humana”.
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]], [[Sessao_2026-06-20]], [[ideia_central_Grok_diferencia]], [[Grok_Resumo_Transcricao_Hermes]], [[Grok_AI_Resumo_Transcricao]], [[Sessao_2026-06-19]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

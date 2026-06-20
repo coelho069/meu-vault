@@ -40,6 +40,10 @@ canal: javvis_memory
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Telegram_Resumo_Canal_1002433384436]], [[Telegram_Resumo_Canal_1001856983624]], [[Telegram_Resumo_INEMAAGENTES_2026-06-18]], [[Twitter_Curtidas_SynMateus_2026-06-18]], [[Sessao_2026-06-19]], [[Sessao_2026-06-20]], [[Telegram_Resumo_durov_2026-06-18]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

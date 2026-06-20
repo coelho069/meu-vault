@@ -12,6 +12,10 @@ Resumo: Ser era essa @synmateus
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[SynMateus_Resumo_Twitter_Post]], [[SynMateus_Vou_Resumo_Conceito]], [[Resumo_Sessao_2026_06]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[Sessao_2026_06_19]], [[GitHub_Conexao]], [[Twitter_Autenticacao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -54,6 +54,10 @@ Há uma inconsistência no `.env`: `TWITTER_USER_ID=1519721757303033858`, mas o 
 
 O `xurl` não está autenticado (401) — o que importa para o bot é o CLI `twitter`, que está OK como @SynMateus.
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Sessao_2026-06-19]], [[SynMateus_Resumo_Twitter_Post]], [[Resumo_da_Conta_Marco]], [[JSON_Autenticacao_Twitter_CLI]], [[CLI_Verificacao_e_Instalacao]], [[SynMateus_Vou_Resumo_Conceito]], [[Twitter_Post_Oi_Sessao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

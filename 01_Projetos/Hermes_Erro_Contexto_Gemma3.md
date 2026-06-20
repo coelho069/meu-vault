@@ -24,6 +24,10 @@ Resumo: ❌ Erro Técnico: returncode=1 stderr=hermes -z: agent failed: Model ge
 
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Hermes Agent]], [[gemma3_Contexto_Insuficiente_Falha]], [[Erro_Hermes_Context_Window]], [[Gemma3_Contexto_Muito_Pequeno]], [[Memoria_Agente_Status]], [[telegram_hermes_freebot_Atualizacoes]], [[Tudo_certo_aqui]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

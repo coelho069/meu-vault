@@ -12,6 +12,10 @@ Resumo: A ideia central é que o Grok se diferencia por combinar acesso a posts 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]], [[Sessao_2026-06-20]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]], [[Grok_AI_Resumo_Transcricao]], [[Grok_Resumo_Transcricao_Hermes]], [[Resumo_Sessao_2026_06]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -18,6 +18,10 @@ Resumo: Ok, conecte-se ao GitHub via SSH usando as credenciais fornecidas.
 
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[GitHub_Conexao_Resumo_Conversas]], [[SSH_Conexao_Instrucoes_Detalhes]], [[GitHub_Conexao]], [[Twitter_Post_Oi_Sessao]], [[CLI_Verificacao_e_Instalacao]], [[Resumo_Sessao_2026_06]], [[YouTube_Skills_Resumo]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

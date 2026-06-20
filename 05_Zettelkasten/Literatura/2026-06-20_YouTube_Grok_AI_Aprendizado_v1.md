@@ -97,6 +97,10 @@ Fluxo:
 
 Conclusão: o material disponível não permite aprender o conteúdo real do tutorial, mas permite extrair uma direção útil para o Hermes: transformar comandos de IA em fluxos estruturados com pesquisa atual, controle de tom, geração de conteúdo e registro confiável em memória.
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Grok_AI_Resumo_Transcricao]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]], [[Grok_Conteudo_Criativo_Avancado]], [[Sessao_2026-06-20]], [[Grok_Resumo_Transcricao_Hermes]], [[ideia_central_Grok_diferencia]], [[Sessao_2026-06-19]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

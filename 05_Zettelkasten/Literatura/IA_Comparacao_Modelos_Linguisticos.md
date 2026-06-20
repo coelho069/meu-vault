@@ -12,6 +12,10 @@ Resumo: The content likely delves into evaluating different AI systems such as C
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[AI_Sistema_Comparativo_Resumo]], [[Sessao_2026-06-20]], [[Telegram_Resumo_durov_2026-06-18]], [[Resumo_Sessao_2026_06]], [[Grok_AI_Resumo_Transcricao]], [[AI_Comparacao_2026_Versus]], [[Grok_Resumo_Transcricao_Hermes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -12,4 +12,4 @@ Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
 ---
-**🧠 Sinapses:** [[Programacao_orientada_objetos]], [[Relatorio_PT_producao]], [[Sessao_de_discussao]], [[Tamb_Resumo]], [[Mensagem_clara_concisa]]
+**🧠 Sinapses Neurais:** [[2026-06-20_youtube_https_youtu_be_haksubdsd6m_is_nf5zg2b_nd_i_hva_064326]], [[2026-06-20_youtube_https_youtu_be_haksubdsd6m_is_nf5zg2b_nd_i_hva_064322]], [[Conceito_citado_interacao_sobre]], [[Sessao_2026-06-20]], [[Resumo_Sessao_2026_06]], [[Memoria_Agente_Status]], [[Programacao_orientada_objetos]]

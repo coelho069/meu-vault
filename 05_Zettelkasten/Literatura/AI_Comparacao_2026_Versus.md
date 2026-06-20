@@ -12,6 +12,10 @@ Resumo: The video titled "Which AI is Best in 2026?" by Versus provides a compar
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[AI_Comparacao_2026_Versus_3]], [[YouTube_Which_AI_Best_2026]], [[AI_Comparacao_2026_Versus_2]], [[Twitter_Post_Oi]], [[Sessao_2026-06-20]], [[Mensagem_clara_concisa]], [[Telegram_Resumo_durov_2026-06-18]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

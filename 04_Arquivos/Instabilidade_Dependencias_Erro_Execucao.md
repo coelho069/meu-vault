@@ -12,6 +12,10 @@ Resumo: *   **Problemas:** A execução está instável devido a erros de depend
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
 
+
+
+---
+**🧠 Sinapses Neurais:** [[Resumo_Sessao_2026_06]], [[CLI_Verificacao_e_Instalacao]], [[GitHub_CLI_Verificacao_Instalacao]], [[Sessao_2026_06_19]], [[GitHub_Conexao]], [[Twitter_Autenticacao]], [[Entao_acessar]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 
