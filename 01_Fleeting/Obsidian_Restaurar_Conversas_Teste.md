@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Sync_Obsidian_Verificacao_Post]], [[Resumo_Sessao_2026_06]], [[Sessao_2026_06_19]], [[2026-06-19_Confirmar_Acesso_Projeto]], [[GitHub_Conexao]]
+**🧠 Sinapses Neurais:** [[Sync_Obsidian_Verificacao_Post]], [[Resumo_Sessao_2026_06]], [[Sessao_2026_06_19]], [[Hermes_Projeto_Teste_Acesso]], [[GitHub_Conexao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

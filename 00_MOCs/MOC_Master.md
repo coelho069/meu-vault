@@ -8,8 +8,8 @@ titulo: "MOC Master"
 
 Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 
-- [[2026-06-19_Confirmar_Acesso_Projeto]]
-- [[2026-06-19_Teste_Memoria_Autonoma]]
+- [[Hermes_Projeto_Teste_Acesso]]
+- [[Hermes_Teste_Memoria_Autonoma]]
 - [[2026-06-19_Twitter_Conta_Logada]]
 - [[CLI_Verificacao_e_Instalacao]]
 - [[Erro_Hermes_Context_Window]]

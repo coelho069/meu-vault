@@ -9,9 +9,9 @@ titulo: "MOC Infraestrutura"
 Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 
 - [[SSH_Ubuntu_Conexao_VPS]]
-- [[SSH_Ubuntu_Conexao_VPS_2]]
+- [[SSH_Ubuntu_VPS_Conexao_3]]
 - [[SSH_Ubuntu_VPS_Conexao]]
-- [[SSH_Ubuntu_VPS_Conexao_2]]
+- [[VPS_SSH_Ubuntu_Conexao]]
 - [[Sessao_2026-06-19]]
 - [[VPS_SSH_Conexao]]
 

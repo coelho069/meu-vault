@@ -37,4 +37,4 @@ O vídeo compara essa ideia com GANs, onde um gerador tenta produzir algo convin
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[IA_avaliacao_adversarial_2]], [[GANs_gerador_discriminador]], [[Vies_de_autoavaliacao]], [[Programacao_orientada_objetos]], [[Mensagem_clara_concisa]]
+**🧠 Sinapses Neurais:** [[IA_Avaliacao_Adversarial_Resumo]], [[GANs_gerador_discriminador]], [[Vies_de_autoavaliacao]], [[Programacao_orientada_objetos]], [[Mensagem_clara_concisa]]

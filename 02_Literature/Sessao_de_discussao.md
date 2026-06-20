@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[YouTube_HAkSUBdsd6M]], [[YouTube_Skills_Resumo]], [[YouTube_TAirq97G7ow]], [[YouTube_Resumo_Sessao_2026]], [[Infelizmente_transcriA_fornecida_para]]
+**🧠 Sinapses Neurais:** [[YouTube_Resumo_Sessao_2026_3]], [[YouTube_Skills_Busca_Transcricao_2]], [[YouTube_Resumo_Sessao_2026_4]], [[YouTube_Skills_Resumo_2]], [[Infelizmente_transcriA_fornecida_para]]

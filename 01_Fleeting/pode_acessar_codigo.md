@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Sim Sim]], [[Entao_acessar]], [[VPS_Acesso_Resumo_Conversas]], [[Resumo_Sessao_2026_06]], [[Voce_acesso_pela]]
+**🧠 Sinapses Neurais:** [[Sim Sim]], [[Sessao_2026_06_19_3]], [[VPS_Acesso_Resumo_Conversas]], [[Resumo_Sessao_2026_06]], [[Voce_acesso_pela]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

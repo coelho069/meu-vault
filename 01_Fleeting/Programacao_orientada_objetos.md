@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[IA_avaliacao_adversarial_2]], [[IA_avaliacao_adversarial]], [[base_codigo_atual_faca]], [[Resumo_Sessao_2026_06]], [[GANs_gerador_discriminador]]
+**🧠 Sinapses Neurais:** [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[base_codigo_atual_faca]], [[Resumo_Sessao_2026_06]], [[GANs_gerador_discriminador]]

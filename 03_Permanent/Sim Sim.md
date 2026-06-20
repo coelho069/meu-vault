@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[pode_acessar_codigo]], [[MN_Ol_Resumo_da]], [[Conceito_citado_interacao_sobre]], [[Memoria_Agente_Ok_Resumo]], [[SynMateus_Vou_Resumo_Conceito]]
+**🧠 Sinapses Neurais:** [[pode_acessar_codigo]], [[Memoria_Agente_Resumo_Conceito]], [[Conceito_citado_interacao_sobre]], [[Memoria_Agente_Ok_Resumo]], [[SynMateus_Vou_Resumo_Conceito]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

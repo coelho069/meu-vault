@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
-**🧠 Sinapses Neurais:** [[MN_Ol_Resumo_da]], [[Conceito_citado_interacao_sobre]], [[SynMateus_Resumo_Twitter_Post]], [[Memoria_Agente_Ok_Resumo]], [[Tamb_Resumo]]
+**🧠 Sinapses Neurais:** [[Memoria_Agente_Resumo_Conceito]], [[Conceito_citado_interacao_sobre]], [[SynMateus_Resumo_Twitter_Post]], [[Memoria_Agente_Ok_Resumo]], [[Tamb_Resumo_Conceitos_Interacao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

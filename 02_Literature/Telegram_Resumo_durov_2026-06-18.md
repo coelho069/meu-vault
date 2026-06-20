@@ -134,7 +134,7 @@ Gerado por fetch_channel_summary.py (isolado, resiliente).
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[AI_Comparacao_2026_Versus]], [[Sessao_2026-06-20]], [[IA_avaliacao_adversarial_2]], [[IA_avaliacao_adversarial]], [[IA_Comparacao_Modelos_Linguisticos]]
+**🧠 Sinapses Neurais:** [[AI_Comparacao_2026_Versus]], [[Sessao_2026-06-20]], [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[IA_Comparacao_Modelos_Linguisticos]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

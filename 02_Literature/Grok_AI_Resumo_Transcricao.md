@@ -65,7 +65,7 @@ Conceitos identificáveis a partir da descrição parcial:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]], [[Grok_Conteudo_Criativo_Avancado]], [[Sessao_2026-06-20]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]], [[IA_avaliacao_adversarial_2]]
+**🧠 Sinapses Neurais:** [[Grok_AI_Transcricao_Resumo]], [[Grok_Conteudo_Criativo_Avancado]], [[Sessao_2026-06-20]], [[Grok_Conteudo_Criativo_Avancado_2]], [[IA_Avaliacao_Adversarial_Resumo]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

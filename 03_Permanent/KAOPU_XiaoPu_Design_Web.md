@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[ideia_central_Grok_diferencia]], [[GitHub_Conexao_SSH_Credenciais]], [[GitHub_Conexao]], [[Resumo_Sessao_2026_06]], [[YouTube_Skills_Resumo]]
+**🧠 Sinapses Neurais:** [[ideia_central_Grok_diferencia]], [[GitHub_Conexao_SSH_Credenciais]], [[GitHub_Conexao]], [[Resumo_Sessao_2026_06]], [[YouTube_Skills_Busca_Transcricao_2]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

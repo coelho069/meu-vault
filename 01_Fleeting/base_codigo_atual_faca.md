@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Memoria_Agente]], [[Resumo_Sessao_2026_06]], [[Programacao_orientada_objetos]], [[MN_Ol_Resumo_da]], [[Twitter_Status_2068038101222469871_v2]]
+**🧠 Sinapses Neurais:** [[Memoria_Agente]], [[Resumo_Sessao_2026_06]], [[Programacao_orientada_objetos]], [[Memoria_Agente_Resumo_Conceito]], [[Twitter_Resumo_Sessao_2026]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Infraestrutura]]
-**🧠 Sinapses Neurais:** [[VPS_SSH_Conexao]], [[SSH_Ubuntu_Conexao_VPS_2]], [[SSH_Ubuntu_VPS_Conexao_2]], [[SSH_Ubuntu_Conexao_VPS]], [[SSH_Conexao_Instrucoes_Detalhes]]
+**🧠 Sinapses Neurais:** [[VPS_SSH_Conexao]], [[SSH_Ubuntu_VPS_Conexao_3]], [[VPS_SSH_Ubuntu_Conexao]], [[SSH_Ubuntu_Conexao_VPS]], [[SSH_Conexao_Instrucoes_Detalhes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

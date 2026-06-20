@@ -8,10 +8,10 @@ titulo: "MOC Hermes"
 
 Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 
-- [[2026-06-19_Confirmar_Acesso_Projeto]]
-- [[2026-06-19_Teste_Memoria_Autonoma]]
+- [[Hermes_Projeto_Teste_Acesso]]
+- [[Hermes_Teste_Memoria_Autonoma]]
 - [[Conceito_citado_interacao_sobre]]
-- [[Dado_transcriA_para_extraA]]
+- [[Transcricao_Inutil_Para_Projeto]]
 - [[Erro_Hermes_Context_Window]]
 - [[Gemma3_Contexto_Muito_Pequeno]]
 - [[Hermes Agent]]

@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[IA_avaliacao_adversarial_2]], [[IA_avaliacao_adversarial]], [[Conceito_citado_interacao_sobre]], [[Memoria_Agente_Status]], [[Resumo_Sessao_2026_06]]
+**🧠 Sinapses Neurais:** [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[Conceito_citado_interacao_sobre]], [[Memoria_Agente_Status]], [[Resumo_Sessao_2026_06]]

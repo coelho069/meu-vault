@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[Modo API]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v1]], [[Resumo_Sessao_2026_06]]
+**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[Modo API]], [[Grok_Conteudo_Criativo_Avancado_2]], [[Grok_AI_Transcricao_Resumo]], [[Resumo_Sessao_2026_06]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

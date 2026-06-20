@@ -24,7 +24,7 @@ Resumo: The video titled "Which AI is Best in 2026?" by Versus provides a compar
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
-**🧠 Sinapses Neurais:** [[AI_Comparacao_2026_Versus]], [[AI_Comparacao_2026_Versus_3]], [[YouTube_Which_AI_Best_2026]], [[AI_Comparacao_2026_Versus_2]], [[Twitter_Post_Oi_Sessao]]
+**🧠 Sinapses Neurais:** [[AI_Comparacao_2026_Versus]], [[AI_Comparacao_2026_Versus_5]], [[AI_Comparacao_2026_Versus_6]], [[AI_Comparacao_2026_Versus_4]], [[Twitter_Post_Oi_Sessao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

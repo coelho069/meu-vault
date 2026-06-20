@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[OpenClaw_Marketing_Skills_Resumo]], [[Resumo_Sessao_2026_06]], [[2026-06-20_YouTube_Grok_AI_Aprendizado_v2]], [[base_codigo_atual_faca]]
+**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[OpenClaw_Marketing_Skills_Resumo]], [[Resumo_Sessao_2026_06]], [[Grok_Conteudo_Criativo_Avancado_2]], [[base_codigo_atual_faca]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

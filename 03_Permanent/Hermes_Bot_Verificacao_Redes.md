@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]
-**🧠 Sinapses Neurais:** [[Primeiro_verifico_skill_redes]], [[telegram_hermes_freebot_Atualizacoes]], [[2026-06-19_Confirmar_Acesso_Projeto]], [[Resumo_Sessao_2026_06]], [[Dado_transcriA_para_extraA]]
+**🧠 Sinapses Neurais:** [[Primeiro_verifico_skill_redes]], [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Projeto_Teste_Acesso]], [[Resumo_Sessao_2026_06]], [[Transcricao_Inutil_Para_Projeto]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

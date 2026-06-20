@@ -21,8 +21,8 @@ Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 - [[Twitter_Post_Oi]]
 - [[Twitter_Post_Oi_Sessao]]
 - [[Twitter_Publicando_Oi]]
-- [[Twitter_Status_2068038101222469871]]
-- [[Twitter_Status_2068038101222469871_v2]]
+- [[Twitter_Status_Resumo_Sessao]]
+- [[Twitter_Resumo_Sessao_2026]]
 
 
 ---

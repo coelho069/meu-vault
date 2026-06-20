@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[2026-06-20_YouTube_Grok_Erro_API]], [[API_Resumo_Transcricao_Limitada]], [[Extracao_Massiva_Erro_Cloud]], [[Resumo_Sessao_2026_06]], [[Hermes_Erro_Contexto_Gemma3]]
+**🧠 Sinapses Neurais:** [[Erro_API_YouTube]], [[API_Resumo_Transcricao_Limitada]], [[Extracao_Massiva_Erro_Cloud]], [[Resumo_Sessao_2026_06]], [[Hermes_Erro_Contexto_Gemma3]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

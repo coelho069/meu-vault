@@ -18,7 +18,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Resumo_Sessao_2026_06]], [[Dado_transcriA_para_extraA]], [[Sessao_2026-06-20]], [[YouTube_HAkSUBdsd6M]], [[Sessao_de_discussao]]
+**🧠 Sinapses Neurais:** [[Resumo_Sessao_2026_06]], [[Transcricao_Inutil_Para_Projeto]], [[Sessao_2026-06-20]], [[YouTube_Resumo_Sessao_2026_3]], [[Sessao_de_discussao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

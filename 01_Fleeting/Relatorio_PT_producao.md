@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Resumo_Sessao_2026_06]], [[IA_avaliacao_adversarial_2]], [[IA_avaliacao_adversarial]], [[Sessao_2026_06_19]], [[Mensagem_clara_concisa]]
+**🧠 Sinapses Neurais:** [[Resumo_Sessao_2026_06]], [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[Sessao_2026_06_19]], [[Mensagem_clara_concisa]]
