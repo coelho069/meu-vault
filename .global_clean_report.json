@@ -1,0 +1,536 @@
+{
+  "timestamp": "2026-06-20T06:25:45.808549+00:00",
+  "renamed": [
+    {
+      "old_path": "2026-06-19.md",
+      "new_path": "Nota_Vazia_2026_06_19.md",
+      "old_stem": "2026-06-19",
+      "new_stem": "Nota_Vazia_2026_06_19",
+      "old_rel": "2026-06-19",
+      "new_rel": "Nota_Vazia_2026_06_19"
+    },
+    {
+      "old_path": "Conceitos/000.md",
+      "new_path": "Conceitos/Erro_Hermes_Context_Window.md",
+      "old_stem": "000",
+      "new_stem": "Erro_Hermes_Context_Window",
+      "old_rel": "Conceitos/000",
+      "new_rel": "Conceitos/Erro_Hermes_Context_Window"
+    },
+    {
+      "old_path": "Conceitos/150.md",
+      "new_path": "Conceitos/VPS_SSH_Conexao.md",
+      "old_stem": "150",
+      "new_stem": "VPS_SSH_Conexao",
+      "old_rel": "Conceitos/150",
+      "new_rel": "Conceitos/VPS_SSH_Conexao"
+    },
+    {
+      "old_path": "Conceitos/187.md",
+      "new_path": "Conceitos/VPS_SSH_Conexao_v2.md",
+      "old_stem": "187",
+      "new_stem": "VPS_SSH_Conexao_v2",
+      "old_rel": "Conceitos/187",
+      "new_rel": "Conceitos/VPS_SSH_Conexao_v2"
+    },
+    {
+      "old_path": "Conceitos/192.md",
+      "new_path": "Conceitos/Erro_Hermes_Context_Window_v2.md",
+      "old_stem": "192",
+      "new_stem": "Erro_Hermes_Context_Window_v2",
+      "old_rel": "Conceitos/192",
+      "new_rel": "Conceitos/Erro_Hermes_Context_Window_v2"
+    },
+    {
+      "old_path": "Conceitos/2026.md",
+      "new_path": "Conceitos/Twitter_Post_Oi.md",
+      "old_stem": "2026",
+      "new_stem": "Twitter_Post_Oi",
+      "old_rel": "Conceitos/2026",
+      "new_rel": "Conceitos/Twitter_Post_Oi"
+    },
+    {
+      "old_path": "Conceitos/2068038101222469871.md",
+      "new_path": "Conceitos/Twitter_Status_2068038101222469871.md",
+      "old_stem": "2068038101222469871",
+      "new_stem": "Twitter_Status_2068038101222469871",
+      "old_rel": "Conceitos/2068038101222469871",
+      "new_rel": "Conceitos/Twitter_Status_2068038101222469871"
+    },
+    {
+      "old_path": "Conceitos/2222.md",
+      "new_path": "Conceitos/VPS_SSH_Conexao_v3.md",
+      "old_stem": "2222",
+      "new_stem": "VPS_SSH_Conexao_v3",
+      "old_rel": "Conceitos/2222",
+      "new_rel": "Conceitos/VPS_SSH_Conexao_v3"
+    },
+    {
+      "old_path": "Conceitos/241.md",
+      "new_path": "Conceitos/VPS_SSH_Conexao_v4.md",
+      "old_stem": "241",
+      "new_stem": "VPS_SSH_Conexao_v4",
+      "old_rel": "Conceitos/241",
+      "new_rel": "Conceitos/VPS_SSH_Conexao_v4"
+    },
+    {
+      "old_path": "Conceitos/Agente Ol.md",
+      "new_path": "Conceitos/Conceito_citado_interacao_sobre.md",
+      "old_stem": "Agente Ol",
+      "new_stem": "Conceito_citado_interacao_sobre",
+      "old_rel": "Conceitos/Agente Ol",
+      "new_rel": "Conceitos/Conceito_citado_interacao_sobre"
+    },
+    {
+      "old_path": "Conceitos/Aqui.md",
+      "new_path": "Conceitos/VPS_SSH_Conexao_v5.md",
+      "old_stem": "Aqui",
+      "new_stem": "VPS_SSH_Conexao_v5",
+      "old_rel": "Conceitos/Aqui",
+      "new_rel": "Conceitos/VPS_SSH_Conexao_v5"
+    },
+    {
+      "old_path": "Conceitos/Autentica.md",
+      "new_path": "Conceitos/Twitter_Autenticacao.md",
+      "old_stem": "Autentica",
+      "new_stem": "Twitter_Autenticacao",
+      "old_rel": "Conceitos/Autentica",
+      "new_rel": "Conceitos/Twitter_Autenticacao"
+    },
+    {
+      "old_path": "Conceitos/Best.md",
+      "new_path": "Conceitos/YouTube_Which_AI_Best_2026.md",
+      "old_stem": "Best",
+      "new_stem": "YouTube_Which_AI_Best_2026",
+      "old_rel": "Conceitos/Best",
+      "new_rel": "Conceitos/YouTube_Which_AI_Best_2026"
+    },
+    {
+      "old_path": "Conceitos/Com.md",
+      "new_path": "Conceitos/base_codigo_atual_faca.md",
+      "old_stem": "Com",
+      "new_stem": "base_codigo_atual_faca",
+      "old_rel": "Conceitos/Com",
+      "new_rel": "Conceitos/base_codigo_atual_faca"
+    },
+    {
+      "old_path": "Conceitos/Compara.md",
+      "new_path": "Conceitos/comparar_promessas_marketing_relatos.md",
+      "old_stem": "Compara",
+      "new_stem": "comparar_promessas_marketing_relatos",
+      "old_rel": "Conceitos/Compara",
+      "new_rel": "Conceitos/comparar_promessas_marketing_relatos"
+    },
+    {
+      "old_path": "Conceitos/Conectar.md",
+      "new_path": "Conceitos/GitHub_Conexao.md",
+      "old_stem": "Conectar",
+      "new_stem": "GitHub_Conexao",
+      "old_rel": "Conceitos/Conectar",
+      "new_rel": "Conceitos/GitHub_Conexao"
+    },
+    {
+      "old_path": "Conceitos/Conecte-se.md",
+      "new_path": "Conceitos/VPS_SSH_Conexao_v6.md",
+      "old_stem": "Conecte-se",
+      "new_stem": "VPS_SSH_Conexao_v6",
+      "old_rel": "Conceitos/Conecte-se",
+      "new_rel": "Conceitos/VPS_SSH_Conexao_v6"
+    },
+    {
+      "old_path": "Conceitos/Conecte.md",
+      "new_path": "Conceitos/GitHub_Conexao_v2.md",
+      "old_stem": "Conecte",
+      "new_stem": "GitHub_Conexao_v2",
+      "old_rel": "Conceitos/Conecte",
+      "new_rel": "Conceitos/GitHub_Conexao_v2"
+    },
+    {
+      "old_path": "Conceitos/Conta.md",
+      "new_path": "Conceitos/Twitter_Post_Oi_v2.md",
+      "old_stem": "Conta",
+      "new_stem": "Twitter_Post_Oi_v2",
+      "old_rel": "Conceitos/Conta",
+      "new_rel": "Conceitos/Twitter_Post_Oi_v2"
+    },
+    {
+      "old_path": "Conceitos/Dado.md",
+      "new_path": "Conceitos/Dado_transcriA_para_extraA.md",
+      "old_stem": "Dado",
+      "new_stem": "Dado_transcriA_para_extraA",
+      "old_rel": "Conceitos/Dado",
+      "new_rel": "Conceitos/Dado_transcriA_para_extraA"
+    },
+    {
+      "old_path": "Conceitos/Deep.md",
+      "new_path": "Conceitos/usar_deep_search_para.md",
+      "old_stem": "Deep",
+      "new_stem": "usar_deep_search_para",
+      "old_rel": "Conceitos/Deep",
+      "new_rel": "Conceitos/usar_deep_search_para"
+    },
+    {
+      "old_path": "Conceitos/Desculpe.md",
+      "new_path": "Conceitos/Desculpe_consegui_gerar_resposta.md",
+      "old_stem": "Desculpe",
+      "new_stem": "Desculpe_consegui_gerar_resposta",
+      "old_rel": "Conceitos/Desculpe",
+      "new_rel": "Conceitos/Desculpe_consegui_gerar_resposta"
+    },
+    {
+      "old_path": "Conceitos/Diagn.md",
+      "new_path": "Conceitos/Diagnostico_Dependencias.md",
+      "old_stem": "Diagn",
+      "new_stem": "Diagnostico_Dependencias",
+      "old_rel": "Conceitos/Diagn",
+      "new_rel": "Conceitos/Diagnostico_Dependencias"
+    },
+    {
+      "old_path": "Conceitos/Encontrei.md",
+      "new_path": "Conceitos/Twitter_Post_Oi_v3.md",
+      "old_stem": "Encontrei",
+      "new_stem": "Twitter_Post_Oi_v3",
+      "old_rel": "Conceitos/Encontrei",
+      "new_rel": "Conceitos/Twitter_Post_Oi_v3"
+    },
+    {
+      "old_path": "Conceitos/Ent.md",
+      "new_path": "Conceitos/Entao_acessar.md",
+      "old_stem": "Ent",
+      "new_stem": "Entao_acessar",
+      "old_rel": "Conceitos/Ent",
+      "new_rel": "Conceitos/Entao_acessar"
+    },
+    {
+      "old_path": "Conceitos/Falta.md",
+      "new_path": "Conceitos/Diagnostico_Dependencias_v2.md",
+      "old_stem": "Falta",
+      "new_stem": "Diagnostico_Dependencias_v2",
+      "old_rel": "Conceitos/Falta",
+      "new_rel": "Conceitos/Diagnostico_Dependencias_v2"
+    },
+    {
+      "old_path": "Conceitos/HAkSUBdsd6M.md",
+      "new_path": "Conceitos/YouTube_HAkSUBdsd6M.md",
+      "old_stem": "HAkSUBdsd6M",
+      "new_stem": "YouTube_HAkSUBdsd6M",
+      "old_rel": "Conceitos/HAkSUBdsd6M",
+      "new_rel": "Conceitos/YouTube_HAkSUBdsd6M"
+    },
+    {
+      "old_path": "Conceitos/Infelizmente.md",
+      "new_path": "Conceitos/Infelizmente_transcriA_fornecida_para.md",
+      "old_stem": "Infelizmente",
+      "new_stem": "Infelizmente_transcriA_fornecida_para",
+      "old_rel": "Conceitos/Infelizmente",
+      "new_rel": "Conceitos/Infelizmente_transcriA_fornecida_para"
+    },
+    {
+      "old_path": "Conceitos/Link.md",
+      "new_path": "Conceitos/Twitter_Status_2068038101222469871_v2.md",
+      "old_stem": "Link",
+      "new_stem": "Twitter_Status_2068038101222469871_v2",
+      "old_rel": "Conceitos/Link",
+      "new_rel": "Conceitos/Twitter_Status_2068038101222469871_v2"
+    },
+    {
+      "old_path": "Conceitos/MN Ol.md",
+      "new_path": "Conceitos/Conceito_citado_interacao_sobre_v2.md",
+      "old_stem": "MN Ol",
+      "new_stem": "Conceito_citado_interacao_sobre_v2",
+      "old_rel": "Conceitos/MN Ol",
+      "new_rel": "Conceitos/Conceito_citado_interacao_sobre_v2"
+    },
+    {
+      "old_path": "Conceitos/Mem.md",
+      "new_path": "Conceitos/Memoria_Agente_Status.md",
+      "old_stem": "Mem",
+      "new_stem": "Memoria_Agente_Status",
+      "old_rel": "Conceitos/Mem",
+      "new_rel": "Conceitos/Memoria_Agente_Status"
+    },
+    {
+      "old_path": "Conceitos/Memoria_Agente Ok.md",
+      "new_path": "Conceitos/Conceito_citado_interacao_sobre_v3.md",
+      "old_stem": "Memoria_Agente Ok",
+      "new_stem": "Conceito_citado_interacao_sobre_v3",
+      "old_rel": "Conceitos/Memoria_Agente Ok",
+      "new_rel": "Conceitos/Conceito_citado_interacao_sobre_v3"
+    },
+    {
+      "old_path": "Conceitos/Model.md",
+      "new_path": "Conceitos/Erro_Hermes_Context_Window_v3.md",
+      "old_stem": "Model",
+      "new_stem": "Erro_Hermes_Context_Window_v3",
+      "old_rel": "Conceitos/Model",
+      "new_rel": "Conceitos/Erro_Hermes_Context_Window_v3"
+    },
+    {
+      "old_path": "Conceitos/Pesquisa.md",
+      "new_path": "Conceitos/ideia_central_Grok_diferencia.md",
+      "old_stem": "Pesquisa",
+      "new_stem": "ideia_central_Grok_diferencia",
+      "old_rel": "Conceitos/Pesquisa",
+      "new_rel": "Conceitos/ideia_central_Grok_diferencia"
+    },
+    {
+      "old_path": "Conceitos/Poderia.md",
+      "new_path": "Conceitos/Poderia_especificar.md",
+      "old_stem": "Poderia",
+      "new_stem": "Poderia_especificar",
+      "old_rel": "Conceitos/Poderia",
+      "new_rel": "Conceitos/Poderia_especificar"
+    },
+    {
+      "old_path": "Conceitos/Primeiro.md",
+      "new_path": "Conceitos/Primeiro_verifico_skill_redes.md",
+      "old_stem": "Primeiro",
+      "new_stem": "Primeiro_verifico_skill_redes",
+      "old_rel": "Conceitos/Primeiro",
+      "new_rel": "Conceitos/Primeiro_verifico_skill_redes"
+    },
+    {
+      "old_path": "Conceitos/Problemas.md",
+      "new_path": "Conceitos/Diagnostico_Dependencias_v3.md",
+      "old_stem": "Problemas",
+      "new_stem": "Diagnostico_Dependencias_v3",
+      "old_rel": "Conceitos/Problemas",
+      "new_rel": "Conceitos/Diagnostico_Dependencias_v3"
+    },
+    {
+      "old_path": "Conceitos/Publicando.md",
+      "new_path": "Conceitos/Twitter_Publicando_Oi.md",
+      "old_stem": "Publicando",
+      "new_stem": "Twitter_Publicando_Oi",
+      "old_rel": "Conceitos/Publicando",
+      "new_rel": "Conceitos/Twitter_Publicando_Oi"
+    },
+    {
+      "old_path": "Conceitos/Relat.md",
+      "new_path": "Conceitos/RelatA_sobre_YouTube.md",
+      "old_stem": "Relat",
+      "new_stem": "RelatA_sobre_YouTube",
+      "old_rel": "Conceitos/Relat",
+      "new_rel": "Conceitos/RelatA_sobre_YouTube"
+    },
+    {
+      "old_path": "Conceitos/SSH.md",
+      "new_path": "Conceitos/VPS_SSH_Conexao_v7.md",
+      "old_stem": "SSH",
+      "new_stem": "VPS_SSH_Conexao_v7",
+      "old_rel": "Conceitos/SSH",
+      "new_rel": "Conceitos/VPS_SSH_Conexao_v7"
+    },
+    {
+      "old_path": "Conceitos/Salvo.md",
+      "new_path": "Conceitos/Salvo_Memoria_Agente.md",
+      "old_stem": "Salvo",
+      "new_stem": "Salvo_Memoria_Agente",
+      "old_rel": "Conceitos/Salvo",
+      "new_rel": "Conceitos/Salvo_Memoria_Agente"
+    },
+    {
+      "old_path": "Conceitos/Ser.md",
+      "new_path": "Conceitos/Twitter_Post_Oi_v4.md",
+      "old_stem": "Ser",
+      "new_stem": "Twitter_Post_Oi_v4",
+      "old_rel": "Conceitos/Ser",
+      "new_rel": "Conceitos/Twitter_Post_Oi_v4"
+    },
+    {
+      "old_path": "Conceitos/Sim.md",
+      "new_path": "Conceitos/pode_acessar_codigo.md",
+      "old_stem": "Sim",
+      "new_stem": "pode_acessar_codigo",
+      "old_rel": "Conceitos/Sim",
+      "new_rel": "Conceitos/pode_acessar_codigo"
+    },
+    {
+      "old_path": "Conceitos/Sobre.md",
+      "new_path": "Conceitos/Sobre_upgrade_Hermes_qual.md",
+      "old_stem": "Sobre",
+      "new_stem": "Sobre_upgrade_Hermes_qual",
+      "old_rel": "Conceitos/Sobre",
+      "new_rel": "Conceitos/Sobre_upgrade_Hermes_qual"
+    },
+    {
+      "old_path": "Conceitos/SynMateus Vou.md",
+      "new_path": "Conceitos/Conceito_citado_interacao_sobre_v4.md",
+      "old_stem": "SynMateus Vou",
+      "new_stem": "Conceito_citado_interacao_sobre_v4",
+      "old_rel": "Conceitos/SynMateus Vou",
+      "new_rel": "Conceitos/Conceito_citado_interacao_sobre_v4"
+    },
+    {
+      "old_path": "Conceitos/TAirq97G7ow.md",
+      "new_path": "Conceitos/YouTube_TAirq97G7ow.md",
+      "old_stem": "TAirq97G7ow",
+      "new_stem": "YouTube_TAirq97G7ow",
+      "old_rel": "Conceitos/TAirq97G7ow",
+      "new_rel": "Conceitos/YouTube_TAirq97G7ow"
+    },
+    {
+      "old_path": "Conceitos/Tente.md",
+      "new_path": "Conceitos/Tente_novamente_instantes.md",
+      "old_stem": "Tente",
+      "new_stem": "Tente_novamente_instantes",
+      "old_rel": "Conceitos/Tente",
+      "new_rel": "Conceitos/Tente_novamente_instantes"
+    },
+    {
+      "old_path": "Conceitos/The.md",
+      "new_path": "Conceitos/YouTube_Which_AI_Best_2026_v2.md",
+      "old_stem": "The",
+      "new_stem": "YouTube_Which_AI_Best_2026_v2",
+      "old_rel": "Conceitos/The",
+      "new_rel": "Conceitos/YouTube_Which_AI_Best_2026_v2"
+    },
+    {
+      "old_path": "Conceitos/Tudo.md",
+      "new_path": "Conceitos/Tudo_certo_aqui.md",
+      "old_stem": "Tudo",
+      "new_stem": "Tudo_certo_aqui",
+      "old_rel": "Conceitos/Tudo",
+      "new_rel": "Conceitos/Tudo_certo_aqui"
+    },
+    {
+      "old_path": "Conceitos/Tweet.md",
+      "new_path": "Conceitos/Tweet_publicado_sucesso.md",
+      "old_stem": "Tweet",
+      "new_stem": "Tweet_publicado_sucesso",
+      "old_rel": "Conceitos/Tweet",
+      "new_rel": "Conceitos/Tweet_publicado_sucesso"
+    },
+    {
+      "old_path": "Conceitos/Valor.md",
+      "new_path": "Conceitos/Campo_Valor.md",
+      "old_stem": "Valor",
+      "new_stem": "Campo_Valor",
+      "old_rel": "Conceitos/Valor",
+      "new_rel": "Conceitos/Campo_Valor"
+    },
+    {
+      "old_path": "Conceitos/Verificar.md",
+      "new_path": "Conceitos/Proximos_passos_Verificar_atualizar.md",
+      "old_stem": "Verificar",
+      "new_stem": "Proximos_passos_Verificar_atualizar",
+      "old_rel": "Conceitos/Verificar",
+      "new_rel": "Conceitos/Proximos_passos_Verificar_atualizar"
+    },
+    {
+      "old_path": "Conceitos/Verifico.md",
+      "new_path": "Conceitos/Primeiro_verifico_skill_redes_v2.md",
+      "old_stem": "Verifico",
+      "new_stem": "Primeiro_verifico_skill_redes_v2",
+      "old_rel": "Conceitos/Verifico",
+      "new_rel": "Conceitos/Primeiro_verifico_skill_redes_v2"
+    },
+    {
+      "old_path": "Conceitos/Verifique.md",
+      "new_path": "Conceitos/GitHub_Conexao_v3.md",
+      "old_stem": "Verifique",
+      "new_stem": "GitHub_Conexao_v3",
+      "old_rel": "Conceitos/Verifique",
+      "new_rel": "Conceitos/GitHub_Conexao_v3"
+    },
+    {
+      "old_path": "Conceitos/Versus.md",
+      "new_path": "Conceitos/YouTube_Which_AI_Best_2026_v3.md",
+      "old_stem": "Versus",
+      "new_stem": "YouTube_Which_AI_Best_2026_v3",
+      "old_rel": "Conceitos/Versus",
+      "new_rel": "Conceitos/YouTube_Which_AI_Best_2026_v3"
+    },
+    {
+      "old_path": "Conceitos/Voc.md",
+      "new_path": "Conceitos/Voce_acesso_pela.md",
+      "old_stem": "Voc",
+      "new_stem": "Voce_acesso_pela",
+      "old_rel": "Conceitos/Voc",
+      "new_rel": "Conceitos/Voce_acesso_pela"
+    },
+    {
+      "old_path": "Conceitos/Which AI.md",
+      "new_path": "Conceitos/YouTube_Which_AI_Best_2026_v4.md",
+      "old_stem": "Which AI",
+      "new_stem": "YouTube_Which_AI_Best_2026_v4",
+      "old_rel": "Conceitos/Which AI",
+      "new_rel": "Conceitos/YouTube_Which_AI_Best_2026_v4"
+    },
+    {
+      "old_path": "Conceitos.md",
+      "new_path": "MOC_Conceitos_Stub.md",
+      "old_stem": "Conceitos",
+      "new_stem": "MOC_Conceitos_Stub",
+      "old_rel": "Conceitos",
+      "new_rel": "MOC_Conceitos_Stub"
+    },
+    {
+      "old_path": "Conversas/Telegram_Resumo_id_1001856983624_2026-06-18.md",
+      "new_path": "Conversas/Telegram_Resumo_Canal_1001856983624.md",
+      "old_stem": "Telegram_Resumo_id_1001856983624_2026-06-18",
+      "new_stem": "Telegram_Resumo_Canal_1001856983624",
+      "old_rel": "Conversas/Telegram_Resumo_id_1001856983624_2026-06-18",
+      "new_rel": "Conversas/Telegram_Resumo_Canal_1001856983624"
+    },
+    {
+      "old_path": "Conversas/Telegram_Resumo_id_1002433384436_2026-06-18.md",
+      "new_path": "Conversas/Telegram_Resumo_Canal_1002433384436.md",
+      "old_stem": "Telegram_Resumo_id_1002433384436_2026-06-18",
+      "new_stem": "Telegram_Resumo_Canal_1002433384436",
+      "old_rel": "Conversas/Telegram_Resumo_id_1002433384436_2026-06-18",
+      "new_rel": "Conversas/Telegram_Resumo_Canal_1002433384436"
+    },
+    {
+      "old_path": "Conversas.md",
+      "new_path": "MOC_Conversas_Stub.md",
+      "old_stem": "Conversas",
+      "new_stem": "MOC_Conversas_Stub",
+      "old_rel": "Conversas",
+      "new_rel": "MOC_Conversas_Stub"
+    },
+    {
+      "old_path": "K.md",
+      "new_path": "Nota_Rascunho_Raiz.md",
+      "old_stem": "K",
+      "new_stem": "Nota_Rascunho_Raiz",
+      "old_rel": "K",
+      "new_rel": "Nota_Rascunho_Raiz"
+    },
+    {
+      "old_path": "Sem título.md",
+      "new_path": "Nota_Rascunho_Raiz_v2.md",
+      "old_stem": "Sem título",
+      "new_stem": "Nota_Rascunho_Raiz_v2",
+      "old_rel": "Sem título",
+      "new_rel": "Nota_Rascunho_Raiz_v2"
+    }
+  ],
+  "deleted": [],
+  "link_replacements": 103,
+  "footers_ensured": 104,
+  "total_notes": 113,
+  "git": {
+    "ok": true,
+    "steps": [
+      {
+        "cmd": "git add .",
+        "code": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      {
+        "cmd": "git commit -m chore: global semantic rename and link refactor",
+        "code": 0,
+        "stdout": "[main cf42eec] chore: global semantic rename and link refactor\n 121 files changed, 1514 insertions(+), 259 deletions(-)\n delete mode 100644 2026-06-19.md\n delete mode 100644 Conceitos.md\n rename Conceitos/{Valor.md => Campo_Valor.md} (59%)\n rename Conceitos/{Agente Ol.md => Conceito_citado_interacao_sobre.md} (64%)\n rename Conceitos/{MN Ol.md => Conceito_citado_interacao_sobre_v2.md} (64%)\n rename Conceitos/{Memoria_Agente Ok.md => Conceito_citado_interacao_sobre_v3.md} (66%)\n rename Conceitos/{SynMateus Vou.md => Conceito_citado_interacao_sobre_v4.md} (65%)\n rename Conceitos/{Dado.md => Dado_transcriA_para_extraA.md} (76%)\n rename Conceitos/{Desculpe.md => Desculpe_consegui_gerar_resposta.md} (63%)\n rename Conceitos/{Diagn.md => Diagnostico_Dependencias.md} (67%)\n rename Conceitos/{Falta.md => Diagnostico_Dependencias_v2.md} (67%)\n rename Conceitos/{Problemas.md => Diagnostico_Dependencias_v3.md} (67%)\n rename Conceitos/{Ent.md => Entao_acessar.md} (58%)\n rename Conceitos/{000.md => Erro_Hermes_Context_Window.md} (84%)\n rename Conceitos/{192.md => Erro_Hermes_Context_Window_v2.md} (84%)\n rename Conceitos/{Model.md => Erro_Hermes_Context_Window_v3.md} (84%)\n rename Conceitos/{Conectar.md => GitHub_Conexao.md} (60%)\n rename Conceitos/{Conecte.md => GitHub_Conexao_v2.md} (61%)\n rename Conceitos/{Verifique.md => GitHub_Conexao_v3.md} (67%)\n rename Conceitos/{Infelizmente.md => Infelizmente_transcriA_fornecida_para.md} (71%)\n rename Conceitos/{Mem.md => Memoria_Agente_Status.md} (62%)\n rename Conceitos/{Poderia.md => Poderia_especificar.md} (60%)\n rename Conceitos/{Primeiro.md => Primeiro_verifico_skill_redes.md} (68%)\n rename Conceitos/{Verifico.md => Primeiro_verifico_skill_redes_v2.md} (68%)\n rename Conceitos/{Verificar.md => Proximos_passos_Verificar_atualizar.md} (69%)\n rename Conceitos/{Relat.md => RelatA_sobre_YouTube.md} (63%)\n rename Conceitos/{Salvo.md => Salvo_Memoria_Agente.md} (60%)\n rename Conceitos/{Sobre.md => Sobre_upgrade_Hermes_qual.md} (78%)\n rename Conceitos/{Tente.md => Tente_novamente_instantes.md} (61%)\n rename Conceitos/{Tudo.md => Tudo_certo_aqui.md} (71%)\n rename Conceitos/{Tweet.md => Tweet_publicado_sucesso.md} (60%)\n rename Conceitos/{Autentica.md => Twitter_Autenticacao.md} (61%)\n rename Conceitos/{2026.md => Twitter_Post_Oi.md} (81%)\n rename Conceitos/{Conta.md => Twitter_Post_Oi_v2.md} (60%)\n rename Conceitos/{Encontrei.md => Twitter_Post_Oi_v3.md} (66%)\n rename Conceitos/{Ser.md => Twitter_Post_Oi_v4.md} (59%)\n rename Conceitos/{Publicando.md => Twitter_Publicando_Oi.md} (60%)\n rename Conceitos/{2068038101222469871.md => Twitter_Status_2068038101222469871.md} (65%)\n rename Conceitos/{Link.md => Twitter_Status_2068038101222469871_v2.md} (63%)\n rename Conceitos/{150.md => VPS_SSH_Conexao.md} (66%)\n rename Conceitos/{187.md => VPS_SSH_Conexao_v2.md} (66%)\n rename Conceitos/{2222.md => VPS_SSH_Conexao_v3.md} (66%)\n rename Conceitos/{241.md => VPS_SSH_Conexao_v4.md} (66%)\n rename Conceitos/{Aqui.md => VPS_SSH_Conexao_v5.md} (66%)\n rename Conceitos/{Conecte-se.md => VPS_SSH_Conexao_v6.md} (65%)\n rename Conceitos/{SSH.md => VPS_SSH_Conexao_v7.md} (66%)\n rename Conceitos/{Voc.md => Voce_acesso_pela.md} (61%)\n rename Conceitos/{HAkSUBdsd6M.md => YouTube_HAkSUBdsd6M.md} (65%)\n rename Conceitos/{TAirq97G7ow.md => YouTube_TAirq97G7ow.md} (65%)\n rename Conceitos/{Best.md => YouTube_Which_AI_Best_2026.md} (72%)\n rename Conceitos/{The.md => YouTube_Which_AI_Best_2026_v2.md} (72%)\n rename Conceitos/{Versus.md => YouTube_Which_AI_Best_2026_v3.md} (72%)\n rename Conceitos/{Which AI.md => YouTube_Which_AI_Best_2026_v4.md} (72%)\n rename Conceitos/{Com.md => base_codigo_atual_faca.md} (65%)\n rename Conceitos/{Compara.md => comparar_promessas_marketing_relatos.md} (65%)\n rename Conceitos/{Pesquisa.md => ideia_central_Grok_diferencia.md} (76%)\n rename Conceitos/{Sim.md => pode_acessar_codigo.md} (61%)\n rename Conceitos/{Deep.md => usar_deep_search_para.md} (66%)\n delete mode 100644 Conversas.md\n rename Conversas/{Telegram_Resumo_id_1001856983624_2026-06-18.md => Telegram_Resumo_Canal_1001856983624.md} (82%)\n rename Conversas/{Telegram_Resumo_id_1002433384436_2026-06-18.md => Telegram_Resumo_Canal_1002433384436.md} (82%)\n delete mode 100644 K.md\n create mode 100644 MOC_Conceitos_Stub.md\n create mode 100644 MOC_Conversas_Stub.md\n create mode 100644 Memoria_Agente/.deep_clean_report.json\n create mode 100644 Nota_Rascunho_Raiz.md\n create mode 100644 Nota_Rascunho_Raiz_v2.md\n create mode 100644 Nota_Vazia_2026_06_19.md\n delete mode 100644 \"Sem t\\303\\255tulo.md\"",
+        "stderr": ""
+      },
+      {
+        "cmd": "git push origin main",
+        "code": 0,
+        "stdout": "",
+        "stderr": "To https://github.com/coelho069/meu-vault.git\n   3b836d2..cf42eec  main -> main"
+      }
+    ]
+  }
+}

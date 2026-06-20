@@ -5,17 +5,17 @@ tags:
   - loop-engineering
   - resumo
   - telegram
-canal: id_1001856983624
+canal: javvis_memory
 ---
 
 
-# Telegram_Resumo_id_1001856983624_2026-06-18
+# Telegram_Resumo_javvis_memory_2026-06-18
 
 **Fonte:** Telethon UserBot (tools/telegram_scraper/user_account.session)
-**Canal:** @id_1001856983624
-**Gerado em:** 2026-06-18T20:40:54+00:00
+**Canal:** @javvis_memory
+**Gerado em:** 2026-06-18T20:27:21+00:00
 
-**Resumo executivo:** Não foi possível coletar mensagens de @id_1001856983624 via UserBot no momento. Verifique tools/telegram_scraper/user_account.session e permissões no canal privado.
+**Resumo executivo:** Não foi possível coletar mensagens de @javvis_memory via UserBot no momento. Verifique tools/telegram_scraper/user_account.session e permissões no canal privado.
 
 **Tópicos principais:**
 - (nenhum tópico identificado)
@@ -23,7 +23,7 @@ canal: id_1001856983624
 **Decisões / Insights:**
 - Sessão Telethon ausente/expirada ou canal inacessível para a conta autenticada.
 
-**Conceitos / Tags:** [[Telegram]] [[Llamafile]] [[Canais]] [[Obsidian]] [[Id_1001856983624]] [[Sessão Telethon Ausente/Expirada Ou Cana]]
+**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llamafile]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Javvis_Memory]] [[Sessão Telethon Ausente/Expirada Ou Cana]]
 **Confiança:** 0.0
 
 ## Mensagens coletadas (limpas)
@@ -33,10 +33,10 @@ canal: id_1001856983624
 
 ## Referências bidirecionais
 
-- [[Conceitos/Telegram]]
+- [[telegram_hermes_freebot_Atualizacoes]]
 - [[Conceitos/Llamafile]]
 - [[Conceitos/Canais]]
-- [[Conceitos/Obsidian]]
+- [[Obsidian_Restaurar_Conversas_Teste]]
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
 
