@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T20:00:14Z
-updated_at: 2026-06-27T20:00:14Z
+created_at: 2026-06-27T21:00:13Z
+updated_at: 2026-06-27T21:00:13Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 20:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 21:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -265,7 +265,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 - `AKITA` — 101 ocorrencia(s)
 - `GEMINI` — 98 ocorrencia(s)
-- `ROUTER` — 85 ocorrencia(s)
+- `ROUTER` — 86 ocorrencia(s)
 - `CMD:/help` — 7 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
@@ -371,7 +371,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ## 11. Memoria Persistente do Bot
 
-81 itens em `cache/persistent_memory.json` (lista completa).
+82 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -454,6 +454,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [2026-06-27 19:47:17 UTC] Pedido do usuario: /find_targets site:*.gov.br inurl:admin "login" Resposta/solucao que funcionou ou contexto importante: Agent Prospector — OSINT Awesome (PublicWWW, Grep.app, Infra, Social RT) Query: site:*.gov.br inurl:admin "login" Alvos de terceiros (BR/Lovable): 2 Fontes: PublicWWW, Grep.app, Shodan/Censys dorks, Social RT, Twitter, Reddit, GitHub, Web 1. [web] covid.fabriciano.mg.gov.br Snippet: covid.fabriciano.mg.gov.br https://covid.fabriciano.mg.gov.br/official-origin/supabase-admin-a... _(tags: auto)_
 - [2026-06-27 19:48:10 UTC] Pedido do usuario: /check_ads_leak https://covid.fabriciano.mg.gov.br/official-origin/supabase-admin-api-your-ultimate-guide-1764806185 Resposta/solucao que funcionou ou contexto importante: ❌ Domínio não encontrado. Verifique a URL. _(tags: auto)_
 - [2026-06-27 19:48:31 UTC] Pedido do usuario: /check_ads_leak https://covid.fabriciano.mg.gov.br/official-origin/supabase-login-your-ultimate-guide-1764804337 Resposta/solucao que funcionou ou contexto importante: ❌ Domínio não encontrado. Verifique a URL. _(tags: auto)_
+- [2026-06-27 20:10:43 UTC] Pedido do usuario: /super_scan https://caioberkley.vercel.app/ https://izzicupoborges.vercel.app/ https://decodebyte.vercel.app/ https://axyos.vercel.app/ https://marcosreis.vercel.app/ https://nmdesenvolvimento.vercel.app/ https://jonathanhainzen.vercel.app/ https://listajottacursos.netlify.app/ https://editaldobb.vercel.app/ https://optimizerduck.vercel.app/ Resposta/solucao que funcionou ou contexto importante: 🏹 Silent Hunter concluido. Alvos processados: 10 Vulnerabilidades criticas reporta... _(tags: auto)_
 
 ---
 
@@ -3520,6 +3521,15 @@ Conceitos: [[GitHub]], [[Agent Prospector]], [[OSINT Awesome]], [[PublicWWW]], [
 ### Hermes
 Fontes: PublicWWW, Grep.app, Shodan/Censys dorks, Social RT, Twitter, Reddit, GitHub, Web
 
+## Export 81a58128
+
+**Interacao 2026-06-27 20:10:43 UTC** (resumo export)
+
+## Interacao 2026-06-27 20:10:43 UTC
+### Usuario
+### Hermes
+Vulnerabilidades criticas reportadas: 0
+
 
 
 ---
@@ -3537,11 +3547,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 20 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 81 | `cache/persistent_memory.json` |
+| Memoria persistente | 82 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 8443 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 8530 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
