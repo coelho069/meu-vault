@@ -8,17 +8,17 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T11:35:26Z
-updated_at: 2026-06-27T11:35:26Z
+created_at: 2026-06-27T11:41:37Z
+updated_at: 2026-06-27T11:41:37Z
 source: memory-extraction-pipeline
-trigger: manual:osint-section-fix
+trigger: watchdog:memory_notebook_builder.py
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 11:35 UTC** (trigger: `manual:osint-section-fix`).
+> Ultima consolidacao: **2026-06-27 11:41 UTC** (trigger: `watchdog:memory_notebook_builder.py`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -474,7 +474,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Dados processados | 0.75 MB |
 | Comandos catalogados | 120 |
 | Conexoes wiki no vault | 492 |
-| Trigger | `manual:osint-section-fix` |
+| Trigger | `watchdog:memory_notebook_builder.py` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
