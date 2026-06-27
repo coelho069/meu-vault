@@ -16,3 +16,9 @@ Conversas relacionadas:
 Resumo: **🏗️ Arquitetura Core** - Python CLI - Motor assíncrono de varredura - Detecção heurística/ML - Exportação JSON/CSV/HTML/Markdown - Docker opcional **💡 Valor para o Hermes** - Automatiza busca de perfis por username via Telegram.
 
 - [[Conversas/Sessao_2026-06-26|Sessao_2026-06-26]]
+
+## Atualizacao 2026-06-27 03:47:52 UTC
+
+Resumo: Conceito citado em uma interacao do bot sobre JSON.
+
+- [[Conversas/Sessao_2026-06-27|Sessao_2026-06-27]]
