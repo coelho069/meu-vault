@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T22:00:07Z
-updated_at: 2026-06-27T22:00:07Z
+created_at: 2026-06-27T23:00:07Z
+updated_at: 2026-06-27T23:00:07Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 22:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 23:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -252,7 +252,6 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 - /help
 - /help
-- /help
 - "domain": ".gemini.google.com",
 - "domain": ".google.com",
 - "name": "[REDACTED]", "value": "[REDACTED]",
@@ -260,13 +259,14 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - Oi
 - Oi
 - /help
+- /help
 
 ### 8.3 Eventos frequentes nos logs
 
 - `AKITA` — 101 ocorrencia(s)
 - `GEMINI` — 98 ocorrencia(s)
-- `ROUTER` — 91 ocorrencia(s)
-- `CMD:/help` — 7 ocorrencia(s)
+- `ROUTER` — 92 ocorrencia(s)
+- `CMD:/help` — 8 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
 - `CMD:https://site-poliana-marinho.vercel.app/.env` — 3 ocorrencia(s)
@@ -290,7 +290,6 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 - /help
 - /help
-- /help
 - "domain": ".gemini.google.com",
 - "domain": ".google.com",
 - "name": "[REDACTED]", "value": "[REDACTED]",
@@ -303,6 +302,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - https://site-poliana-marinho.vercel.app/.env
 - https://site-poliana-marinho.vercel.app/.env
 - Cancelar
+- /help
 
 ---
 
@@ -3561,7 +3561,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 8627 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 8631 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -3591,7 +3591,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 |-------|-------|
 | Dados processados | 1.08 MB |
 | Comandos catalogados | 126 |
-| Conexoes wiki no vault | 520 |
+| Conexoes wiki no vault | 521 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
