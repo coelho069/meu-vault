@@ -23,9 +23,16 @@ Resumo: #### Como aplicar no prÃ³prio bot telegram-hermes-freebot:
 
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
+## Atualizacao 2026-06-27 03:30:00 UTC
+
+Resumo: Implementado comando `/analisar_chat` — analisa historico da conversa atual (memoria curta + persistente) e gera relatorio via IA. Corrigido erro "Comando não reconhecido". Documentado no vault e sincronizado via git.
+
+- [[Conversas/Sessao_2026-06-27|Sessao_2026-06-27]]
+- [[Memoria_Agente/telegram-hermes/concepts/analisar-chat-integracao-bot|analisar_chat integracao bot]]
+
 ---
 **🗺️ Hub:** [[MOC_Hermes]]
-**🧠 Sinapses Neurais:** [[Primeiro_verifico_skill_redes]], [[Hermes_Bot_Verificacao_Redes]], [[Twitter_Post_Oi_Sessao]], [[Hermes_Erro_Contexto_Gemma3]], [[Twitter_Post_Oi]]
+**🧠 Sinapses Neurais:** [[analisar_chat]], [[Primeiro_verifico_skill_redes]], [[Hermes_Bot_Verificacao_Redes]], [[Twitter_Post_Oi_Sessao]], [[Hermes_Erro_Contexto_Gemma3]], [[Twitter_Post_Oi]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

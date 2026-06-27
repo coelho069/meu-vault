@@ -41,4 +41,4 @@ Para parar de vazar credenciais no chat:
 2 Nunca colar JSON bruto de cookies em conversa, log ou nota.
 3 Se quiser Gemini persistente dentro do Hermes, melhor caminho é sessão dedicada do navegador na VPS e automação oficial, não reaproveitar cookie de sessão pessoal.
 
-Resumo_hoje desta sessão continua o mesmo da última resposta. Aguardo o próximo comando útil.
+[[telegram-hermes/gotchas/[[telegram-hermes/gotchas/resumo-hoje]]]] desta sessão continua o mesmo da última resposta. Aguardo o próximo comando útil.
