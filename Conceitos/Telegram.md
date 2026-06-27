@@ -1,19 +1,19 @@
 ---
 tags:
- - conceito
+  - conceito
 data: "2026-06-20"
 ---
 
-# Hermes
+# Telegram
 
-Resumo: Conceito citado em uma interacao do bot sobre Hermes.
+Resumo: Não é um bot Telegram pronto.
 
 Conversas relacionadas:
 - [[Conversas/Sessao_2026-06-20|Sessao_2026-06-20]]
 
 ## Atualizacao 2026-06-26 21:14:34 UTC
 
-Resumo: Pode ser útil no Hermes como módulo de investigação automatizada com saída exportável para relatórios.
+Resumo: **🏗️ Arquitetura Core** - Python CLI - Motor assíncrono de varredura - Detecção heurística/ML - Exportação JSON/CSV/HTML/Markdown - Docker opcional **💡 Valor para o Hermes** - Automatiza busca de perfis por username via Telegram.
 
 - [[Conversas/Sessao_2026-06-26|Sessao_2026-06-26]]
 
