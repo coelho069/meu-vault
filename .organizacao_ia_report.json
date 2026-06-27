@@ -436,5 +436,7 @@
     }
   },
   "second_pass": "fix_vault_links.py",
-  "final_timestamp": "2026-06-27T09:51:09.257344+00:00"
+  "final_timestamp": "2026-06-27T09:51:09.257344+00:00",
+  "memoria_agente_moves": 130,
+  "memoria_agente_link_files": 0
 }
