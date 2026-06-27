@@ -1,0 +1,12 @@
+---
+tags:
+  - conceito
+data: "2026-06-27"
+---
+
+# Nota
+
+Resumo: 📊 Nota técnica (extraída): **65/100**
+
+Conversas relacionadas:
+- [[Conversas/Sessao_2026-06-27|Sessao_2026-06-27]]

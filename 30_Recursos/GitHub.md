@@ -22,3 +22,17 @@ Resumo: /repo_analyze https://github.com/arxhr007/Aliens_eye
 Resumo: /repo_analyze https://github.com/DeusData/codebase-memory-mcp
 
 - [[Sessao_2026-06-27|Sessao_2026-06-27]]
+
+<!-- migrado de Conceitos -->
+---
+tags:
+  - conceito
+data: "2026-06-27"
+---
+
+# GitHub
+
+Resumo: /repo_analyze https://github.com/Alfredredbird/tookie-osint
+
+Conversas relacionadas:
+- [[Conversas/Sessao_2026-06-27|Sessao_2026-06-27]]
