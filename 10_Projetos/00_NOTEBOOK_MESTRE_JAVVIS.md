@@ -8,17 +8,17 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T12:08:41Z
-updated_at: 2026-06-27T12:08:41Z
+created_at: 2026-06-27T12:14:04Z
+updated_at: 2026-06-27T12:14:04Z
 source: memory-extraction-pipeline
-trigger: watchdog:bot.py
+trigger: manual-user
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 12:08 UTC** (trigger: `watchdog:bot.py`).
+> Ultima consolidacao: **2026-06-27 12:14 UTC** (trigger: `manual-user`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -380,7 +380,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - **[[langgraph-stateful-agents]]** — # LangGraph stateful agent orchestration Commit `5d0605b9` integrated the LangGraph framework for stateful agent orchestration and memory persistence (“orquestracao de agentes stateful e persistencia de memoria”). This i...
 - ... +3 conceitos adicionais
 
-### Sessoes e interacoes indexadas (21)
+### Sessoes e interacoes indexadas (23)
 
 - [[Contexto_Usuario_youtube_https_youtu]]
 - [[Contexto_Usuario_youtube_https_youtu_v10]]
@@ -400,11 +400,13 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[YouTube_YMc0f5i70Hc_v6]]
 - [[YouTube_resumo-hoje]]
 - [[analisar_chat_https_gemini_share]]
+- [[cron-export-test]]
 - [[name-ssid]]
 - [[resumo-hoje-e-194640]]
 - [[resumo-hoje-e-195033]]
+- [[validacao-akita]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
@@ -444,12 +446,12 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 63 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Notas Memoria_Agente | 65 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
 | Memoria persistente | 68 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 13 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 3 | `cache/codebase_repos/` |
-| Logs PM2 | 7339 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7379 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -479,8 +481,8 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 |-------|-------|
 | Dados processados | 0.77 MB |
 | Comandos catalogados | 120 |
-| Conexoes wiki no vault | 495 |
-| Trigger | `watchdog:bot.py` |
+| Conexoes wiki no vault | 497 |
+| Trigger | `manual-user` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
