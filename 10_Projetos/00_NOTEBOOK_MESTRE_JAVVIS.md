@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T17:00:24Z
-updated_at: 2026-06-27T17:00:24Z
+created_at: 2026-06-27T18:00:12Z
+updated_at: 2026-06-27T18:00:12Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 17:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 18:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -60,7 +60,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 /osint_tools <tema> - Consultoria: melhores ferramentas OSINT por tema
 /attack_surface <alvo> - Superficie de ataque (portas, SSL, buckets)
 /find_targets [query] - Agent-Reach (Twitter/GitHub/Web)
-/check_ads_leak <url> - Deep Scan + Network Sniff Supabase
+/check_ads_leak <url> - Recursive Deep Scan Supabase (home + 3 internas)
 /ads_leak - Alias de /check_ads_leak
 /verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 /langgraph_test [texto] - Valida orquestracao LangGraph com checkpoints
@@ -369,7 +369,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ## 11. Memoria Persistente do Bot
 
-73 itens em `cache/persistent_memory.json` (lista completa).
+74 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -444,6 +444,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [2026-06-27 16:13:35 UTC] Pedido do usuario: /check_ads_leak https://app.payloop.com.br Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://app.payloop.com.br Titulo: app.payloop.com.br Metadados: - color-scheme: light dark - theme-color: #fff - viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no Avisos: - page.goto falhou apos 2 tentativa(s) — sniff parcial. Ultimo erro: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://app.payloop.com.br/ C... _(tags: auto)_
 - [2026-06-27 16:43:52 UTC] Pedido do usuario: /check_ads_leak https://frt-financer.vercel.app/login Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://frt-financer.vercel.app/login Titulo: FinanceR Track Metadados: - viewport: width=device-width, initial-scale=1 - description: Rastreando a sua saúde, construindo o seu futuro Endpoints/API: - https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams - https://nextjs.org/docs/app/api-reference/funct... _(tags: auto)_
 - [2026-06-27 16:49:26 UTC] Pedido do usuario: /check_ads_leak https://portfolio-dg-rosy.vercel.app Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://portfolio-dg-rosy.vercel.app Titulo: 404: NOT_FOUND Metadados: - viewport: width=device-width,initial-scale=1 - theme-color: #000 Links encontrados: - https://vercel.com/docs/errors/DEPLOYMENT_NOT_FOUND Avisos: - Nenhum trafego Supabase capturado (network sniff) nem SDK no HTML/JS. Modo: Active Network Sniffing + Playwright stealth. _(tags: auto)_
+- [2026-06-27 17:57:16 UTC] Pedido do usuario: /check_ads_leak https://www.tabnews.com.br/robsonsouza/pitch-criei-um-micro-saas-a-partir-de-uma-necessidade-da-minha-esposa Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan (Supabase) Alvo principal: https://www.tabnews.com.br/robsonsouza/pitch-criei-um-micro-saas-a-partir-de-uma-necessidade-da-minha-esposa Paginas escaneadas: 4 (home + 3 interna(s)) --- [HOME] https://www.tabnews.com.br/robsonsouza/pitch-criei-um-micro-saas-a-partir-de-uma... _(tags: auto)_
 
 ---
 
@@ -3032,6 +3033,192 @@ Endpoints/API:
 ### Hermes
 Endpoints/API:
 
+## Export f3b0f9d2
+
+**Interacao 2026-06-27 17:08:43 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:08:43 UTC
+Conceitos: [[Relatorio Recursive Deep Scan]], [[Supabase]], [[Alvo]], [[Paginas]], [[HOME]], [[Titulo]], [[404]], [[NOT_FOUND Resultado]]
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 7f44fb6d
+
+**Interacao 2026-06-27 17:11:31 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:11:31 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 66b83922
+
+**Interacao 2026-06-27 17:14:48 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:14:48 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 67db60a0
+
+**Interacao 2026-06-27 17:15:22 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:15:22 UTC
+### Usuario
+### Hermes
+
+## Export 032b7d37
+
+**Interacao 2026-06-27 17:15:56 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:15:56 UTC
+### Usuario
+### Hermes
+Resultado: VAZAMENTO
+
+## Export 017f372d
+
+**Interacao 2026-06-27 17:27:29 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:27:29 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 0f938f30
+
+**Interacao 2026-06-27 17:28:27 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:28:27 UTC
+### Usuario
+### Hermes
+Resultado: VAZAMENTO
+
+## Export 71445359
+
+**Interacao 2026-06-27 17:31:19 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:31:19 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 65046044
+
+**Interacao 2026-06-27 17:32:51 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:32:51 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Supabase-3FCF8E]], [[Botoes]], [[Abrir]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+1. [web] multiversodigital.com.br
+https://multiversodigital.com.br
+
+## Export 50f4070d
+
+**Interacao 2026-06-27 17:33:40 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:33:40 UTC
+Conceitos: [[Relatorio Recursive Deep Scan]], [[Supabase]], [[Alvo]], [[Paginas]], [[HOME]], [[Titulo]], [[Multiverso Digital]], [[Startup]]
+### Usuario
+/check_ads_leak https://multiversodigital.com.br
+### Hermes
+Alvo principal: https://multiversodigital.com.br
+Titulo: Multiverso Digital — Startup de IA e LLMs | App Mobile
+Resultado: Sem Supabase detectado
+Titulo: Multiverso Digital — AI & LLM Startup | Mobile App
+Titulo: Multiverso Digital — Startup de IA y LLMs | App Móvil
+
+## Export 3f28279f
+
+**Interacao 2026-06-27 17:36:16 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:36:16 UTC
+### Usuario
+### Hermes
+
+## Export d4ebf75d
+
+**Interacao 2026-06-27 17:47:08 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:47:08 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[000]], [[2026]], [[Botoes]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export c93546ff
+
+**Interacao 2026-06-27 17:51:33 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:51:33 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 238a5d3d
+
+**Interacao 2026-06-27 17:53:06 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:53:06 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export f45973d8
+
+**Interacao 2026-06-27 17:53:59 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:53:59 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 8f107a92
+
+**Interacao 2026-06-27 17:55:09 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:55:09 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 4df1655f
+
+**Interacao 2026-06-27 17:56:02 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:56:02 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[WesleyCruz]], [[2026]], [[Botoes]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 02da8486
+
+**Interacao 2026-06-27 17:57:16 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:57:16 UTC
+Conceitos: [[Relatorio Recursive Deep Scan]], [[Supabase]], [[Alvo]], [[Paginas]], [[HOME]], [[Titulo]], [[Cadastro]], [[TabNews Resultado]]
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 23a4c714
+
+**Interacao 2026-06-27 17:58:42 UTC** (resumo export)
+
+## Interacao 2026-06-27 17:58:42 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+/find_targets "supabaseUrl" "supabaseAnonKey" site:github.com "br"
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+Query: "supabaseUrl" "supabaseAnonKey" site:github.com "br"
+
 
 
 ---
@@ -3049,11 +3236,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 20 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 73 | `cache/persistent_memory.json` |
+| Memoria persistente | 74 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 7870 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 8072 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -3081,7 +3268,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.02 MB |
+| Dados processados | 1.03 MB |
 | Comandos catalogados | 125 |
 | Conexoes wiki no vault | 520 |
 | Trigger | `cron-export` |
