@@ -7,16 +7,18 @@ tags:
   - hermes
   - memoria-agente
   - extracao-total
-created_at: 2026-06-27T10:55:43Z
-updated_at: 2026-06-27T10:55:43Z
+  - auto-sync
+created_at: 2026-06-27T11:08:33Z
+updated_at: 2026-06-27T11:08:33Z
 source: memory-extraction-pipeline
+trigger: watchdog:bot.py
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 10:55 UTC**.
+> Ultima consolidacao: **2026-06-27 11:08 UTC** (trigger: `watchdog:bot.py`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -191,6 +193,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 ### 8.1 Timeline Git (ultimos 30 commits)
 
+- `090eea6 chore: atualizar vault com extracao total de memoria JAVVIS`
 - `7b1bd23 chore: atualizar submodule obsidian_vault com Notebook Mestre JAVVIS`
 - `0de11a1 chore(obsidian): atualiza submodule do vault com /analisar_chat`
 - `f6ad557 feat: adiciona comando /analisar_chat para analise do historico da conversa`
@@ -220,20 +223,19 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - `039927b fix: read and process 100% of memory files without truncation`
 - `2b681ca feat: deep learning youtube reports with synaptic connections`
 - `210af02 Adicionando comando /exec seguro`
-- `6205bcf feat: add bot main loop and guarded startup`
 
-### 8.2 Resumo IA dos logs PM2 (telegram-bot-out.log)
+### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- - ChatGPT e algo mágico? Ser eu sou burro vou ser mais inteligente?
-- - Oi
-- - Sou burro por não entender nada sobre inteligência artificial e mesmo assim nega algo que eu nem entendo é nem sei? Sou burro? Ou iguinorante
-- - Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro?
-- - /help
-- - /help
-- - /help
-- - "domain": ".gemini.google.com",
-- - "domain": ".google.com",
-- - "name": "SSID",
+- ChatGPT e algo mágico? Ser eu sou burro vou ser mais inteligente?
+- Oi
+- Sou burro por não entender nada sobre inteligência artificial e mesmo assim nega algo que eu nem entendo é nem sei? Sou burro? Ou iguinorante
+- Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro?
+- /help
+- /help
+- /help
+- "domain": ".gemini.google.com",
+- "domain": ".google.com",
+- "name": "SSID",
 
 ### 8.3 Eventos frequentes nos logs
 
@@ -299,7 +301,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 ### Destaques recentes
 
 - **[[Alfredredbird-tookie-osint]]** — Tookie-OSINT (65/100, analise profunda)
-- **codebase-memory-mcp** — grafo MCP para introspeccao de codigo ([[ai-memory-mcp-server]])
+- **codebase-memory-mcp** — grafo MCP ([[ai-memory-mcp-server]])
 - **telegram-hermes-freebot** — auto-analise local do proprio bot
 
 ### Codebase clonado em cache
@@ -322,7 +324,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - **[[Hermes_sessao_v4]]** — youtu.be-k5NhsF7t68M-is=aqgHbCACbxNigFFy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Hermes_Contexto_e_Integracao.md --- # [[He...
 - **[[Progress_feedback_Telegram_terminal]]** — # Progress feedback in Telegram and terminal The project added progress feedback in two stages. First, commit `c81f3506` added a real-time progress bar specifically to the `akita` command. Later, commit `210f3c02` implem...
 - **[[YouTube_UDTdsLLwGWw]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_para_Agentes.md --- # youtu...
-- **[[YouTube_UDTdsLLwGWw_v2]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Documentacao_APIs.md --- # ...
+- **[[YouTube_UDTdsLLwGWw_v2]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Documentacao_APIs.md --- #...
 - **[[YouTube_UDTdsLLwGWw_v3]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Reduz_Consumo.md --- # [[He...
 - **[[YouTube_UDTdsLLwGWw_v4]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_CLI_Integracoes.md --- # [[...
 - **[[YouTube_UDTdsLLwGWw_v5]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Sistema_Documentacao_Agentes_IA.md --- # [...
@@ -330,7 +332,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - **[[YouTube_UDTdsLLwGWw_v7]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Instalacao_Arquitetura.md -...
 - **[[YouTube_UDTdsLLwGWw_v8]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Agentes_e_Integracao_API.md --- # [[Agente...
 - **[[ai-memory-mcp-server]]** — # AI-memory MCP server deployment The latest supplied commits describe deployment and remote exposure of an `ai-memory` MCP server. Timeline from the log: - Commit `14886a60` added deployment and integration of the `ai-m...
-- **[[akita_deep_summary_memory_memoria_v2]]** — # [[Mem]]]] ## Contexto **Usuario:** /akita deep_summary ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos part 1 **Hermes:** # Resumo Exaustivo: ai-memory, Karpathy Wiki e ...
+- **[[akita_deep_summary_memory_memoria_v2]]** — # [[Mem]]]] ## Contexto **Usuario:** /akita deep_summary ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos part 1 **Hermes:** # Resumo Exaustivo: ai-memory, Karpathy Wiki e...
 - **[[analisar-chat-integracao-bot]]** — # analisar_chat integracao bot ## Contexto **Usuario:** Comando não reconhecido: /analisar_chat — corrigir e implementar. **Hermes:** Criado o comando `/analisar_chat` no `bot.py` para analisar o historico da conversa at...
 - **[[analisar_chat_https_share_gemini]]** — share.gemini.google-q91I0x3PTKKn tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T03:47:56Z status: active source: hermes-telegram --- # analisar_chat https---shar...
 - **[[langgraph-stateful-agents]]** — # LangGraph stateful agent orchestration Commit `5d0605b9` integrated the LangGraph framework for stateful agent orchestration and memory persistence (“orquestracao de agentes stateful e persistencia de memoria”). This i...
@@ -360,7 +362,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[resumo-hoje-e-194640]]
 - [[resumo-hoje-e-195033]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
@@ -373,26 +375,26 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [2026-06-20 19:46:39 UTC] Pedido do usuario: /resumo_hoje Resposta/solucao que funcionou ou contexto importante: ** Resumo Executivo de Hoje** - **Bot:** criado o comando `/resumo_hoje`, gerando changelog diário automático a partir do Git com apoio de IA. - **Bot:** restaurado o módulo `/repo_analyze` e r... _(tags: auto)_
 - [2026-06-20 19:50:33 UTC] Pedido do usuario: /resumo_hoje Resposta/solucao que funcionou ou contexto importante: ⏱️ **[04:24]** - 🛠️ Atualizado `exec_handler.py` no início da janela operacional ⏱️ **[04:31]** - 💾 Criado backup de `bot.py` e atualizados caches/memórias de erro ⏱️ **[04:49]** - 💾 Criado nov... _(tags: auto)_
 - [2026-06-20 20:26:12 UTC] Pedido do usuario: /persona_youtube https://youtu.be/O68y0yRZL1Y?is=TwAn4F0LKVyQgMa- Resposta/solucao que funcionou ou contexto importante: Beleza, personalidade absorvida: então vamos lá, daqui pra frente eu vou falar direto, didático, sem engolir hype barato nem número jogado s... _(tags: auto)_
-- [2026-06-20 20:49:54 UTC] Pedido do usuario: /persona_youtube https://youtu.be/Yl-hlwhj2B0?is=EO-NDe824Ht2R8U0 Resposta/solucao que funcionou ou contexto importante: Beleza, personalidade absorvida. Então vamos lá: daqui pra frente eu vou falar direto, didático, sem engolir hype barato nem código copiado ... _(tags: auto)_
-- [2026-06-20 20:51:29 UTC] Pedido do usuario: Sou burro por não entender nada sobre inteligência artificial e mesmo assim nega algo que eu nem entendo é nem sei? Sou burro? Ou iguinorante Resposta/solucao que funcionou ou contexto importante: Beleza, então vamos lá. Você não é burro. Burro é quem não quer ... _(tags: auto)_
-- [2026-06-20 20:54:36 UTC] Pedido do usuario: Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro? Resposta/solucao que funcionou ou contexto importante: NÃ£o Ã© piada! Entender o contexto Ã© mais valioso que performance bruta. Se nÃ£o entende, nÃ£o critica. Foca ... _(tags: auto)_
+- [2026-06-20 20:49:54 UTC] Pedido do usuario: /persona_youtube https://youtu.be/Yl-hlwhj2B0?is=EO-NDe824Ht2R8U0 Resposta/solucao que funcionou ou contexto importante: Beleza, personalidade absorvida. Então vamos lá: daqui pra frente eu vou falar direto, didático, sem engolir hype barato nem código copiado... _(tags: auto)_
+- [2026-06-20 20:51:29 UTC] Pedido do usuario: Sou burro por não entender nada sobre inteligência artificial e mesmo assim nega algo que eu nem entendo é nem sei? Sou burro? Ou iguinorante Resposta/solucao que funcionou ou contexto importante: Beleza, então vamos lá. Você não é burro. Burro é quem não quer... _(tags: auto)_
+- [2026-06-20 20:54:36 UTC] Pedido do usuario: Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro? Resposta/solucao que funcionou ou contexto importante: NÃ£o Ã© piada! Entender o contexto Ã© mais valioso que performance bruta. Se nÃ£o entende, nÃ£o critica. Foca... _(tags: auto)_
 - [2026-06-20 22:33:26 UTC] Pedido do usuario: /akita deep_summary ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos part 1 Resposta/solucao que funcionou ou contexto importante: # Resumo Exaustivo: ai-memory, Karpathy Wiki e auto-aprendizado tipo Hermes ## Int... _(tags: auto)_
 - [2026-06-20 22:35:10 UTC] Pedido do usuario: /akita deep_summary ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos part 2 Resposta/solucao que funcionou ou contexto importante: ## Resumo Exaustivo do Texto "ai-memory: memÃ³ria de longo prazo (Karpathy Wiki) e... _(tags: auto)_
 - [2026-06-20 22:36:37 UTC] Pedido do usuario: /akita deep_summary ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos part 3 Resposta/solucao que funcionou ou contexto importante: ## _(tags: auto)_
 - [2026-06-20 22:40:04 UTC] Pedido do usuario: /akita deep_summary ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos part 4 Resposta/solucao que funcionou ou contexto importante: ## Resumo do Contexto e da DiscussÃ£o sobre `ai-memory` Este contexto Ã© uma sÃ©ri... _(tags: auto)_
-- [2026-06-20 22:40:43 UTC] Pedido do usuario: /akita deep_summary reduce ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos Resposta/solucao que funcionou ou contexto importante: # Resumo Exaustivo e Completo: ai-memory — Memória de Longo Prazo (Karpathy Wiki) ... _(tags: auto)_
-- [2026-06-20 22:40:56 UTC] Pedido do usuario: /akita podcast ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos Resposta/solucao que funcionou ou contexto importante: Cara, cola aqui que essa é boa demais. Sabe aquele perrengue de você ficar explicando o mesmo ... _(tags: auto)_
+- [2026-06-20 22:40:43 UTC] Pedido do usuario: /akita deep_summary reduce ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos Resposta/solucao que funcionou ou contexto importante: # Resumo Exaustivo e Completo: ai-memory — Memória de Longo Prazo (Karpathy Wiki)... _(tags: auto)_
+- [2026-06-20 22:40:56 UTC] Pedido do usuario: /akita podcast ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos Resposta/solucao que funcionou ou contexto importante: Cara, cola aqui que essa é boa demais. Sabe aquele perrengue de você ficar explicando o mesmo... _(tags: auto)_
 - [2026-06-20 22:45:09 UTC] Pedido do usuario: /repo_analyze https://github.com/akitaonrails/ai-memory Resposta/solucao que funcionou ou contexto importante: <think>**Considering security and format** I need to craft an answer in a specific format while focusing on critical risks. It seems I might require L... _(tags: auto)_
 - [2026-06-20 23:41:28 UTC] Pedido do usuario: /resumo_hoje Resposta/solucao que funcionou ou contexto importante: ⏱️ **[04:31]** - 💾 Criado backup de `bot.py` e atualizados caches/memórias de erro ⏱️ **[04:49]** - 💾 Criado novo backup de `bot.py` ⏱️ **[05:44]** - 🔑 Atualizado registry de APIs em `cache/api... _(tags: auto)_
-- [2026-06-26 21:14:34 UTC] Pedido do usuario: /repo_analyze https://github.com/arxhr007/Aliens_eye Resposta/solucao que funcionou ou contexto importante: **🎯 Resumo Executivo** Aliens Eye é um scanner OSINT para localizar usernames em centenas de plataformas sociais. Pode ser útil no Hermes como módulo de ... _(tags: auto)_
+- [2026-06-26 21:14:34 UTC] Pedido do usuario: /repo_analyze https://github.com/arxhr007/Aliens_eye Resposta/solucao que funcionou ou contexto importante: **🎯 Resumo Executivo** Aliens Eye é um scanner OSINT para localizar usernames em centenas de plataformas sociais. Pode ser útil no Hermes como módulo de... _(tags: auto)_
 - [2026-06-26 21:20:40 UTC] Pedido do usuario: /repo_analyze https://github.com/ShadowHackrs/gmail-account-creator Resposta/solucao que funcionou ou contexto importante: **🎯 Resumo Executivo** Ferramenta Python para automação em massa de criação de contas Gmail com anti-detecção, bypass de verificação telef... _(tags: auto)_
-- [2026-06-26 23:04:02 UTC] Pedido do usuario: "domain": ".gemini.google.com", "hostOnly": false, "path": "/", "secure": false, "httpOnly": false, "sameSite": null, "session": false, "firstPartyDomain": "", "partitionKey": null, "expirationDate": 1790287326, "storeId": null }, { "name": "COMPASS", "value": ... _(tags: auto)_
+- [2026-06-26 23:04:02 UTC] Pedido do usuario: "domain": ".gemini.google.com", "hostOnly": false, "path": "/", "secure": false, "httpOnly": false, "sameSite": null, "session": false, "firstPartyDomain": "", "partitionKey": null, "expirationDate": 1790287326, "storeId": null }, { "name": "COMPASS", "value":... _(tags: auto)_
 - [2026-06-26 23:04:31 UTC] Pedido do usuario: "domain": ".google.com", "hostOnly": false, "path": "/", "secure": true, "httpOnly": false, "sameSite": "strict", "session": false, "firstPartyDomain": "", "partitionKey": null, "expirationDate": 1782513417.375, "storeId": null }, { "name": "_ga", "value": "GA1... _(tags: auto)_
 - [2026-06-26 23:04:42 UTC] Pedido do usuario: "name": "SSID", "value": "AuHJuU9gcqTeHwbq0", "domain": ".google.com", "hostOnly": false, "path": "/", "secure": true, "httpOnly": true, "sameSite": null, "session": false, "firstPartyDomain": "", "partitionKey": null, "expirationDate": 1816483098.74, "storeId"... _(tags: auto)_
 - [2026-06-27 03:47:51 UTC] Pedido do usuario: /analisar_chat https://share.gemini.google/q91I0x3PTKKn Resposta/solucao que funcionou ou contexto importante: # Relatório de Análise — Sessão Hermes / Telegram ## 1. Resumo Executivo A sessão concentrou-se em **análise de repositórios externos** via `/repo_ana... _(tags: auto)_
 - [2026-06-27 04:23:15 UTC] Pedido do usuario: /analisar_chat https://g.co/gemini/share/5f30a59343af Resposta/solucao que funcionou ou contexto importante: # Relatório de Análise — Sessão Hermes / Telegram **Foco solicitado:** `https://g.co/gemini/share/5f30a59343af` ## 1. Resumo Executivo A sessão atual re... _(tags: auto)_
 - [2026-06-27 08:27:19 UTC] Pedido do usuario: /repo_analyze https://github.com/DeusData/codebase-memory-mcp Resposta/solucao que funcionou ou contexto importante: **🎯 Resumo Executivo** Servidor MCP de inteligência de código que indexa repositórios em um grafo persistente para consultas rápidas por agentes... _(tags: auto)_
-- [2026-06-27 09:54:15 UTC] Pedido do usuario: /repo_analyze https://github.com/Alfredredbird/tookie-osint Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Alfredredbird-tookie-osint` 📊 Nota técnica (extraída): **65/100** 🔗 ... _(tags: auto)_
+- [2026-06-27 09:54:15 UTC] Pedido do usuario: /repo_analyze https://github.com/Alfredredbird/tookie-osint Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Alfredredbird-tookie-osint` 📊 Nota técnica (extraída): **65/100** 🔗... _(tags: auto)_
 
 ---
 
@@ -406,7 +408,6 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 1 | `cache/codebase_repos/` |
 | Logs PM2 | 7186 linhas | `~/.pm2/logs/telegram-bot-out.log` |
-| ai-memory MCP | remoto | `http://127.0.0.1:49375/mcp` |
 
 ### Podcasts em cache
 
@@ -433,10 +434,10 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.43 MB |
-| Novas secoes | 7 |
+| Dados processados | 0.51 MB |
 | Comandos catalogados | 118 |
 | Conexoes wiki no vault | 487 |
+| Trigger | `watchdog:bot.py` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
