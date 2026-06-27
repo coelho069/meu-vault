@@ -8,17 +8,17 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T13:08:40Z
-updated_at: 2026-06-27T13:08:40Z
+created_at: 2026-06-27T13:12:03Z
+updated_at: 2026-06-27T13:12:03Z
 source: memory-extraction-pipeline
-trigger: watchdog:bot.py
+trigger: manual-user
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 13:08 UTC** (trigger: `watchdog:bot.py`).
+> Ultima consolidacao: **2026-06-27 13:12 UTC** (trigger: `manual-user`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -406,7 +406,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[resumo-hoje-e-195033]]
 - [[validacao-akita]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
@@ -451,7 +451,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Historico repo_analyze | 13 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 3 | `cache/codebase_repos/` |
-| Logs PM2 | 7392 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7400 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -482,7 +482,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Dados processados | 0.77 MB |
 | Comandos catalogados | 120 |
 | Conexoes wiki no vault | 497 |
-| Trigger | `watchdog:bot.py` |
+| Trigger | `manual-user` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
