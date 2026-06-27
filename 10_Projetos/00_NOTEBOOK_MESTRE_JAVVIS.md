@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T16:00:15Z
-updated_at: 2026-06-27T16:00:15Z
+created_at: 2026-06-27T17:00:24Z
+updated_at: 2026-06-27T17:00:24Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 16:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 17:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -59,8 +59,8 @@ Comandos disponiveis (varredura automatica do bot.py):
 /osint_search <alvo> - Busca OSINT com sugestao da biblioteca Awesome
 /osint_tools <tema> - Consultoria: melhores ferramentas OSINT por tema
 /attack_surface <alvo> - Superficie de ataque (portas, SSL, buckets)
-/find_targets - Micro-SaaS BR stealth (Vercel/Startup dirs)
-/check_ads_leak <url> - Anon Key + exposicao Baixo/Medio/Critico
+/find_targets [query] - Agent-Reach (Twitter/GitHub/Web)
+/check_ads_leak <url> - Deep Scan + Network Sniff Supabase
 /ads_leak - Alias de /check_ads_leak
 /verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 /langgraph_test [texto] - Valida orquestracao LangGraph com checkpoints
@@ -207,7 +207,8 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ### Armadilhas relacionadas (gotchas)
 
-
+- [[check-ads-leak-https-clinica-saas-demo-vercel-app]] — clinica-saas-demo.vercel.app" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T16:04:42Z status: active source: ai-memory-p...
+- [[check-ads-leak-https-portfolio-dg-rosy-vercel-app]] — portfolio-dg-rosy.vercel.app" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T16:49:26Z status: active source: ai-memory-p...
 
 ---
 
@@ -353,8 +354,12 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 
 
-### Sessoes e interacoes indexadas (2)
+### Sessoes e interacoes indexadas (6)
 
+- [[check-ads-leak-https-frt-financer-vercel-app-login]]
+- [[check-ads-leak-https-ludospro-com-br]]
+- [[check-ads-leak-https-servizap-com-br-urgencia]]
+- [[check-ads-leak-https-servizap-com-br]]
 - [[check-ads-leak-https-www-relay-app-apps-instagram-integrations-supabase]]
 - [[sre-test]]
 
@@ -364,7 +369,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ## 11. Memoria Persistente do Bot
 
-69 itens em `cache/persistent_memory.json` (lista completa).
+73 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -435,6 +440,10 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [2026-06-27 11:23:18 UTC] Pedido do usuario: /repo_analyze https://github.com/Astrosp/Awesome-OSINT-List Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Astrosp-Awesome-OSINT-List` 📊 Nota técnica (extraída): **75/100** 🔗 https://github.com/Astrosp/Awesome-OSINT-List Este repositório é uma lista "Awesome" de ferramentas e recursos OSINT (Open Source Intelligence). Como tal, sua arquitetura e qualidade de código devem ser avaliadas sob a ó... _(tags: auto)_
 - [2026-06-27 12:00:18 UTC] Pedido do usuario: /repo_analyze https://github.com/cobusgreyling/loop-engineering Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-cobusgreyling-loop-engineering` 📊 Nota técnica (extraída): **85/100** 🔗 https://github.com/cobusgreyling/loop-engineering ## 📊 Nota Técnica: 85/100 O repositório `cobusgreyling/loop-engineering` apresenta uma abordagem inovadora e bem estruturada para o "loop engineering" com agentes... _(tags: auto)_
 - [2026-06-27 14:37:25 UTC] Pedido do usuario: /repo_analyze https://github.com/DietrichGebert/ponytail.git Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-DietrichGebert-ponytail` 📊 Nota técnica (extraída): **85/100** 🔗 https://github.com/DietrichGebert/ponytail Com certeza! Vamos analisar o repositório `DietrichGebert/ponytail` com base nas informações fornecidas. --- **📊 Nota Técnica:** 85/100 **Justificativa:** O projeto `ponytail` apr... _(tags: auto)_
+- [2026-06-27 16:04:42 UTC] Pedido do usuario: /check_ads_leak https://clinica-saas-demo.vercel.app Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://clinica-saas-demo.vercel.app Titulo: 404: NOT_FOUND Metadados: - viewport: width=device-width,initial-scale=1 - theme-color: #000 Links encontrados: - https://vercel.com/docs/errors/DEPLOYMENT_NOT_FOUND Avisos: - SDK Supabase nao detectado (supabaseUrl/supabaseAnonKey ausentes). Modo: Playwright incognito + stealth. _(tags: auto)_
+- [2026-06-27 16:13:35 UTC] Pedido do usuario: /check_ads_leak https://app.payloop.com.br Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://app.payloop.com.br Titulo: app.payloop.com.br Metadados: - color-scheme: light dark - theme-color: #fff - viewport: width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no Avisos: - page.goto falhou apos 2 tentativa(s) — sniff parcial. Ultimo erro: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://app.payloop.com.br/ C... _(tags: auto)_
+- [2026-06-27 16:43:52 UTC] Pedido do usuario: /check_ads_leak https://frt-financer.vercel.app/login Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://frt-financer.vercel.app/login Titulo: FinanceR Track Metadados: - viewport: width=device-width, initial-scale=1 - description: Rastreando a sua saúde, construindo o seu futuro Endpoints/API: - https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams - https://nextjs.org/docs/app/api-reference/funct... _(tags: auto)_
+- [2026-06-27 16:49:26 UTC] Pedido do usuario: /check_ads_leak https://portfolio-dg-rosy.vercel.app Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://portfolio-dg-rosy.vercel.app Titulo: 404: NOT_FOUND Metadados: - viewport: width=device-width,initial-scale=1 - theme-color: #000 Links encontrados: - https://vercel.com/docs/errors/DEPLOYMENT_NOT_FOUND Avisos: - Nenhum trafego Supabase capturado (network sniff) nem SDK no HTML/JS. Modo: Active Network Sniffing + Playwright stealth. _(tags: auto)_
 
 ---
 
@@ -2892,6 +2901,137 @@ Endpoints/API:
 ### Usuario
 ### Hermes
 
+## Export 239d0ac7
+
+**Interacao 2026-06-27 16:01:17 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:01:17 UTC
+### Usuario
+### Hermes
+
+## Export b7ae608d
+
+**Interacao 2026-06-27 16:04:42 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:04:42 UTC
+Conceitos: [[Playwright]], [[Relatorio Ads Leak Scan]], [[Alvo]], [[Titulo]], [[404]], [[NOT_FOUND Metadados]], [[000 Links]], [[DEPLOYMENT_NOT_FOUND Avisos]]
+### Usuario
+### Hermes
+- https://vercel.com/docs/errors/DEPLOYMENT_NOT_FOUND
+
+## Export 16962480
+
+**Interacao 2026-06-27 16:05:55 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:05:55 UTC
+### Usuario
+### Hermes
+Endpoints/API:
+
+## Export f718dac5
+
+**Interacao 2026-06-27 16:13:35 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:13:35 UTC
+Conceitos: [[Playwright]], [[Relatorio Ads Leak Scan]], [[Alvo]], [[Titulo]], [[Metadados]], [[Avisos]], [[Ultimo]], [[Error]]
+### Usuario
+### Hermes
+- page.goto falhou apos 2 tentativa(s) — sniff parcial. Ultimo erro: Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://app.payloop.com.br/
+- Sniff parcial: 0 credencial(is), 2 request(s) capturados ate a falha.
+
+## Export 339ed536
+
+**Interacao 2026-06-27 16:17:08 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:17:08 UTC
+### Usuario
+### Hermes
+
+## Export 7891f1ba
+
+**Interacao 2026-06-27 16:20:07 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:20:07 UTC
+### Usuario
+### Hermes
+
+## Export 3951e07f
+
+**Interacao 2026-06-27 16:39:56 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:39:56 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[2026]], [[Botoes]], [[Abrir]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 801a1ae9
+
+**Interacao 2026-06-27 16:43:52 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:43:52 UTC
+Conceitos: [[Playwright]], [[Relatorio Ads Leak Scan]], [[Alvo]], [[Titulo]], [[FinanceR Track Metadados]], [[Rastreando]], [[Endpoints]], [[API]]
+### Usuario
+### Hermes
+Endpoints/API:
+Status RLS: Indeterminado
+
+## Export d790de46
+
+**Interacao 2026-06-27 16:46:41 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:46:41 UTC
+Conceitos: [[Docker]], [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 83467af3
+
+**Interacao 2026-06-27 16:48:23 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:48:23 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 9b062f62
+
+**Interacao 2026-06-27 16:49:26 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:49:26 UTC
+Conceitos: [[Playwright]], [[Relatorio Ads Leak Scan]], [[Alvo]], [[Titulo]], [[404]], [[NOT_FOUND Metadados]], [[000 Links]], [[DEPLOYMENT_NOT_FOUND Avisos]]
+### Usuario
+### Hermes
+- https://vercel.com/docs/errors/DEPLOYMENT_NOT_FOUND
+
+## Export 7ff63d93
+
+**Interacao 2026-06-27 16:49:45 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:49:45 UTC
+### Usuario
+### Hermes
+
+## Export 35883d4b
+
+**Interacao 2026-06-27 16:52:18 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:52:18 UTC
+### Usuario
+### Hermes
+Endpoints/API:
+
+## Export 7610b5c7
+
+**Interacao 2026-06-27 16:54:08 UTC** (resumo export)
+
+## Interacao 2026-06-27 16:54:08 UTC
+### Usuario
+### Hermes
+Endpoints/API:
+
 
 
 ---
@@ -2908,12 +3048,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 14 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 69 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 20 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 73 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 7679 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7870 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -2941,9 +3081,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.00 MB |
+| Dados processados | 1.02 MB |
 | Comandos catalogados | 125 |
-| Conexoes wiki no vault | 514 |
+| Conexoes wiki no vault | 520 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
