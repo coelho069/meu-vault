@@ -1,0 +1,415 @@
+{
+  "timestamp": "2026-06-27T09:50:43.371185+00:00",
+  "backup_tag": "backup-pre-organizacao-ia-20260627",
+  "notes_renamed": 157,
+  "folders_created": 6,
+  "links_fixed": 450,
+  "notes_moved": 391,
+  "mocs_created": 4,
+  "links_ok": 3107,
+  "links_broken": 1774,
+  "renames": [
+    {
+      "from": "00_Inbox/Código Duplicado",
+      "to": "00_Inbox/Codigo_Duplicado"
+    },
+    {
+      "from": "00_Inbox/Modo API",
+      "to": "00_Inbox/Erro_Tecnico_Modo_ativo"
+    },
+    {
+      "from": "30_Recursos/00 MB",
+      "to": "30_Recursos/home_ubuntu_telegram_hermes"
+    },
+    {
+      "from": "30_Recursos/10 Status",
+      "to": "30_Recursos/Conceito_citado_interacao_sobre_Status"
+    },
+    {
+      "from": "30_Recursos/144",
+      "to": "30_Recursos/home_ubuntu_telegram_hermes_v2"
+    },
+    {
+      "from": "30_Recursos/2026-06-20_Follow_Detecta_Codigo_Morto_Duplicado_E_Complexo_Em_Projetos_JavaScript",
+      "to": "30_Recursos/YouTube_waHGleiNmMk"
+    },
+    {
+      "from": "30_Recursos/375",
+      "to": "30_Recursos/expirationDate"
+    },
+    {
+      "from": "30_Recursos/7583853645 Checkpoints",
+      "to": "30_Recursos/Conceito_citado_interacao_sobre_Checkpoints"
+    },
+    {
+      "from": "30_Recursos/Aliens Eye",
+      "to": "30_Recursos/sessao_concentrou_analise_repositorios_externos"
+    },
+    {
+      "from": "30_Recursos/Alta Complexidade",
+      "to": "30_Recursos/premissa_central_simples_operacionalmente_importante"
+    },
+    {
+      "from": "30_Recursos/Apple Silicon",
+      "to": "30_Recursos/Modelos_Olhama_melhoram_muito_velocidade"
+    },
+    {
+      "from": "30_Recursos/Assistente Pessoal",
+      "to": "30_Recursos/primeira_camada_real_potencia"
+    },
+    {
+      "from": "30_Recursos/Benchmark LLM",
+      "to": "30_Recursos/Resumo_Exaustivo_Benchmark_Kimi_code"
+    },
+    {
+      "from": "30_Recursos/Claude Code",
+      "to": "30_Recursos/Conectar_Hermes_Claude_Code"
+    },
+    {
+      "from": "30_Recursos/Claude OS Bridge",
+      "to": "30_Recursos/transcricao_afirma_sistema_acesso_entire"
+    },
+    {
+      "from": "30_Recursos/Cloud Code",
+      "to": "30_Recursos/video_mostra_instalacao_Cloud_Code"
+    },
+    {
+      "from": "30_Recursos/Cofre Obsidian",
+      "to": "30_Recursos/Cofre_Obsidian_higienizado"
+    },
+    {
+      "from": "30_Recursos/Conectar Hermes",
+      "to": "30_Recursos/Conectar_Hermes_Claude_Code_v2"
+    },
+    {
+      "from": "30_Recursos/Considering",
+      "to": "30_Recursos/YouTube_Considering"
+    },
+    {
+      "from": "30_Recursos/Cron Jobs",
+      "to": "30_Recursos/virada_operacional_descrita_transcricao"
+    },
+    {
+      "from": "30_Recursos/Desenvolvimento Web",
+      "to": "30_Recursos/Follow_apresentado_como_ferramenta_gratuita"
+    },
+    {
+      "from": "30_Recursos/EO-NDe824Ht2R8U0 Beleza",
+      "to": "30_Recursos/Conceito_citado_interacao_sobre_Beleza"
+    },
+    {
+      "from": "30_Recursos/EO-NDe824Ht2R8U0 Voc",
+      "to": "30_Recursos/Conceito_citado_interacao_sobre"
+    },
+    {
+      "from": "30_Recursos/Ent",
+      "to": "30_Recursos/EntA_vamos"
+    },
+    {
+      "from": "30_Recursos/Estrela Norte",
+      "to": "30_Recursos/funcao_Goals_Hermes_aparece"
+    },
+    {
+      "from": "30_Recursos/Event Loop",
+      "to": "30_Recursos/Explique_abstracoes_analogias_concretas_hardware"
+    },
+    {
+      "from": "30_Recursos/Flight Goat",
+      "to": "30_Recursos/exemplo_Flight_Goat_materializa_proposta"
+    },
+    {
+      "from": "30_Recursos/Graph View",
+      "to": "30_Recursos/Abra_visualizacao_Grafico_Graph_View"
+    },
+    {
+      "from": "30_Recursos/Hermes Agent",
+      "to": "30_Recursos/Este_contexto_notas_documentos"
+    },
+    {
+      "from": "30_Recursos/Hermes Docker Telegram",
+      "to": "30_Recursos/Resposta_teste_Hermes_Docker"
+    },
+    {
+      "from": "30_Recursos/Hermes LangGraph OK",
+      "to": "30_Recursos/Conceito_citado_interacao_sobre_v2"
+    },
+    {
+      "from": "30_Recursos/Hugging Face",
+      "to": "30_Recursos/video_mostra_setup_modelos_GGUF"
+    },
+    {
+      "from": "30_Recursos/Humana Focada",
+      "to": "30_Recursos/comandos_summary_dead_code_dups"
+    },
+    {
+      "from": "30_Recursos/Karpathy Wiki",
+      "to": "30_Recursos/akita_deep_summary_memory"
+    },
+    {
+      "from": "30_Recursos/LLM Benchmark",
+      "to": "30_Recursos/akita_podcast_Benchmark_Kimi_code"
+    },
+    {
+      "from": "30_Recursos/LM Studio",
+      "to": "30_Recursos/comparacao_feita_Ollama_Studio_importante"
+    },
+    {
+      "from": "30_Recursos/LangGraph OK",
+      "to": "30_Recursos/LangGraph_orquestracao_stateful_MemorySaver"
+    },
+    {
+      "from": "30_Recursos/M4 Max",
+      "to": "30_Recursos/caso_transcricao_setup_Studio_chip"
+    },
+    {
+      "from": "30_Recursos/MOC Central",
+      "to": "30_Recursos/cofre_varrido_auto_sinapses_foram"
+    },
+    {
+      "from": "30_Recursos/Mac Studio",
+      "to": "30_Recursos/caso_transcricao_setup_Studio_chip_v2"
+    },
+    {
+      "from": "30_Recursos/MemorySaver Thread",
+      "to": "30_Recursos/Conceito_citado_interacao_sobre_MemorySaver"
+    },
+    {
+      "from": "30_Recursos/Minimax M3",
+      "to": "30_Recursos/akita_podcast_Benchmark_Kimi_code_v2"
+    },
+    {
+      "from": "30_Recursos/Modelos Locais",
+      "to": "30_Recursos/Agent_aparece_transcricao_como_Agente"
+    },
+    {
+      "from": "30_Recursos/Modelos MLX",
+      "to": "30_Recursos/Modelos_Olhama_melhoram_muito_velocidade_v2"
+    },
+    {
+      "from": "30_Recursos/Multi Token Prediction",
+      "to": "30_Recursos/Essa_cautela_importante_video_trata"
+    },
+    {
+      "from": "30_Recursos/Munder Difflin",
+      "to": "30_Recursos/Resumo_Executivo_Munder_Difflin_harness"
+    },
+    {
+      "from": "30_Recursos/O68y0yRZL1Y",
+      "to": "30_Recursos/YouTube_O68y0yRZL1Y"
+    },
+    {
+      "from": "30_Recursos/Por Que LLMs",
+      "to": "30_Recursos/akita_deep_summary_LLMs_falhar"
+    },
+    {
+      "from": "30_Recursos/Primeiro",
+      "to": "30_Recursos/Primeiro_mostra_estado_geral_projeto"
+    },
+    {
+      "from": "30_Recursos/Printing Press",
+      "to": "30_Recursos/Printing_Press_gera_documentacao_interfaces"
+    }
+  ],
+  "moves": [
+    {
+      "from": "000_INDEX_CENTRAL",
+      "to": "00_Inbox/000_INDEX_CENTRAL"
+    },
+    {
+      "from": "00_MOCs/MOC_GitHub",
+      "to": "30_Recursos/MOCs/MOC_GitHub"
+    },
+    {
+      "from": "00_MOCs/MOC_Hermes",
+      "to": "30_Recursos/MOCs/MOC_Hermes"
+    },
+    {
+      "from": "00_MOCs/MOC_Infraestrutura",
+      "to": "30_Recursos/MOCs/MOC_Infraestrutura"
+    },
+    {
+      "from": "00_MOCs/MOC_Master",
+      "to": "30_Recursos/MOCs/MOC_Master"
+    },
+    {
+      "from": "00_MOCs/MOC_Telegram",
+      "to": "30_Recursos/MOCs/MOC_Telegram"
+    },
+    {
+      "from": "00_MOCs/MOC_Twitter",
+      "to": "30_Recursos/MOCs/MOC_Twitter"
+    },
+    {
+      "from": "00_MOCs/MOC_YouTube",
+      "to": "30_Recursos/MOCs/MOC_YouTube"
+    },
+    {
+      "from": "01_Fleeting/AI_Sistema_Comparativo_Resumo",
+      "to": "00_Inbox/AI_Sistema_Comparativo_Resumo"
+    },
+    {
+      "from": "01_Fleeting/Agente_de_Memoria",
+      "to": "00_Inbox/Agente_de_Memoria"
+    },
+    {
+      "from": "01_Fleeting/Atualizacao_Sessao_Conversas",
+      "to": "00_Inbox/Atualizacao_Sessao_Conversas"
+    },
+    {
+      "from": "01_Fleeting/Bibliotecas_Versoes_Desalinhadas",
+      "to": "00_Inbox/Bibliotecas_Versoes_Desalinhadas"
+    },
+    {
+      "from": "01_Fleeting/Diagnostico_Dependencias",
+      "to": "00_Inbox/Diagnostico_Dependencias"
+    },
+    {
+      "from": "01_Fleeting/Extracao_Massiva_Erro_Cloud",
+      "to": "00_Inbox/Extracao_Massiva_Erro_Cloud"
+    },
+    {
+      "from": "01_Fleeting/GANs_gerador_discriminador",
+      "to": "00_Inbox/GANs_gerador_discriminador"
+    },
+    {
+      "from": "01_Fleeting/IA_Comparacao_Modelos_Linguisticos",
+      "to": "00_Inbox/IA_Comparacao_Modelos_Linguisticos"
+    },
+    {
+      "from": "01_Fleeting/Instabilidade_Dependencias_Erro_Execucao",
+      "to": "00_Inbox/Instabilidade_Dependencias_Erro_Execucao"
+    },
+    {
+      "from": "01_Fleeting/JSON_Autenticacao_Twitter_CLI",
+      "to": "00_Inbox/JSON_Autenticacao_Twitter_CLI"
+    },
+    {
+      "from": "01_Fleeting/MarcoAurelio_Tweet_Origem_Sessao",
+      "to": "00_Inbox/MarcoAurelio_Tweet_Origem_Sessao"
+    },
+    {
+      "from": "01_Fleeting/Memoria_Agente_Grafico",
+      "to": "00_Inbox/Memoria_Agente_Grafico"
+    },
+    {
+      "from": "01_Fleeting/Mensagem_clara_concisa",
+      "to": "00_Inbox/Mensagem_clara_concisa"
+    },
+    {
+      "from": "01_Fleeting/Modelo_Contexto_YAML_Resumo",
+      "to": "00_Inbox/Modelo_Contexto_YAML_Resumo"
+    },
+    {
+      "from": "01_Fleeting/Modo API",
+      "to": "00_Inbox/Modo API"
+    },
+    {
+      "from": "01_Fleeting/Obsidian_Restaurar_Conversas_Teste",
+      "to": "00_Inbox/Obsidian_Restaurar_Conversas_Teste"
+    },
+    {
+      "from": "01_Fleeting/Programacao_orientada_objetos",
+      "to": "00_Inbox/Programacao_orientada_objetos"
+    },
+    {
+      "from": "01_Fleeting/Proximos_passos_Verificar_atualizar",
+      "to": "00_Inbox/Proximos_passos_Verificar_atualizar"
+    },
+    {
+      "from": "01_Fleeting/Relatorio_PT_producao",
+      "to": "00_Inbox/Relatorio_PT_producao"
+    },
+    {
+      "from": "01_Fleeting/Resumo_da_Conta_Marco",
+      "to": "00_Inbox/Resumo_da_Conta_Marco"
+    },
+    {
+      "from": "01_Fleeting/SSH_Conexao_Instrucoes_Detalhes",
+      "to": "00_Inbox/SSH_Conexao_Instrucoes_Detalhes"
+    },
+    {
+      "from": "01_Fleeting/SSH_Ubuntu_Conexao_VPS",
+      "to": "00_Inbox/SSH_Ubuntu_Conexao_VPS"
+    },
+    {
+      "from": "01_Fleeting/SSH_Ubuntu_Conexao_VPS_2",
+      "to": "00_Inbox/SSH_Ubuntu_Conexao_VPS_2"
+    },
+    {
+      "from": "01_Fleeting/SSH_Ubuntu_VPS_Conexao",
+      "to": "00_Inbox/SSH_Ubuntu_VPS_Conexao"
+    },
+    {
+      "from": "01_Fleeting/Ser_Resumo_Synmateus_Conversas",
+      "to": "00_Inbox/Ser_Resumo_Synmateus_Conversas"
+    },
+    {
+      "from": "01_Fleeting/Sinapses_Neurais",
+      "to": "00_Inbox/Sinapses_Neurais"
+    },
+    {
+      "from": "01_Fleeting/Sinapses_Neurais_2",
+      "to": "00_Inbox/Sinapses_Neurais_2"
+    },
+    {
+      "from": "01_Fleeting/Sinapses_Neurais_3",
+      "to": "00_Inbox/Sinapses_Neurais_3"
+    },
+    {
+      "from": "01_Fleeting/Sinapses_Neurais_Memoria",
+      "to": "00_Inbox/Sinapses_Neurais_Memoria"
+    },
+    {
+      "from": "01_Fleeting/Sinapses_Neurais_Memoria_2",
+      "to": "00_Inbox/Sinapses_Neurais_Memoria_2"
+    },
+    {
+      "from": "01_Fleeting/SynMateus_Resumo_Twitter_Post",
+      "to": "00_Inbox/SynMateus_Resumo_Twitter_Post"
+    },
+    {
+      "from": "01_Fleeting/Sync_Obsidian_Verificacao_Post",
+      "to": "00_Inbox/Sync_Obsidian_Verificacao_Post"
+    },
+    {
+      "from": "01_Fleeting/Tente_novamente_instantes",
+      "to": "00_Inbox/Tente_novamente_instantes"
+    },
+    {
+      "from": "01_Fleeting/Tweet_publicado_sucesso",
+      "to": "00_Inbox/Tweet_publicado_sucesso"
+    },
+    {
+      "from": "01_Fleeting/Twitter_Autenticacao",
+      "to": "00_Inbox/Twitter_Autenticacao"
+    },
+    {
+      "from": "01_Fleeting/Twitter_Post_Oi_Sessao",
+      "to": "00_Inbox/Twitter_Post_Oi_Sessao"
+    },
+    {
+      "from": "01_Fleeting/Twitter_Publicando_Oi",
+      "to": "00_Inbox/Twitter_Publicando_Oi"
+    },
+    {
+      "from": "01_Fleeting/Twitter_Status_Resumo_Sessao",
+      "to": "00_Inbox/Twitter_Status_Resumo_Sessao"
+    },
+    {
+      "from": "01_Fleeting/VPS_Acesso_Resumo_Conversas",
+      "to": "00_Inbox/VPS_Acesso_Resumo_Conversas"
+    },
+    {
+      "from": "01_Fleeting/VPS_SSH_Conexao",
+      "to": "00_Inbox/VPS_SSH_Conexao"
+    },
+    {
+      "from": "01_Fleeting/VPS_SSH_Ubuntu_Conexao",
+      "to": "00_Inbox/VPS_SSH_Ubuntu_Conexao"
+    },
+    {
+      "from": "01_Fleeting/Voce_acesso_pela",
+      "to": "00_Inbox/Voce_acesso_pela"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+---
+tags:
+  - conceito
+data: "2026-06-20"
+---
+
+# Graph View
+
+Resumo: Abra a visualização de Gráfico (Graph View) no Obsidian para ver seu Segundo Cérebro em ação.
+
+Conversas relacionadas:
+- [[Sessao_2026-06-20|Sessao_2026-06-20]]
