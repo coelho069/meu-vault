@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[OpenClaw_Marketing_Skills_Resumo]], [[Sinapses_Neurais_2]], [[Grok_Aprendizado_Estrategico]], [[base_codigo_atual_faca]]
+**🧠 Sinapses Neurais:** [[YouTube_Grok_Contexto_v2]], [[openclaw_marketing_skills_https_github]], [[Sinapses_Neurais_2]], [[YouTube_Grok_Aprendizado_v2]], [[base_codigo_atual_faca]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

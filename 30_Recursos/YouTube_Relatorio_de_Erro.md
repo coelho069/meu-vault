@@ -29,7 +29,7 @@ Erro Técnico: Modo API ativo: fallback local desabilitado.
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Modo API]], [[Sinapses_Neurais_Memoria_2]], [[API_agentes_IA]], [[Grok_AI_Transcricao_Resumo]], [[Extracao_Massiva_Erro_Cloud]]
+**🧠 Sinapses Neurais:** [[API]], [[Sinapses_Neurais_Memoria_2]], [[API_agentes_IA]], [[YouTube_Grok_Aprendizado]], [[Extracao_Massiva_Erro_Cloud]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

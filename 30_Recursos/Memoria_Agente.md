@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Memoria_Agente_Ok_Resumo]], [[Salvo_Memoria_Agente]], [[base_codigo_atual_faca]], [[Sinapses_Neurais_2]], [[Hermes_Erro_Contexto_Gemma3]]
+**🧠 Sinapses Neurais:** [[Conceito_citado_interacao_sobre_Memoria]], [[Salvo_Memoria_Agente]], [[base_codigo_atual_faca]], [[Sinapses_Neurais_2]], [[Hermes_update]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

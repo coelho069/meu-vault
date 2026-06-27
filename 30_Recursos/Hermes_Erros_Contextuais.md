@@ -26,7 +26,7 @@ Erro Técnico: extracao massiva requer provedor cloud 64k (configured_secret ou 
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
+Conceitos: [[Hermes_update]], [[Choose_model_with_least_context]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[Erro_Tecnico_returncode_stderr_hermes_v2]], [[Erro_Tecnico_returncode_stderr_hermes]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos_relacionados]]
 
 ### Usuario
 
@@ -40,7 +40,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[S
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
+Conceitos: [[Hermes_update]], [[Choose_model_with_least_context]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[Erro_Tecnico_returncode_stderr_hermes_v2]], [[Erro_Tecnico_returncode_stderr_hermes]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos_relacionados]]
 
 ### Usuario
 
@@ -54,7 +54,7 @@ Erro Técnico: returncode=1 stderr=hermes -z: agent failed: Model gemma3:12b has
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]]
+Conceitos: [[Hermes_update]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]]
 
 ### Usuario
 
@@ -68,7 +68,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria_2]], [[Ex
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]]
+Conceitos: [[Hermes_update]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]]
 
 ### Usuario
 
@@ -132,7 +132,7 @@ For those interested in optimizing their use of AI tools, this video could be qu
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria]], [[Sinapses_Neurais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[Sinapses_Neurais_Memoria]], [[Sinapses_Neurais]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
 
 ### Usuario
 
@@ -162,7 +162,7 @@ Regras foram seguidas, evitando a exposiÃ§Ã£o de tokens ou credenciais e man
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria]], [[Sinapses_Neurais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[Sinapses_Neurais_Memoria]], [[Sinapses_Neurais]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
 
 ### Usuario
 
@@ -192,7 +192,7 @@ Regras foram seguidas, evitando a exposiÃ§Ã£o de tokens ou credenciais e man
 
 Usuario: `7583853645`
 
-Conceitos: [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[Modo API]]
+Conceitos: [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[API]]
 
 ### Usuario
 
@@ -206,7 +206,7 @@ Erro Técnico: Modo API ativo: fallback local desabilitado.
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria_2]], [[Grok_Resumo_Transcricao_Hermes]], [[Sinapses_Neurais_2]], [[API_Resumo_Transcricao_Limitada]], [[ideia_central_Grok_diferencia]], [[usar_deep_search_para]], [[comparar_promessas_marketing_relatos]]
+Conceitos: [[Hermes_update]], [[Sinapses_Neurais_Memoria_2]], [[tratar_transcricao_como_fonte_unica]], [[Sinapses_Neurais_2]], [[API_Resumo_Transcricao_Limitada]], [[ideia_central_Grok_diferencia_combinar]], [[usar_deep_search_para]], [[comparar_promessas_marketing_relatos_reais]]
 
 ### Usuario
 
@@ -244,7 +244,7 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria_2]], [[Grok_Resumo_Transcricao_Hermes]], [[Sinapses_Neurais_2]], [[API_Resumo_Transcricao_Limitada]], [[ideia_central_Grok_diferencia]], [[usar_deep_search_para]], [[comparar_promessas_marketing_relatos]]
+Conceitos: [[Hermes_update]], [[Sinapses_Neurais_Memoria_2]], [[tratar_transcricao_como_fonte_unica]], [[Sinapses_Neurais_2]], [[API_Resumo_Transcricao_Limitada]], [[ideia_central_Grok_diferencia_combinar]], [[usar_deep_search_para]], [[comparar_promessas_marketing_relatos_reais]]
 
 ### Usuario
 
@@ -280,7 +280,7 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[Grok_Aprendizado_Estrategico]], [[Atualizacao_de_Configuracoes]], [[Grok_AI_Transcricao_Resumo]], [[Grok_AI_Resumo_Transcricao]]
+**🧠 Sinapses Neurais:** [[YouTube_Grok_Contexto_v2]], [[YouTube_Grok_Aprendizado_v2]], [[Atualizacao_de_Configuracoes]], [[YouTube_Grok_Aprendizado]], [[YouTube_Grok_Contexto]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 
@@ -291,7 +291,7 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 
 Usuario: `7583853645`
 
-Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Tamb_Resumo_Conceitos_Interacao]]
+Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Conceito_citado_interacao_sobre_Tamb]]
 
 ### Usuario
 
@@ -328,7 +328,7 @@ Também é mostrado um fluxo com “sprints”: antes de codar, implementador e 
 
 Usuario: `7583853645`
 
-Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Tamb_Resumo_Conceitos_Interacao]]
+Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Conceito_citado_interacao_sobre_Tamb]]
 
 ### Usuario
 

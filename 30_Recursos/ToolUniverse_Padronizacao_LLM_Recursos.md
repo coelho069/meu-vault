@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_GitHub]]
-**🧠 Sinapses Neurais:** [[base_codigo_atual_faca]], [[GitHub_Conexao_SSH_Credenciais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_Memoria_2]], [[Twitter_Status_Resumo_Sessao]]
+**🧠 Sinapses Neurais:** [[base_codigo_atual_faca]], [[GitHub_Conexao_SSH_Credenciais]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[Sinapses_Neurais_Memoria_2]], [[Twitter_Status_Resumo_Sessao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

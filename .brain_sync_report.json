@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-06-27T10:03:06.629425+00:00",
+  "notes_processed": 525,
+  "notes_renamed": 117,
+  "notes_moved": 0,
+  "folders_created": 0,
+  "links_fixed": 442,
+  "mocs_created": 5,
+  "themes": [
+    "IA",
+    "Bot_Hermes",
+    "YouTube",
+    "Programacao",
+    "Infraestrutura"
+  ],
+  "links_ok": 4648,
+  "links_broken": 489,
+  "moc_names": [
+    "MOC_IA",
+    "MOC_Bot_Hermes",
+    "MOC_YouTube",
+    "MOC_Programacao",
+    "MOC_Infraestrutura"
+  ]
+}

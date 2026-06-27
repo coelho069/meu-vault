@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[Grok_Aprendizado_Estrategico]], [[Sinapses_Neurais_2]], [[base_codigo_atual_faca]], [[Sinapses_Neurais_Memoria]]
+**🧠 Sinapses Neurais:** [[YouTube_Grok_Contexto_v2]], [[YouTube_Grok_Aprendizado_v2]], [[Sinapses_Neurais_2]], [[base_codigo_atual_faca]], [[Sinapses_Neurais_Memoria]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

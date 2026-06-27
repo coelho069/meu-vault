@@ -93,7 +93,7 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Grok_Conteudo_Criativo_Avancado]], [[Grok_AI_Transcricao_Resumo]], [[API_agentes_IA]], [[ideia_central_Grok_diferencia]], [[Grok_Resumo_Transcricao_Hermes]]
+**🧠 Sinapses Neurais:** [[YouTube_Grok_Contexto_v2]], [[YouTube_Grok_Aprendizado]], [[API_agentes_IA]], [[ideia_central_Grok_diferencia_combinar]], [[tratar_transcricao_como_fonte_unica]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

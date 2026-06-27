@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[YouTube_Relatorio_de_Erro]], [[API_Resumo_Transcricao_Limitada]], [[Extracao_Massiva_Erro_Cloud]], [[Sinapses_Neurais_2]], [[Hermes_Erro_Contexto_Gemma3]]
+**🧠 Sinapses Neurais:** [[YouTube_Relatorio_de_Erro]], [[API_Resumo_Transcricao_Limitada]], [[Extracao_Massiva_Erro_Cloud]], [[Sinapses_Neurais_2]], [[Hermes_update]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

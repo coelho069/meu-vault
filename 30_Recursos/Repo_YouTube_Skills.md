@@ -88,7 +88,7 @@ O que adiciona:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Atualizacao_de_Configuracoes]], [[YouTube_Skills_Resumo]], [[YouTube_Skills_e_Transcricao]], [[OpenClaw_Marketing_Skills_Resumo]], [[Grok_Aprendizado_Estrategico]]
+**🧠 Sinapses Neurais:** [[Atualizacao_de_Configuracoes]], [[kills_https_github_ZeroPointRepo_youtube]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[openclaw_marketing_skills_https_github]], [[YouTube_Grok_Aprendizado_v2]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -19,7 +19,7 @@ Resumo: Erro Técnico: extracao massiva requer provedor cloud 64k (configured_se
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Hermes_Erro_Contexto_Gemma3]], [[Twitter_Post_Oi_Sessao]], [[Modo API]], [[Sinapses_Neurais_2]], [[gemma3_Contexto_Insuficiente_Falha]]
+**🧠 Sinapses Neurais:** [[Hermes_update]], [[Twitter_Post_Oi_Sessao]], [[API]], [[Sinapses_Neurais_2]], [[Erro_Tecnico_returncode_stderr_hermes_v2]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -31,7 +31,7 @@ Posso usar caminhos absolutos para ler e editar arquivos neste projeto. O que vo
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]
-**🧠 Sinapses Neurais:** [[Atualizacao_de_Configuracoes]], [[Primeiro_verifico_skill_redes]], [[Hermes_Bot_Verificacao_Redes]], [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Teste_Memoria_Autonoma]]
+**🧠 Sinapses Neurais:** [[Atualizacao_de_Configuracoes]], [[Primeiro_verifico_skill_redes_sociais]], [[Hermes_Bot_Verificacao_Redes]], [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Teste_Memoria_Autonoma]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

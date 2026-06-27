@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Memoria_Agente_Resumo_Conceito]], [[Conceito_citado_interacao_sobre]], [[Memoria_Agente_Ok_Resumo]], [[SynMateus_Vou_Resumo_Conceito]], [[Sim Sim]]
+**🧠 Sinapses Neurais:** [[Memoria_Agente_Resumo_Conceito]], [[Conceito_citado_interacao_sobre]], [[Conceito_citado_interacao_sobre_Memoria]], [[SynMateus_Vou_Resumo_Conceito]], [[Sim Sim]]

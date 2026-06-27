@@ -19,7 +19,7 @@ Resumo: Sobre o upgrade do Hermes, qual a sua dúvida ou necessidade específica
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Hermes_Atualizacao_Usuario]], [[Hermes_Erro_Contexto_Gemma3]], [[Memoria_Agente_Resumo_Conceito]], [[Twitter_Post_Oi_Sessao]], [[telegram_hermes_freebot_Atualizacoes]]
+**🧠 Sinapses Neurais:** [[Hermes_Atualizacao_Usuario]], [[Hermes_update]], [[Memoria_Agente_Resumo_Conceito]], [[Twitter_Post_Oi_Sessao]], [[telegram_hermes_freebot_Atualizacoes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

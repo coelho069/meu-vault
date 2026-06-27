@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Obsidian_Restaurar_Conversas_Teste]], [[Sinapses_Neurais_2]], [[Sinapses_Neurais_Memoria]], [[GitHub_Conexao]], [[Twitter_Autenticacao]]
+**🧠 Sinapses Neurais:** [[teste_obsidian_restore]], [[Sinapses_Neurais_2]], [[Sinapses_Neurais_Memoria]], [[GitHub_Conexao]], [[Twitter_Autenticacao]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

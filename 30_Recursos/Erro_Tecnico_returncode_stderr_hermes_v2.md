@@ -19,7 +19,7 @@ Resumo: ❌ Erro Técnico: returncode=1 stderr=hermes -z: agent failed: Model ge
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]
-**🧠 Sinapses Neurais:** [[Erro_Hermes_Context_Window]], [[Gemma3_Contexto_Muito_Pequeno]], [[Este_contexto_notas_documentos]], [[Hermes_Erro_Contexto_Gemma3]], [[API_agentes_IA]]
+**🧠 Sinapses Neurais:** [[Erro_Hermes_Context_Window]], [[Erro_Tecnico_returncode_stderr_hermes]], [[Este_contexto_notas_documentos_relacionados]], [[Hermes_update]], [[API_agentes_IA]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

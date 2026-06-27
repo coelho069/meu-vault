@@ -22,7 +22,7 @@ canal: id_1002433384436
 **Decisões / Insights:**
 - Sessão Telethon ausente/expirada ou canal inacessível para a conta autenticada.
 
-**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llama]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Id_1002433384436]] [[Sess]]
+**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llama]] [[Canais]] [[teste_obsidian_restore]] [[Id_1002433384436]] [[Sess]]
 **Confiança:** 0.0
 
 ## Mensagens coletadas (limpas)
@@ -34,7 +34,7 @@ canal: id_1002433384436
 - [[telegram_hermes_freebot_Atualizacoes]]
 - [[Llama]]
 - [[Conceitos/Canais]]
-- [[Obsidian_Restaurar_Conversas_Teste]]
+- [[teste_obsidian_restore]]
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
 

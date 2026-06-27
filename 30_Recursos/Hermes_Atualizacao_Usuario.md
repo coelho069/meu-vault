@@ -12,7 +12,7 @@ usuario: 7583853645
 
 Usuario: `7583853645`
 
-Conceitos: [[Memoria_Agente_Resumo_Conceito]], [[Atualizacao_Sessao_Conversas]]
+Conceitos: [[Memoria_Agente_Resumo_Conceito]], [[Tudo_certo_aqui]]
 
 ### Usuario
 
@@ -26,7 +26,7 @@ Olá! Tudo certo por aqui. Em que posso te ajudar com o qQQ MN? 😊
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Sobre_upgrade_Hermes_qual]]
+Conceitos: [[Hermes_update]], [[Sobre_upgrade_Hermes_qual]]
 
 ### Usuario
 
@@ -40,7 +40,7 @@ Olá! Sobre o upgrade do Hermes, qual a sua dúvida ou necessidade específica? 
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_3]]
+Conceitos: [[Hermes_update]], [[Sinapses_Neurais_3]]
 
 ### Usuario
 
@@ -54,7 +54,7 @@ Olá! Para te informar sobre as mudanças no update do Hermes, preciso saber qua
 
 Usuario: `7583853645`
 
-Conceitos: [[GitHub_Conexao_SSH_Credenciais]], [[GitHub_Conexao_Resumo_Conversas]], [[GitHub_CLI_Verificacao_Instalacao]], [[CLI_Verificacao_e_Instalacao]], [[GitHub_Conexao]]
+Conceitos: [[GitHub_Conexao_SSH_Credenciais]], [[Conecte_voce_GitHub]], [[GitHub_CLI_Verificacao_Instalacao]], [[CLI_Verificacao_e_Instalacao]], [[GitHub_Conexao]]
 
 ### Usuario
 

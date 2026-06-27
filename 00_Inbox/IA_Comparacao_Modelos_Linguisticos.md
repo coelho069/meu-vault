@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[AI_Sistema_Comparativo_Resumo]], [[API_agentes_IA]], [[Telegram_Atualizacoes_e_Desenvolvimentos]], [[Sinapses_Neurais_2]], [[Grok_AI_Resumo_Transcricao]]
+**🧠 Sinapses Neurais:** [[AI_Sistema_Comparativo_Resumo]], [[API_agentes_IA]], [[Telegram_Atualizacoes_e_Desenvolvimentos]], [[Sinapses_Neurais_2]], [[YouTube_Grok_Contexto]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

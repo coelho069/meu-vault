@@ -26,7 +26,7 @@ Para te dar uma recomendação precisa, preciso ver o código. Pode compartilhá
 
 Usuario: `7583853645`
 
-Conceitos: [[VPS_Acesso_Resumo_Conversas]], [[Voce_acesso_pela]]
+Conceitos: [[Voce_acesso_pela]], [[Voce_acesso_pela]]
 
 ### Usuario
 
@@ -54,7 +54,7 @@ Sim.
 
 Usuario: `7583853645`
 
-Conceitos: [[VPS_Acesso_Resumo_Conversas]], [[Memoria_Agente_Grafico]], [[pode_acessar_codigo]]
+Conceitos: [[Voce_acesso_pela]], [[Memoria_Agente_Grafico]], [[pode_acessar_codigo]]
 
 ### Usuario
 
@@ -82,7 +82,7 @@ Ok, envie o código! 😊
 
 Usuario: `7583853645`
 
-Conceitos: [[VPS_Acesso_Resumo_Conversas]], [[SSH_Ubuntu_Conexao_VPS]], [[SSH_Ubuntu_Conexao_VPS]], [[VPS_SSH_Conexao]], [[VPS_SSH_Ubuntu_Conexao]], [[SSH_Ubuntu_VPS_Conexao]], [[SSH_Conexao_Instrucoes_Detalhes]], [[SSH_Ubuntu_Conexao_VPS_2]]
+Conceitos: [[Voce_acesso_pela]], [[SSH_Ubuntu_Conexao_VPS]], [[SSH_Ubuntu_Conexao_VPS]], [[VPS_SSH_Conexao]], [[VPS_SSH_Ubuntu_Conexao]], [[SSH_Ubuntu_VPS_Conexao]], [[SSH_Conexao_Instrucoes_Detalhes]], [[SSH_Ubuntu_Conexao_VPS_2]]
 
 ### Usuario
 
@@ -138,7 +138,7 @@ Em termos de segurança, um token é uma chave ou código usado para autenticaç
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Memoria_Agente_Status]], [[Conceito_citado_interacao_sobre]], [[Sobre_upgrade_Hermes_qual]]
+Conceitos: [[Hermes_update]], [[Memoria_Agente_Status]], [[Conceito_citado_interacao_sobre]], [[Sobre_upgrade_Hermes_qual]]
 
 ### Usuario
 
@@ -152,7 +152,7 @@ Olá! Sobre o upgrade do Hermes, qual a sua dúvida ou necessidade específica? 
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Memoria_Agente_Ok_Resumo]], [[Instabilidade_Dependencias_Erro_Execucao]], [[Diagnostico_Dependencias]], [[Bibliotecas_Versoes_Desalinhadas]], [[Proximos_passos_Verificar_atualizar]], [[Salvo_Memoria_Agente]], [[Memoria_Agente]]
+Conceitos: [[Hermes_update]], [[Conceito_citado_interacao_sobre_Memoria]], [[Instabilidade_Dependencias_Erro_Execucao]], [[Diagnostico_Dependencias]], [[Bibliotecas_Versoes_Desalinhadas]], [[Proximos_passos_Verificar_atualizar]], [[Salvo_Memoria_Agente]], [[Memoria_Agente]]
 
 ### Usuario
 
@@ -170,7 +170,7 @@ Ok, resumindo o status do `local_videotranscriber`:
 
 Usuario: `7583853645`
 
-Conceitos: [[Atualizacao_Sessao_Conversas]]
+Conceitos: [[Tudo_certo_aqui]]
 
 ### Usuario
 
@@ -184,7 +184,7 @@ Olá! Tudo bem? 😊
 
 Usuario: `7583853645`
 
-Conceitos: [[Atualizacao_Sessao_Conversas]]
+Conceitos: [[Tudo_certo_aqui]]
 
 ### Usuario
 
@@ -198,7 +198,7 @@ Tudo certo por aqui! 😊
 
 Usuario: `999`
 
-Conceitos: [[Obsidian_Restaurar_Conversas_Teste]]
+Conceitos: [[teste_obsidian_restore]]
 
 ### Usuario
 
@@ -212,7 +212,7 @@ integracao restaurada
 
 Usuario: `test`
 
-Conceitos: [[Obsidian_Restaurar_Conversas_Teste]], [[Hermes_Erro_Contexto_Gemma3]]
+Conceitos: [[teste_obsidian_restore]], [[Hermes_update]]
 
 ### Usuario
 
@@ -226,7 +226,7 @@ resposta de teste do hermes
 
 Usuario: `7583853645`
 
-Conceitos: [[Obsidian_Restaurar_Conversas_Teste]], [[Sync_Obsidian_Verificacao_Post]]
+Conceitos: [[teste_obsidian_restore]], [[Sync_Obsidian_Verificacao_Post]]
 
 ### Usuario
 
@@ -240,7 +240,7 @@ Sync do vault funcionando apos correcao.
 
 Usuario: `test_diag`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]]
+Conceitos: [[Hermes_update]]
 
 ### Usuario
 
@@ -254,7 +254,7 @@ resposta diagnostico hermes
 
 Usuario: `7583853645`
 
-Conceitos: [[Atualizacao_Sessao_Conversas]]
+Conceitos: [[Tudo_certo_aqui]]
 
 ### Usuario
 
@@ -302,7 +302,7 @@ Tweet publicado com sucesso.
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[SynMateus_Vou_Resumo_Conceito]], [[Twitter_Post_Oi_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Primeiro_verifico_skill_redes]], [[CLI_Verificacao_e_Instalacao]], [[Hermes_Bot_Verificacao_Redes]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[SynMateus_Vou_Resumo_Conceito]], [[Twitter_Post_Oi_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Primeiro_verifico_skill_redes_sociais]], [[CLI_Verificacao_e_Instalacao]], [[Hermes_Bot_Verificacao_Redes]]
 
 ### Usuario
 
@@ -325,7 +325,7 @@ Publicado em 19/06/2026 às 18:29 UTC.
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[JSON_Autenticacao_Twitter_CLI]], [[Twitter_Post_Oi_Sessao]], [[Ser_Resumo_Synmateus_Conversas]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Twitter_Post_Oi]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[JSON_Autenticacao_Twitter_CLI]], [[Twitter_Post_Oi_Sessao]], [[essa_synmateus]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Twitter_Post_Oi]]
 
 ### Usuario
 
@@ -422,7 +422,7 @@ Se o bot estiver rodando via PM2/systemd, reinicie o processo para ele carregar 
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[JSON_Autenticacao_Twitter_CLI]], [[Twitter_Post_Oi_Sessao]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Confirmei]], [[Campo]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[JSON_Autenticacao_Twitter_CLI]], [[Twitter_Post_Oi_Sessao]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Confirmei]], [[Campo]]
 
 ### Usuario
 
@@ -485,7 +485,7 @@ Tweet publicado com sucesso.
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Teste]], [[Estou]], [[Projeto]], [[Status]], [[Git]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[Teste]], [[Estou]], [[Projeto]], [[Status]], [[Git]]
 
 ### Usuario
 
@@ -505,7 +505,7 @@ Posso usar caminhos absolutos para ler e editar arquivos neste projeto. O que vo
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Teste]], [[Estou]], [[Projeto]], [[Status]], [[Git]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[Teste]], [[Estou]], [[Projeto]], [[Status]], [[Git]]
 
 ### Usuario
 
@@ -525,7 +525,7 @@ Posso usar caminhos absolutos para ler e editar arquivos neste projeto. O que vo
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Docker]], [[Hermes_Erro_Contexto_Gemma3]], [[Ollama]], [[Python]], [[GitHub_Conexao_SSH_Credenciais]], [[AI_Sistema_Comparativo_Resumo]], [[Dependencia_de_Servicos_Externos]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Tipo_pegam_modelos_linguagem_open]], [[Hermes_update]], [[Ollama]], [[Python]], [[GitHub_Conexao_SSH_Credenciais]], [[AI_Sistema_Comparativo_Resumo]], [[Dependencia_de_Servicos_Externos]]
 
 ### Usuario
 
@@ -657,7 +657,7 @@ Erro Técnico: empty_or_error_response
 
 Usuario: `7583853645`
 
-Conceitos: [[Atualizacao_Sessao_Conversas]]
+Conceitos: [[Tudo_certo_aqui]]
 
 ### Usuario
 
@@ -671,7 +671,7 @@ Tudo bem! Como posso ajudar com o `bot.py`?
 
 Usuario: `7583853645`
 
-Conceitos: [[GitHub_Conexao_SSH_Credenciais]], [[AI_Sistema_Comparativo_Resumo]], [[YouTube_Skills_Resumo]], [[YouTube_Skills_e_Transcricao]], [[KAOPU_XiaoPu_Design_Web]], [[OpenClaw_Marketing_Skills_Resumo]], [[OpenClaw_Marketing_Skills_Resumo]], [[ToolUniverse_Padronizacao_LLM_Recursos]]
+Conceitos: [[GitHub_Conexao_SSH_Credenciais]], [[AI_Sistema_Comparativo_Resumo]], [[kills_https_github_ZeroPointRepo_youtube]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[design_https_github_KAOPU_XiaoPu]], [[openclaw_marketing_skills_https_github]], [[openclaw_marketing_skills_https_github]], [[ToolUniverse_Padronizacao_LLM_Recursos]]
 
 ### Usuario
 
@@ -712,7 +712,7 @@ kills](https://github.com/ZeroPointRepo/youtube-skills) — skills de busca e tr
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Docker]], [[Hermes_Erro_Contexto_Gemma3]], [[Ollama]], [[GitHub_Conexao_SSH_Credenciais]], [[AI_Sistema_Comparativo_Resumo]], [[Dependencia_de_Servicos_Externos]], [[VPS_Acesso_Resumo_Conversas]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Tipo_pegam_modelos_linguagem_open]], [[Hermes_update]], [[Ollama]], [[GitHub_Conexao_SSH_Credenciais]], [[AI_Sistema_Comparativo_Resumo]], [[Dependencia_de_Servicos_Externos]], [[Voce_acesso_pela]]
 
 ### Usuario
 
@@ -795,7 +795,7 @@ O que já existe no projeto:
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
+Conceitos: [[Hermes_update]], [[Choose_model_with_least_context]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[Erro_Tecnico_returncode_stderr_hermes_v2]], [[Erro_Tecnico_returncode_stderr_hermes]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos_relacionados]]
 
 ### Usuario
 
@@ -809,7 +809,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[S
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
+Conceitos: [[Hermes_update]], [[Choose_model_with_least_context]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[Erro_Tecnico_returncode_stderr_hermes_v2]], [[Erro_Tecnico_returncode_stderr_hermes]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos_relacionados]]
 
 ### Usuario
 
@@ -823,7 +823,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[S
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[akita_deep_summary_memory]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
+Conceitos: [[Hermes_update]], [[Choose_model_with_least_context]], [[akita_deep_summary_memory_memoria]], [[Extracao_Massiva_Erro_Cloud]], [[Erro_Tecnico_returncode_stderr_hermes_v2]], [[Erro_Tecnico_returncode_stderr_hermes]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos_relacionados]]
 
 ### Usuario
 
@@ -835,7 +835,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[a
 
 ---
 **🗺️ Hub:** [[MOC_Infraestrutura]]
-**🧠 Sinapses Neurais:** [[Hermes_Atualizacao_Usuario]], [[YouTube_Skills_Repository_Analise]], [[API_agentes_IA]], [[Twitter_Conta_Logada]], [[Hermes_Projeto_Teste_Acesso]]
+**🧠 Sinapses Neurais:** [[Hermes_Atualizacao_Usuario]], [[Repo_YouTube_Skills]], [[API_agentes_IA]], [[Twitter_Conta_Logada]], [[Hermes_Projeto_Teste_Acesso]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

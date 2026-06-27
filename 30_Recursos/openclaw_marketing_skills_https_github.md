@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_GitHub]]
-**🧠 Sinapses Neurais:** [[YouTube_Skills_Resumo]], [[YouTube_Skills_Repository_Analise]], [[YouTube_Skills_e_Transcricao]], [[comparar_promessas_marketing_relatos]], [[Atualizacao_de_Configuracoes]]
+**🧠 Sinapses Neurais:** [[kills_https_github_ZeroPointRepo_youtube]], [[Repo_YouTube_Skills]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[comparar_promessas_marketing_relatos_reais]], [[Atualizacao_de_Configuracoes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

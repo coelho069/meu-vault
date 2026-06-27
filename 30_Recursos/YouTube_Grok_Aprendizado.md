@@ -93,7 +93,7 @@ Conclusão: o material disponível não permite aprender o conteúdo real do tut
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Grok_AI_Resumo_Transcricao]], [[Grok_Aprendizado_Estrategico]], [[Grok_Conteudo_Criativo_Avancado]], [[API_agentes_IA]], [[Grok_Resumo_Transcricao_Hermes]]
+**🧠 Sinapses Neurais:** [[YouTube_Grok_Contexto]], [[YouTube_Grok_Aprendizado_v2]], [[YouTube_Grok_Contexto_v2]], [[API_agentes_IA]], [[tratar_transcricao_como_fonte_unica]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

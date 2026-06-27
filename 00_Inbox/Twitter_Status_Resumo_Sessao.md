@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
-**🧠 Sinapses Neurais:** [[Sinapses_Neurais_Memoria_2]], [[Sinapses_Neurais_2]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_Memoria_2]], [[Memoria_Agente]]
+**🧠 Sinapses Neurais:** [[Sinapses_Neurais_Memoria_2]], [[Sinapses_Neurais_2]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[Sinapses_Neurais_Memoria_2]], [[Memoria_Agente]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

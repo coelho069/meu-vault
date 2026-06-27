@@ -19,7 +19,7 @@ Resumo: Choose a model with at least 64K context, or set model.context_length in
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[gemma3_Contexto_Insuficiente_Falha]], [[Hermes_Erro_Contexto_Gemma3]], [[Erro_Hermes_Context_Window]], [[Gemma3_Contexto_Muito_Pequeno]], [[Este_contexto_notas_documentos]]
+**🧠 Sinapses Neurais:** [[Erro_Tecnico_returncode_stderr_hermes_v2]], [[Hermes_update]], [[Erro_Hermes_Context_Window]], [[Erro_Tecnico_returncode_stderr_hermes]], [[Este_contexto_notas_documentos_relacionados]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

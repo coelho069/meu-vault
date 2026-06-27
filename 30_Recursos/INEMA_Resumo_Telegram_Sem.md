@@ -22,7 +22,7 @@ canal: INEMAAGENTES
 **Decisões / Insights:**
 - Canal privado, indisponível ou sem mensagens de texto públicas.
 
-**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llama]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Agente]] [[Sem]]
+**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llama]] [[Canais]] [[teste_obsidian_restore]] [[Agente]] [[Sem]]
 **Confiança:** 0.0
 
 ## Mensagens coletadas (limpas)
@@ -34,7 +34,7 @@ canal: INEMAAGENTES
 - [[telegram_hermes_freebot_Atualizacoes]]
 - [[Llama]]
 - [[Conceitos/Canais]]
-- [[Obsidian_Restaurar_Conversas_Teste]]
+- [[teste_obsidian_restore]]
 
 Gerado por fetch_channel_summary.py (isolado, resiliente).
 

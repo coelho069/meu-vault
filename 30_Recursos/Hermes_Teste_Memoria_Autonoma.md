@@ -15,7 +15,7 @@ Nota de validacao do fluxo Hermes.
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]
-**🧠 Sinapses Neurais:** [[Hermes_Projeto_Teste_Acesso]], [[Obsidian_Restaurar_Conversas_Teste]], [[Memoria_Agente]], [[Hermes_Erro_Contexto_Gemma3]], [[Atualizacao_de_Configuracoes]]
+**🧠 Sinapses Neurais:** [[Hermes_Projeto_Teste_Acesso]], [[teste_obsidian_restore]], [[Memoria_Agente]], [[Hermes_update]], [[Atualizacao_de_Configuracoes]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

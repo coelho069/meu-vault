@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]
-**🧠 Sinapses Neurais:** [[Primeiro_verifico_skill_redes]], [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Projeto_Teste_Acesso]], [[Sinapses_Neurais_2]], [[Transcricao_Inutil_Para_Projeto]]
+**🧠 Sinapses Neurais:** [[Primeiro_verifico_skill_redes_sociais]], [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Projeto_Teste_Acesso]], [[Sinapses_Neurais_2]], [[Transcricao_Inutil_Para_Projeto]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

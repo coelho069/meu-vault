@@ -32,7 +32,7 @@ Resumo: Implementado comando `/analisar_chat` — analisa historico da conversa 
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]
-**🧠 Sinapses Neurais:** [[analisar-chat-integracao-bot]], [[Primeiro_verifico_skill_redes]], [[Hermes_Bot_Verificacao_Redes]], [[Twitter_Post_Oi_Sessao]], [[Hermes_Erro_Contexto_Gemma3]], [[Twitter_Post_Oi]]
+**🧠 Sinapses Neurais:** [[analisar-chat-integracao-bot]], [[Primeiro_verifico_skill_redes_sociais]], [[Hermes_Bot_Verificacao_Redes]], [[Twitter_Post_Oi_Sessao]], [[Hermes_update]], [[Twitter_Post_Oi]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Sim Sim]], [[Memoria_Agente_Grafico]], [[VPS_Acesso_Resumo_Conversas]], [[Sinapses_Neurais_2]], [[Voce_acesso_pela]]
+**🧠 Sinapses Neurais:** [[Sim Sim]], [[Memoria_Agente_Grafico]], [[Voce_acesso_pela]], [[Sinapses_Neurais_2]], [[Voce_acesso_pela]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

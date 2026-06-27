@@ -19,7 +19,7 @@ Resumo: Tudo bem?
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Memoria_Agente_Status]], [[Hermes_Erro_Contexto_Gemma3]], [[Twitter_Post_Oi_Sessao]], [[Sinapses_Neurais_2]], [[Twitter_Post_Oi]]
+**🧠 Sinapses Neurais:** [[Memoria_Agente_Status]], [[Hermes_update]], [[Twitter_Post_Oi_Sessao]], [[Sinapses_Neurais_2]], [[Twitter_Post_Oi]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

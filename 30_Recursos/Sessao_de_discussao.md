@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]
-**🧠 Sinapses Neurais:** [[Sinapses_Neurais_Memoria]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_Memoria_2]], [[Sinapses_Neurais_e_Memoria]], [[Infelizmente_transcriA_fornecida_para]]
+**🧠 Sinapses Neurais:** [[Sinapses_Neurais_Memoria]], [[kills_https_github_ZeroPointRepo_youtube_v2]], [[Sinapses_Neurais_Memoria_2]], [[Sinapses_Neurais_e_Memoria]], [[Infelizmente_transcriA_fornecida_para]]
