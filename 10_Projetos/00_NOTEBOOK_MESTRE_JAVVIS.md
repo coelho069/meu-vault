@@ -8,17 +8,17 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T13:51:55Z
-updated_at: 2026-06-27T13:51:55Z
+created_at: 2026-06-27T14:01:16Z
+updated_at: 2026-06-27T14:01:16Z
 source: memory-extraction-pipeline
-trigger: cron-export
+trigger: day-zero-rebuild
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 13:51 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 14:01 UTC** (trigger: `day-zero-rebuild`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -195,31 +195,13 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 ## 7. Historico de Decisoes
 
-7 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
+0 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
 
-### [[0001-guard-startup-with-venv-and-single-instance-protection]]
-# Guard startup with virtual-environment and single-instance protection The project’s startup path was hardened through a cluster of commits on 2026-06-12. From the supplied log: - Commit `96d2303d` replaced `bot.py` with a single-instance guard placeholder. - Commit `ce0bebb8` imported `fcntl` for single-instance protection. - Commit `2b087f30` imported `sys` in `bot.py`. - Commit `01180db9` added a `proteger_instancia_e_ambiente` stub. - Commit `3069ee96` checked for a virtual environment in the protection setup. - Commit `385c45f1` added a virtual-environment error message. - Commit `5ac9bef1` made the bot exit when run outside a virtual environment. - Commit `982dc073` opened the lock fi...
-### [[0002-use-fail-safe-disablement-for-missing-repo-analyze]]
-# Use fail-safe disablement when repo_analyze is missing Commit `41512594` records a hotfix: imports and handlers for `repo_analyze` were disabled because the file was absent, with the stated goal of stabilizing boot (“para estabilizar o boot”). Commit `2d8eff2e`, a few minutes later in the supplied history, restored the `repo_analyze` module and reactivated blocked commands. This establishes a project precedent: when an optional command module is missing and blocks startup, the immediate fail-safe was to disable its imports/handlers so the bot can boot, then restore the module and re-enable the commands once available. The sources do not say whether this pattern is implemented generically o...
-### [[0003-expose-ai-memory-remotely-with-layered-access-controls]]
-# Expose ai-memory remotely with layered access controls The `ai-memory` service moved from deployment/integration to remote exposure and then web-login repair across the latest commits. - Commit `14886a60` deployed and integrated the MCP `ai-memory` server via Docker. - Commit `8b7d697f` exposed `ai-memory` remotely with bearer authentication and UFW firewall. - Commit `2dde398a` fixed web login through nginx with simple credentials. The decision captured by these commits is that remote `ai-memory` access is not just a raw service exposure: the history explicitly mentions bearer auth, UFW, nginx, and simple credentials. The sources do not include the credential values, whether bearer auth a...
-### [[repo-analyze-https-github-com-astrosp-awesome-osint-list]]
-github.com-Astrosp-Awesome-OSINT-List tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T11:23:18Z status: active source: hermes-telegram --- # repo_analyze https---github.com-Astrosp-Awesome-OSINT-List ## Contexto **Usuario:** /repo_analyze https://github.com/Astrosp/Awesome-OSINT-List **Hermes:** 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Astrosp-Awesome-OSINT-List` 📊 Nota técnica (extraída): **75/100** 🔗 https://github.com/Astrosp/Awesome-OSINT-List Este repositório é uma lista "Awesome" de ferramentas e recursos OSINT (Open Source Intelligence). Como tal, sua arquitetura e qualidade de código devem...
-### [[repo-analyze-https-github-com-cobusgreyling-loop-engineering]]
-github.com-cobusgreyling-loop-engineering tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T12:00:18Z status: active source: hermes-telegram --- # repo_analyze https---github.com-cobusgreyling-loop-engineering ## Contexto **Usuario:** /repo_analyze https://github.com/cobusgreyling/loop-engineering **Hermes:** 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-cobusgreyling-loop-engineering` 📊 Nota técnica (extraída): **85/100** 🔗 https://github.com/cobusgreyling/loop-engineering ## 📊 Nota Técnica: 85/100 O repositório `cobusgreyling/loop-engineering` apresenta uma abordagem inovadora e bem estruturada para o "...
-### [[repo_analyze_https_github_com]]
-github.com-DeusData-codebase-memory-mcp tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T08:27:19Z status: active source: hermes-telegram --- # repo_analyze https---github.com-DeusData-codebase-memory-mcp ## Contexto **Usuario:** /repo_analyze https://github.com/DeusData/codebase-memory-mcp **Hermes:** **🎯 Resumo Executivo** Servidor MCP de inteligência de código que indexa repositórios em um grafo persistente para consultas rápidas por agentes de IA. Útil para dar ao Hermes memória estrutural sobre codebases sem enviar o código para serviços externos. **🏗️ Arquitetura Core** - C - MCP Server - Grafo de conhecimento local - Análise AST...
-### [[repo_analyze_https_github_com_v2]]
-github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-26T21:14:34Z status: active source: hermes-telegram --- # repo_analyze https---github.com-arxhr007-Aliens_eye ## Contexto **Usuario:** /repo_analyze https://github.com/arxhr007/Aliens_eye **Hermes:** **🎯 Resumo Executivo** Aliens Eye é um scanner OSINT para localizar usernames em centenas de plataformas sociais. Pode ser útil no Hermes como módulo de investigação automatizada com saída exportável para relatórios. **🏗️ Arquitetura Core** - Python CLI - Motor assíncrono de varredura - Detecção heurística/ML - Exportação JSON/CSV/HTML/Markdown - Docker opcional *...
+
 
 ### Armadilhas relacionadas (gotchas)
 
-- [[YouTube_resumo-hoje]] — # resumo_hoje ## Contexto **Usuario:** /resumo_hoje **Hermes:** ⏱️ **[04:31]** - 💾 Criado backup de `bot.py` e atualizados caches/memórias de erro ⏱️ **[04:49]** - 💾 Criado novo ba...
-- [[dynamic-timeouts-for-youtube-processing]] — # YouTube processing needed dynamic timeouts Commit `814d5232` fixed the mirrored YouTube `akita` command by applying a dynamic timeout based on character count. This indicates tha...
-- [[memory-file-truncation]] — # Memory files were previously truncated during processing Commit `039927b3` fixed the system to “read and process 100% of memory files without truncation.” This indicates that mem...
-- [[repo_analyze_https_github_com]] — github.com-ShadowHackrs-gmail-account-creator tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-26T21:20:40Z status: active sou...
-- [[router-wiring-can-hide-existing-commands]] — # Router wiring can hide existing commands Commit `5f381947` added the SpiderFoot command suite for `/osint` and `/attack_surface`. Immediately after, commit `89c7427d` fixed the b...
-- [[verificacao-pos-fix-obsidian-git]] — # Verificacao pos-fix obsidian git ## Contexto **Usuario:** Verificacao pos-fix obsidian git **Hermes:** Sync corrigido: Hermes grava no vault e envia para meu-vault ### Conexões R...
+
 
 ---
 
@@ -356,63 +338,16 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 ## 10. Aprendizados de IA
 
-23 conceitos extraidos de `concepts/`.
+0 conceitos extraidos de `concepts/`.
 
-- **[[Akita_YouTube_article_processing]]** — # Akita YouTube and article processing Several commits describe an “akita” flow around YouTube and article processing. Relevant history: - Commit `2b681ca0` added “deep learning youtube reports with synaptic connections....
-- **[[Contexto_Usuario_youtube_https_youtu]]** — youtu.be-k5NhsF7t68M-is=aqgHbCACbxNigFFy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Assistente_Contextualizado.md --- # [[Herm...
-- **[[Hermes_sessao]]** — youtu.be-k5NhsF7t68M-is=aqgHbCACbxNigFFy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Hermes_Assistente_Inteligente_Contextual.m...
-- **[[Hermes_sessao_v2]]** — youtu.be-k5NhsF7t68M-is=aqgHbCACbxNigFFy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Hermes_Operacionalizacao_Paralela.md --- #...
-- **[[Hermes_sessao_v3]]** — youtu.be-k5NhsF7t68M-is=aqgHbCACbxNigFFy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Hermes_Contexto_Pessoal.md --- # [[Hermes]...
-- **[[Hermes_sessao_v4]]** — youtu.be-k5NhsF7t68M-is=aqgHbCACbxNigFFy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Hermes_Contexto_e_Integracao.md --- # [[He...
-- **[[Progress_feedback_Telegram_terminal]]** — # Progress feedback in Telegram and terminal The project added progress feedback in two stages. First, commit `c81f3506` added a real-time progress bar specifically to the `akita` command. Later, commit `210f3c02` implem...
-- **[[YouTube_UDTdsLLwGWw]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_para_Agentes.md --- # youtu...
-- **[[YouTube_UDTdsLLwGWw_v2]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Documentacao_APIs.md --- #...
-- **[[YouTube_UDTdsLLwGWw_v3]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Reduz_Consumo.md --- # [[He...
-- **[[YouTube_UDTdsLLwGWw_v4]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_CLI_Integracoes.md --- # [[...
-- **[[YouTube_UDTdsLLwGWw_v5]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Sistema_Documentacao_Agentes_IA.md --- # [...
-- **[[YouTube_UDTdsLLwGWw_v6]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Operacional_Utilizacao.md -...
-- **[[YouTube_UDTdsLLwGWw_v7]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Printing_Press_Instalacao_Arquitetura.md -...
-- **[[YouTube_UDTdsLLwGWw_v8]]** — youtu.be-UDTdsLLwGWw-is=5ZNlGe6z4wmDIcDy tier: semantic tags: - hermes - memoria-agente - telegram-hermes created_at: 2026-06-20T12:00:00Z source: hermes-obsidian migrated_from: Agentes_e_Integracao_API.md --- # [[Agente...
-- **[[ai-memory-mcp-server]]** — # AI-memory MCP server deployment The latest supplied commits describe deployment and remote exposure of an `ai-memory` MCP server. Timeline from the log: - Commit `14886a60` added deployment and integration of the `ai-m...
-- **[[akita_deep_summary_memory_memoria_v2]]** — # [[Mem]]]] ## Contexto **Usuario:** /akita deep_summary ai-memory: memória de longo prazo (Karpathy Wiki) e auto-aprendizado (Hermes) pros seus projetos part 1 **Hermes:** # Resumo Exaustivo: ai-memory, Karpathy Wiki e...
-- **[[analisar-chat-integracao-bot]]** — # analisar_chat integracao bot ## Contexto **Usuario:** Comando não reconhecido: /analisar_chat — corrigir e implementar. **Hermes:** Criado o comando `/analisar_chat` no `bot.py` para analisar o historico da conversa at...
-- **[[analisar_chat_https_share_gemini]]** — share.gemini.google-q91I0x3PTKKn tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T03:47:56Z status: active source: hermes-telegram --- # analisar_chat https---shar...
-- **[[langgraph-stateful-agents]]** — # LangGraph stateful agent orchestration Commit `5d0605b9` integrated the LangGraph framework for stateful agent orchestration and memory persistence (“orquestracao de agentes stateful e persistencia de memoria”). This i...
-- ... +3 conceitos adicionais
 
-### Sessoes e interacoes indexadas (29)
 
-- [[Contexto_Usuario_youtube_https_youtu]]
-- [[Contexto_Usuario_youtube_https_youtu_v10]]
-- [[Contexto_Usuario_youtube_https_youtu_v2]]
-- [[Contexto_Usuario_youtube_https_youtu_v3]]
-- [[Contexto_Usuario_youtube_https_youtu_v4]]
-- [[Contexto_Usuario_youtube_https_youtu_v5]]
-- [[Contexto_Usuario_youtube_https_youtu_v6]]
-- [[Contexto_Usuario_youtube_https_youtu_v7]]
-- [[Contexto_Usuario_youtube_https_youtu_v8]]
-- [[Contexto_Usuario_youtube_https_youtu_v9]]
-- [[YouTube_O68y0yRZL1Y_v2]]
-- [[YouTube_YMc0f5i70Hc_v2]]
-- [[YouTube_YMc0f5i70Hc_v3]]
-- [[YouTube_YMc0f5i70Hc_v4]]
-- [[YouTube_YMc0f5i70Hc_v5]]
-- [[YouTube_YMc0f5i70Hc_v6]]
-- [[YouTube_resumo-hoje]]
-- [[analisar_chat_https_gemini_share]]
-- [[cron-export-test]]
-- [[name-ssid]]
-- [[resumo-hoje-e-194640]]
-- [[resumo-hoje-e-195033]]
-- [[validacao-akita]]
-- [[vol-test-0]]
-- [[vol-test-1]]
-- [[vol-test-2]]
-- [[vol-test-3]]
-- [[vol-test-4]]
-- [[vol-test-5]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### Sessoes e interacoes indexadas (0)
+
+
+
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (No module named 'mcp')
 
 ---
 
@@ -2885,7 +2820,7 @@ O projeto adota um padrão de arquitetura **Modular Monolith** com forte ênfase
 
 Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no NotebookLM).
 
-# HISTORICO TOTAL — Linha do Tempo de Memoria > **Memoria recuperada de Jun/2026 a Jun/2026** (2026-06-04 → 2026-06-27). > Extracao exaustiva: ai-memory, Obsidian, PM2, caches, git e interacoes. **Hubs:** [[00_NOTEBOOK_MESTRE_JAVVIS]] · [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] --- ## Resumo da Extracao | Metrica | Valor | |---------|-------| | Periodo coberto | Jun/2026 a Jun/2026 | | Eventos brutos coletados | 4297 | | Eventos unicos (deduplicados) | 4230 | | Notas Obsidian varridas | 519 | | Paginas ai-memory (sqlite) | 28 | | Commits git | 49 | | Logs PM2 processados | 3582 | | Itens memoria persistente | 68 | | Fonte | Eventos | |-------|---------| | `pm2_logs` | 3582 | | `obsidian_vault` | 519 | | `persistent_memory` | 68 | | `git_history` | 49 | | `ai_memory_sqlite` | 28 | | `podcasts` | 26 | | `repo_history` | 13 | | `osint_scans` | 4 | | `data_cache` | 4 | | `chat_memory` | 3 | | `ai_memory_mcp` | 1 | | Categoria | Eventos | |-----------|---------| | erro | 3320 | | 30_Recursos | 348 | | obsidian | 250 | | codigo | 49 | | 00_Inbox | 48 | | 40_Arquivo | 48 | | 10_Projetos | 44 | | memoria-persistente | 38 | | audio | 26 | | ai-memory | 16 | | repo-analyze | 13 | | memory-monitor | 12 | | osint | 4 | | codebase | 3 | | chat | 3 | | Conceitos | 3 | | _HOME.md | 1 | | 20_Areas | 1 | | Conversas | 1 | | Preview de Mudanças.md | 1 | | dados | 1 | --- ## Marcos Importantes _LLM desabilitado — timeline estruturada apenas._ --- ## Linha do Tempo Cronologica (LLM + fontes brutas) - 2026-06-04 00:00 | **Estado inicial do bot Telegram Hermes** — Commit Git: Estado inicial do bot Telegram Hermes - 2026-06-12 00:00 | **feat: expand Telegram bot automation and integrations** — Commit Git: feat: expand Telegram bot automation and integrations - 2026-06-12 00:00 | **feat: add API health check status command** — Commit Git: feat: add API health check status command - 2026-06-12 00:00 | **feat: expand bot with Telegram AI automation commands** — Commit Git: feat: expand bot with Telegram AI automation commands - 2026-06-12 00:00 | **fix: replace bot.py with single-instance guard placeholder** — Commit Git: fix: replace bot.py with single-instance guard placeholder - 2026-06-12 00:00 | **fix: import fcntl for single-instance protection** — Commit Git: fix: import fcntl for single-instance protection - 2026-06-12 00:00 | **fix: import sys in bot.py** — Commit Git: fix: import sys in bot.py - 2026-06-12 00:00 | **chore: add os import to bot.py** — Commit Git: chor...
+# HISTORICO TOTAL — Linha do Tempo de Memoria > **Memoria recuperada de Jun/2026 a Jun/2026** (2026-06-04 → 2026-06-27). > Extracao exaustiva: ai-memory, Obsidian, PM2, caches, git e interacoes. **Hubs:** [[00_NOTEBOOK_MESTRE_JAVVIS]] · [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] --- ## Resumo da Extracao | Metrica | Valor | |---------|-------| | Periodo coberto | Jun/2026 a Jun/2026 | | Eventos brutos coletados | 4311 | | Eventos unicos (deduplicados) | 4244 | | Notas Obsidian varridas | 525 | | Paginas ai-memory (sqlite) | 28 | | Commits git | 49 | | Logs PM2 processados | 3582 | | Itens memoria persistente | 68 | | Fonte | Eventos | |-------|---------| | `pm2_logs` | 3582 | | `obsidian_vault` | 525 | | `persistent_memory` | 68 | | `git_history` | 49 | | `ai_memory_sqlite` | 28 | | `podcasts` | 26 | | `repo_history` | 13 | | `ai_memory_primary` | 8 | | `osint_scans` | 4 | | `data_cache` | 4 | | `chat_memory` | 3 | | `ai_memory_mcp` | 1 | | Categoria | Eventos | |-----------|---------| | erro | 3320 | | 30_Recursos | 348 | | obsidian | 250 | | 40_Arquivo | 95 | | codigo | 49 | | 00_Inbox | 48 | | memoria-persistente | 38 | | audio | 26 | | ai-memory | 16 | | repo-analyze | 13 | | memory-monitor | 12 | | test | 7 | | osint | 4 | | 10_Projetos | 3 | | codebase | 3 | | chat | 3 | | Conceitos | 3 | | _HOME.md | 1 | | 20_Areas | 1 | | Conversas | 1 | | Preview de Mudanças.md | 1 | | dados | 1 | | agent | 1 | --- ## Marcos Importantes - 2026-06-04 — **Mudanca de infraestrutura VPS/RAM** (Estado inicial do bot Telegram Hermes) - 2026-06-20 — **Primeira integracao de audio/podcast** (feat: akita full article scraper and deep summary variation) - 2026-06-20 — **Analisador de repositorios GitHub** (fix(hotfix): aplica fail-safe desativando imports e handlers) - 2026-06-20 — **Memoria estrutural (ai-memory / codebase MCP)** (build: cria wrapper hermes-intel para interagir com o Codeba) - 2026-06-20 — **Primeira integracao OSINT (SpiderFoot)** (feat: implementa comando /ipcheck integrando o motor spiderf) - 2026-06-20 — **Orquestracao LangGraph stateful** (feat: integra framework langgraph para orquestracao de agent) - 2026-06-20 — **Cofre Obsidian e memoria persistente** (feat/pkm: implementa script de linting para normalizacao de ) - 2026-06-26 — **Expansao de providers de IA** (Pedido do usuario: "domain": ") - 2026-06-27 — **Pipeline automatico de memoria (watchdog)** (feat: adiciona comando /analisar_chat para analise do histor) - 2026-06-27 — **Biblioteca Aw...
 
 ---
 
@@ -2893,7 +2828,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 71 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Notas Memoria_Agente | 11 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
 | Memoria persistente | 68 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 13 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
@@ -2926,10 +2861,10 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.07 MB |
+| Dados processados | 0.97 MB |
 | Comandos catalogados | 120 |
-| Conexoes wiki no vault | 503 |
-| Trigger | `cron-export` |
+| Conexoes wiki no vault | 514 |
+| Trigger | `day-zero-rebuild` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
