@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T15:00:07Z
-updated_at: 2026-06-27T15:00:07Z
+created_at: 2026-06-27T16:00:15Z
+updated_at: 2026-06-27T16:00:15Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 15:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 16:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (122 detectados)
+## 1. Manual de Comandos (125 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -59,6 +59,9 @@ Comandos disponiveis (varredura automatica do bot.py):
 /osint_search <alvo> - Busca OSINT com sugestao da biblioteca Awesome
 /osint_tools <tema> - Consultoria: melhores ferramentas OSINT por tema
 /attack_surface <alvo> - Superficie de ataque (portas, SSL, buckets)
+/find_targets - Micro-SaaS BR stealth (Vercel/Startup dirs)
+/check_ads_leak <url> - Anon Key + exposicao Baixo/Medio/Critico
+/ads_leak - Alias de /check_ads_leak
 /verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 /langgraph_test [texto] - Valida orquestracao LangGraph com checkpoints
 /resumo_hoje - Resumo executivo das alteracoes de hoje
@@ -260,7 +263,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 - `AKITA` — 101 ocorrencia(s)
 - `GEMINI` — 98 ocorrencia(s)
-- `ROUTER` — 76 ocorrencia(s)
+- `ROUTER` — 79 ocorrencia(s)
 - `CMD:/help` — 7 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
@@ -350,11 +353,12 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 
 
-### Sessoes e interacoes indexadas (1)
+### Sessoes e interacoes indexadas (2)
 
+- [[check-ads-leak-https-www-relay-app-apps-instagram-integrations-supabase]]
 - [[sre-test]]
 
-### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
+### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
 
 ---
 
@@ -2846,6 +2850,48 @@ Conceitos: [[Telegram]], [[Hermes]], [[GitHub]], [[DietrichGebert]], [[Projeto]]
 
 ...[memoria destilada]
 
+## Export 29e514bc
+
+**Interacao 2026-06-27 15:10:05 UTC** (resumo export)
+
+## Interacao 2026-06-27 15:10:05 UTC
+### Usuario
+### Hermes
+
+## Export 96823428
+
+**Interacao 2026-06-27 15:15:01 UTC** (resumo export)
+
+## Interacao 2026-06-27 15:15:01 UTC
+### Usuario
+### Hermes
+
+## Export 777155ac
+
+**Interacao 2026-06-27 15:15:35 UTC** (resumo export)
+
+## Interacao 2026-06-27 15:15:35 UTC
+### Usuario
+### Hermes
+- msapplication-config: /favicons/browserconfig.xml
+Endpoints/API:
+
+## Export 7ae00f7e
+
+**Interacao 2026-06-27 15:25:06 UTC** (resumo export)
+
+## Interacao 2026-06-27 15:25:06 UTC
+### Usuario
+### Hermes
+
+## Export 20ed93ca
+
+**Interacao 2026-06-27 15:45:12 UTC** (resumo export)
+
+## Interacao 2026-06-27 15:45:12 UTC
+### Usuario
+### Hermes
+
 
 
 ---
@@ -2862,12 +2908,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 13 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Notas Memoria_Agente | 14 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
 | Memoria persistente | 69 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 7493 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7679 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -2895,9 +2941,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 0.99 MB |
-| Comandos catalogados | 122 |
-| Conexoes wiki no vault | 513 |
+| Dados processados | 1.00 MB |
+| Comandos catalogados | 125 |
+| Conexoes wiki no vault | 514 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
