@@ -16,3 +16,9 @@ Conversas relacionadas:
 Resumo: ## Resumo Exaustivo da NotÃ­cia "Por Que LLMs vÃ£o falhar na Sua Empresa?"
 
 - [[Sessao_2026-06-27|Sessao_2026-06-27]]
+
+### Conexões Relacionadas
+
+- [[Not]]
+- [[akita_deep_summary_LLMs_falhar]]
+- [[akita_deep_summary_LLMs_falhar_v2]]

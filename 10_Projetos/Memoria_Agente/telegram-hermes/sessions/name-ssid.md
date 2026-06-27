@@ -42,3 +42,9 @@ Para parar de vazar credenciais no chat:
 3 Se quiser Gemini persistente dentro do Hermes, melhor caminho é sessão dedicada do navegador na VPS e automação oficial, não reaproveitar cookie de sessão pessoal.
 
 [[Hermes]]]] desta sessão continua o mesmo da última resposta. Aguardo o próximo comando útil.
+
+### Conexões Relacionadas
+
+- [[Sessao_2026-06-26]]
+- [[analisar_chat_https_share_gemini]]
+- [[analisar_chat_https_gemini_share]]

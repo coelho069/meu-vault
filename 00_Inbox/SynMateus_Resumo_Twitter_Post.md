@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]
-**🧠 Sinapses Neurais:** [[Twitter_Post_Oi_Sessao]], [[SynMateus_Vou_Resumo_Conceito]], [[essa_synmateus]], [[Twitter_Post_Oi]], [[Twitter_Conta_Logada]]
+**🧠 Sinapses Neurais:** [[Twitter_Post_Oi_Sessao]], [[SynMateus_Vou_Resumo_Conceito]], [[Ser_era_essa_synmateus]], [[Twitter_Post_Oi]], [[Twitter_Conta_Logada]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

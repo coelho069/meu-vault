@@ -35,3 +35,9 @@ A sessão atual repete um padrão já consolidado: o usuário cola cookies bruto
 - **`/repo_analyze` de repositórios externos** (memória persistente): `arxhr007/Aliens_eye`, `ShadowHackrs/gmail-account-creator`, `akitaonrails/ai-memory` — todos com análise arquitetural registrada.
 - **`/akita deep_summary`** em 4 partes + versão reduzida + modo podcast sobre `ai-memory` — geração de resumos exaustivos do projeto.
 - **`/pe
+
+### Conexões Relacionadas
+
+- [[repo_analyze_https_github_com]]
+- [[analisar_chat_https_share_gemini]]
+- [[Sessao_2026-06-27]]

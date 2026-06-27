@@ -13,3 +13,11 @@ Commit `039927b3` fixed the system to “read and process 100% of memory files w
 This indicates that memory-file processing previously had a truncation problem. The log does not specify which files, what size triggered truncation, or whether truncation affected reads, prompts, summaries, or persisted memory.
 
 When investigating memory quality or missing context, this commit is an important historical clue: there was a known issue where memory files were not fully processed.
+
+### Conexões Relacionadas
+
+- [[Akita_YouTube_article_processing]]
+- [[dynamic-timeouts-for-youtube-processing]]
+- [[langgraph-stateful-agents]]
+- [[0002-use-fail-safe-disablement-for-missing-repo-analyze]]
+- [[ai-memory-mcp-server]]

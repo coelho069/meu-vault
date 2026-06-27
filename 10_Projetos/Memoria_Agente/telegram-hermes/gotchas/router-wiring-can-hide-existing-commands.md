@@ -16,3 +16,11 @@ Immediately after, commit `89c7427d` fixed the bot by reconnecting the `/osint` 
 The practical gotcha from the history is that implementing command functionality is not sufficient: commands can exist but still be unavailable if the bot router is not wired to them.
 
 The supplied log does not name the router file or handler functions.
+
+### Conexões Relacionadas
+
+- [[spiderfoot-integration]]
+- [[telegram-bot-command-surface]]
+- [[Akita_YouTube_article_processing]]
+- [[Spiderfoot]]
+- [[repository-analysis-and-daily-summary]]

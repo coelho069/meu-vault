@@ -19,3 +19,9 @@ The `ai-memory` service moved from deployment/integration to remote exposure and
 The decision captured by these commits is that remote `ai-memory` access is not just a raw service exposure: the history explicitly mentions bearer auth, UFW, nginx, and simple credentials.
 
 The sources do not include the credential values, whether bearer auth and nginx credentials protect the same endpoint, or the exact network topology.
+
+### Conexões Relacionadas
+
+- [[ai-memory-mcp-server]]
+- [[MOC_Infraestrutura]]
+- [[Akita_YouTube_article_processing]]

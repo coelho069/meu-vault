@@ -20,3 +20,9 @@ The project contains repository-analysis features and a daily-summary command th
 `/resumo_hoje` was introduced in commit `46dfffbd` as a daily changelog via git and AI. Commit `adf91084` then refactored it to display a chronological timeline based on system timestamps.
 
 The history says these features exist, but does not include prompt templates, exact output examples, or where the git data is read from.
+
+### Conexões Relacionadas
+
+- [[repo_analyze_https_github_com]]
+- [[telegram-bot-command-surface]]
+- [[0002-use-fail-safe-disablement-for-missing-repo-analyze]]

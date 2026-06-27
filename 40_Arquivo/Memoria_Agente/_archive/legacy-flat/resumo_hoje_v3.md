@@ -37,3 +37,9 @@ titulo: "resumo_hoje"
 ⏱️ **[15:14]** - 🧯 Aplicado hotfix fail-safe para estabilizar boot sem `repo_analyze`
 ⏱️ **[15:18]** - 🔁 Restaurado módulo `repo_analyze` e reativados comandos bloqueados
 ⏱️ **[15:29]** - 🧩 Criado wrapper `hermes-intel` par
+
+### Conexões Relacionadas
+
+- [[YouTube_resumo-hoje]]
+- [[resumo-hoje-e-195033]]
+- [[Printing_Press_Documentacao_APIs]]

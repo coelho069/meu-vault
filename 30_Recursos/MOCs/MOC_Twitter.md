@@ -12,7 +12,7 @@ Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 - [[CLI_Verificacao_e_Instalacao]]
 - [[JSON_Autenticacao_Twitter_CLI]]
 - [[MarcoAurelio_Tweet_Origem_Sessao]]
-- [[essa_synmateus]]
+- [[Ser_era_essa_synmateus]]
 - [[SynMateus_Resumo_Twitter_Post]]
 - [[SynMateus_Vou_Resumo_Conceito]]
 - [[Tweet_publicado_sucesso]]

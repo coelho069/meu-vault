@@ -24,3 +24,9 @@ Imagine o seguinte: você tá ali, codando com Claude Code há duas horas, o age
 E aí entra o tal do **ai-memory**, e cara, esse projeto é esperto demais. O autor se inspirou numa ideia que o Karpathy chama de **LLM Wiki** — em vez de confiar em histórico bruto, em logs quilométricos, em embeddings opacos do tipo "caixa-preta que talvez lembre"... ele mantém uma **wiki em markdown**, versionada, com páginas pequenas, nomes estáveis, separadas por tipo de conhecimento. Tá lá: resumos de sessão, decisões de arquitetura, armadilhas conhecidas, procedimentos, regras.
 
 E o mais bonito? A fonte de verdade é o próprio markdown. Isso mesmo, markdown. Você abre no Obsidian, faz grep, versiona no git, faz backup com rsync, vê diff... sabe, aquela coisa que *você* consegue ler, sem depender de magia. O SQLite ali? É só índice derivado pra acelerar bu
+
+### Conexões Relacionadas
+
+- [[akita_deep_summary_memory_memoria_v2]]
+- [[akita_deep_summary_memory_memoria]]
+- [[akita_deep_summary_reduce_memory]]

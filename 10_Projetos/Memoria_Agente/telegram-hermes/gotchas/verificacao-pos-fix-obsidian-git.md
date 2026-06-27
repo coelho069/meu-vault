@@ -21,3 +21,11 @@ Verificacao pos-fix obsidian git
 
 **Hermes:**
 Sync corrigido: Hermes grava no vault e envia para meu-vault
+
+### Conexões Relacionadas
+
+- [[Sync]]
+- [[Sync_Obsidian_Verificacao_Post]]
+- [[teste_obsidian_restore]]
+- [[Contexto_Usuario_youtube_https_youtu]]
+- [[YouTube_resumo-hoje]]

@@ -1,0 +1,78 @@
+---
+titulo: "MOC 10_Projetos"
+tags:
+  - moc
+  - 10_Projetos
+---
+
+# MOC — 10_Projetos
+
+Cluster com **63** notas.
+
+## Notas
+
+- [[0001-guard-startup-with-venv-and-single-instance-protection]]
+- [[0002-use-fail-safe-disablement-for-missing-repo-analyze]]
+- [[0003-expose-ai-memory-remotely-with-layered-access-controls]]
+- [[Akita_YouTube_article_processing]]
+- [[Contexto_Usuario_youtube_https_youtu]]
+- [[Contexto_Usuario_youtube_https_youtu]]
+- [[Contexto_Usuario_youtube_https_youtu_v10]]
+- [[Contexto_Usuario_youtube_https_youtu_v2]]
+- [[Contexto_Usuario_youtube_https_youtu_v3]]
+- [[Contexto_Usuario_youtube_https_youtu_v4]]
+- [[Contexto_Usuario_youtube_https_youtu_v5]]
+- [[Contexto_Usuario_youtube_https_youtu_v6]]
+- [[Contexto_Usuario_youtube_https_youtu_v7]]
+- [[Contexto_Usuario_youtube_https_youtu_v8]]
+- [[Contexto_Usuario_youtube_https_youtu_v9]]
+- [[Gemini]]
+- [[Hermes_sessao]]
+- [[Hermes_sessao_v2]]
+- [[Hermes_sessao_v3]]
+- [[Hermes_sessao_v4]]
+- [[Progress_feedback_Telegram_terminal]]
+- [[YouTube_O68y0yRZL1Y_v2]]
+- [[YouTube_UDTdsLLwGWw]]
+- [[YouTube_UDTdsLLwGWw_v2]]
+- [[YouTube_UDTdsLLwGWw_v3]]
+- [[YouTube_UDTdsLLwGWw_v4]]
+- [[YouTube_UDTdsLLwGWw_v5]]
+- [[YouTube_UDTdsLLwGWw_v6]]
+- [[YouTube_UDTdsLLwGWw_v7]]
+- [[YouTube_UDTdsLLwGWw_v8]]
+- [[YouTube_YMc0f5i70Hc_v2]]
+- [[YouTube_YMc0f5i70Hc_v3]]
+- [[YouTube_YMc0f5i70Hc_v4]]
+- [[YouTube_YMc0f5i70Hc_v5]]
+- [[YouTube_YMc0f5i70Hc_v6]]
+- [[YouTube_resumo-hoje]]
+- [[YouTube_resumo-hoje]]
+- [[ai-memory-mcp-server]]
+- [[akita_deep_summary_LLMs_falhar]]
+- [[akita_deep_summary_LLMs_falhar_v2]]
+- [[akita_deep_summary_memory_memoria_v2]]
+- [[analisar-chat-integracao-bot]]
+- [[analisar_chat_https_gemini_share]]
+- [[analisar_chat_https_share_gemini]]
+- [[bootstrap]]
+- [[dynamic-timeouts-for-youtube-processing]]
+- [[gemini_LqVsMYprtQG8_20260626_215321]]
+- [[gemini_LqVsMYprtQG8_20260626_215333]]
+- [[gemini_LqVsMYprtQG8_20260627_000638]]
+- [[gemini_invalid_test_20260626_214035]]
+- [[langgraph-stateful-agents]]
+- [[memory-file-truncation]]
+- [[name-ssid]]
+- [[repo_analyze_https_github_com]]
+- [[repo_analyze_https_github_com]]
+- [[repo_analyze_https_github_com_v2]]
+- [[repository-analysis-and-daily-summary]]
+- [[resumo-hoje-e-194640]]
+- [[resumo-hoje-e-195033]]
+- [[router-wiring-can-hide-existing-commands]]
+- [[spiderfoot-integration]]
+- [[telegram-bot-command-surface]]
+- [[verificacao-pos-fix-obsidian-git]]
+
+← [[_HOME]]

@@ -1,0 +1,358 @@
+{
+  "timestamp": "2026-06-27T10:10:37.946194+00:00",
+  "deleted_junk": [
+    {
+      "path": "00_Inbox/Codigo_Duplicado",
+      "reason": "vazia"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/meta",
+      "reason": "vazia"
+    },
+    {
+      "path": "40_Arquivo/Memoria_Agente/_archive/legacy-flat/Agentes_e_Integracao_API",
+      "reason": "duplicata"
+    },
+    {
+      "path": "40_Arquivo/Memoria_Agente/_archive/legacy-flat/Printing_Press_para_Agentes",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/akita_deep_summary_Benchmark_Kimi",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/akita_deep_summary_memory_memoria",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/akita_deep_summary_reduce_memory",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/akita_podcast_memory_memoria_longo",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/repo_analyze_https_github_DeusData",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/repo_analyze_https_github_Dimillian",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/repo_analyze_https_github_akitaonrails",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/repo_analyze_https_github_itsOwen",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/repo_analyze_https_github_langchain",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/repo_analyze_https_github_smicallef",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/concepts/youtube_https_youtu_NhsF_aqgHbCACbxNigFFy",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/sessions/YouTube_O68y0yRZL1Y",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/sessions/YouTube_SmYQcaP1Jgw",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/sessions/YouTube_YMc0f5i70Hc",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/sessions/YouTube_Yl-hlwhj2B0",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/sessions/entao-ser-ey-prefiro-perder-tempo-com-alguma-atividade-que-a-ia-faria-em",
+      "reason": "duplicata"
+    },
+    {
+      "path": "10_Projetos/Memoria_Agente/telegram-hermes/sessions/youtube_https_youtu_waHGleiNmMk_CeQR",
+      "reason": "duplicata"
+    },
+    {
+      "path": "30_Recursos/Conversas_Estruturadas",
+      "reason": "duplicata"
+    },
+    {
+      "path": "30_Recursos/IA_Avaliacao_Adversarial_Resumo",
+      "reason": "duplicata"
+    },
+    {
+      "path": "30_Recursos/Sinapses_Neurais_Hermes_Memoria",
+      "reason": "duplicata"
+    }
+  ],
+  "deleted_media": [],
+  "deleted_total": 24,
+  "renamed": [
+    {
+      "from": "Tudo_certo_aqui",
+      "to": "Tudo_certo_por_aqui"
+    },
+    {
+      "from": "essa_synmateus",
+      "to": "Ser_era_essa_synmateus"
+    },
+    {
+      "from": "analisar_chat_https_share_gemini_v2",
+      "to": "analisar_chat_https_share_gemini"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v2",
+      "to": "Hermes_sessao"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v3",
+      "to": "Hermes_sessao_v2"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v4",
+      "to": "Hermes_sessao_v3"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v5",
+      "to": "Hermes_sessao_v4"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v6",
+      "to": "Contexto_Usuario_youtube_https_youtu"
+    },
+    {
+      "from": "repo_analyze_https_github_DeusData",
+      "to": "repo_analyze_https_github_com"
+    },
+    {
+      "from": "repo_analyze_https_github_arxhr",
+      "to": "repo_analyze_https_github_com_v2"
+    },
+    {
+      "from": "repo_analyze_https_github_ShadowHackrs",
+      "to": "repo_analyze_https_github_com"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v10",
+      "to": "Contexto_Usuario_youtube_https_youtu"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v11",
+      "to": "Contexto_Usuario_youtube_https_youtu_v2"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v2",
+      "to": "Contexto_Usuario_youtube_https_youtu_v3"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v3",
+      "to": "Contexto_Usuario_youtube_https_youtu_v4"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v4",
+      "to": "Contexto_Usuario_youtube_https_youtu_v5"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v5",
+      "to": "Contexto_Usuario_youtube_https_youtu_v6"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v6",
+      "to": "Contexto_Usuario_youtube_https_youtu_v7"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v7",
+      "to": "Contexto_Usuario_youtube_https_youtu_v8"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v8",
+      "to": "Contexto_Usuario_youtube_https_youtu_v9"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v9",
+      "to": "Contexto_Usuario_youtube_https_youtu_v10"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre",
+      "to": "Conceito_citado_uma_interacao_bot"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Beleza",
+      "to": "NDe_Beleza"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Checkpoints",
+      "to": "Conceito_citado_uma_interacao_bot_v2"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Memoria",
+      "to": "Memoria_Agente"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_MemorySaver",
+      "to": "MemorySaver_Thread"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Status",
+      "to": "Conceito_citado_uma_interacao_bot_v3"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Tamb",
+      "to": "Conceito_citado_uma_interacao_bot_v4"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Tema",
+      "to": "Tema_Central_Follow"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Tema_v2",
+      "to": "Tema_Central_Introdu"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_Tema_v3",
+      "to": "Tema_Central_Printing_Press"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_TwAn",
+      "to": "TwAn_LKVyQgMa_Beleza"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_TwAn_v2",
+      "to": "TwAn_LKVyQgMa_Voc"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_v2",
+      "to": "Hermes_LangGraph"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_v3",
+      "to": "Sim_Sim"
+    },
+    {
+      "from": "Conceito_citado_interacao_sobre_v4",
+      "to": "Tema_Central_Hermes"
+    },
+    {
+      "from": "EO-NDe824Ht2R8U0 Voc",
+      "to": "NDe_Voc"
+    },
+    {
+      "from": "Essa_cautela_importante_video_trata",
+      "to": "Multi_Token_Prediction"
+    },
+    {
+      "from": "expirationDate",
+      "to": "Resumo_expirationDate_Conversas_relacionadas"
+    },
+    {
+      "from": "home_ubuntu_telegram_hermes",
+      "to": "home_ubuntu_telegram_hermes_freebot"
+    },
+    {
+      "from": "home_ubuntu_telegram_hermes_v2",
+      "to": "home_ubuntu_telegram_hermes_freebot_v2"
+    },
+    {
+      "from": "repo_analyze_https_github_ShadowHackrs",
+      "to": "repo_analyze_https_github_com"
+    },
+    {
+      "from": "repo_analyze_https_github_DeusData",
+      "to": "repo_analyze_https_github_com"
+    },
+    {
+      "from": "repo_analyze_https_github_Dimillian",
+      "to": "repo_analyze_https_github_com_v2"
+    },
+    {
+      "from": "repo_analyze_https_github_akitaonrails",
+      "to": "repo_analyze_https_github_com_v3"
+    },
+    {
+      "from": "repo_analyze_https_github_itsOwen",
+      "to": "repo_analyze_https_github_com_v4"
+    },
+    {
+      "from": "repo_analyze_https_github_langchain",
+      "to": "repo_analyze_https_github_com_v5"
+    },
+    {
+      "from": "repo_analyze_https_github_smicallef",
+      "to": "repo_analyze_https_github_com_v6"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v2",
+      "to": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v3",
+      "to": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v2"
+    },
+    {
+      "from": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v4",
+      "to": "youtube_https_youtu_NhsF_aqgHbCACbxNigFFy_v3"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v10",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v2"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v11",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v3"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v2",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v4"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v3",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v5"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v4",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v6"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v5",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v7"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v6",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v8"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v7",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v9"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v8",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v10"
+    },
+    {
+      "from": "youtube_https_youtu_waHGleiNmMk_CeQR_v9",
+      "to": "youtube_https_youtu_waHGleiNmMk_gxz_v11"
+    }
+  ],
+  "renamed_count": 62,
+  "connections_added": 91,
+  "orphans_remaining": 0,
+  "orphans_list": [],
+  "notes_total": 505
+}

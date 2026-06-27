@@ -23,3 +23,9 @@ A instalação apresentada no vídeo posiciona o [[Printing_Press_gera_documenta
 Depois do [[Go]], o segundo eixo da instalação é o [[video_mostra_instalacao_Cloud_Code]]. A transcrição deixa claro que, embora os outputs possam ser usados depois em outros agentes como [[Codex]], [[OpenCloud]] ou outros agentes autônomos, o [[video_mostra_instalacao_Cloud_Code]] é tratado como o “motor” escolhido pelo ecossistema do [[Printing_Press_gera_documentacao_interfaces]] para gerar essas ferramentas. Isso cria uma arquitetura em camadas: o [[Go]] fornece a base de instalação do binário, o [[Printing_Press_gera_documentacao_interfaces]] fornece a fábrica de artefatos, e o [[video_mostra_instalacao_Cloud_Code]] atua como ambiente de execução e geração de skills. Essa separação é relevante porque reduz o acoplamento com um único agente: o vídeo mostra que a geração pode depender do [[video_mostra_instalacao_Cloud_Code]], mas o consumo pode acontecer via [[Printing_Press_Integracao_CLI]], skill ou até [[Dependencia_de_Servicos_Externos]], conforme o output escolhido.
 
 A in
+
+### Conexões Relacionadas
+
+- [[Printing_Press_Instalacao_Arquitetura]]
+- [[Printing_Press_Interface_Agentes]]
+- [[Printing_Press_Integracao]]

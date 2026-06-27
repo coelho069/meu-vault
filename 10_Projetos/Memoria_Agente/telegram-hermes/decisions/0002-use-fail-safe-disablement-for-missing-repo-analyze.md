@@ -16,3 +16,9 @@ Commit `2d8eff2e`, a few minutes later in the supplied history, restored the `re
 This establishes a project precedent: when an optional command module is missing and blocks startup, the immediate fail-safe was to disable its imports/handlers so the bot can boot, then restore the module and re-enable the commands once available.
 
 The sources do not say whether this pattern is implemented generically or was only applied to `repo_analyze`.
+
+### Conexões Relacionadas
+
+- [[repository-analysis-and-daily-summary]]
+- [[repo_analyze_https_github_com]]
+- [[repo_analyze_https_github_com_v2]]

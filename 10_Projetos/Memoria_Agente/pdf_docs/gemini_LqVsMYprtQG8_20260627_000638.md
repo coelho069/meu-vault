@@ -106,3 +106,9 @@ Sobre o Google Privacidade Termos Ajuda
 ‪日本語‬
 ‪简体中文‬
 ‪繁體中文‬
+
+### Conexões Relacionadas
+
+- [[Gemini]]
+- [[analisar_chat_https_share_gemini]]
+- [[analisar_chat_https_gemini_share]]

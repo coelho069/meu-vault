@@ -12,3 +12,11 @@ bootstrapped_at: 2026-06-20T23:11:15.316459454Z
 Commit `5d0605b9` integrated the LangGraph framework for stateful agent orchestration and memory persistence (“orquestracao de agentes stateful e persistencia de memoria”).
 
 This is the only supplied source that mentions LangGraph. It establishes that the project uses LangGraph for stateful agents and persistent memory, but does not describe graph nodes, state schema, storage backend, or how the Telegram commands enter the graph.
+
+### Conexões Relacionadas
+
+- [[akita_deep_summary_memory_memoria_v2]]
+- [[akita_deep_summary_memory_memoria]]
+- [[Resumo_Executivo_LangGraph_framework_para]]
+- [[repo_analyze_https_github_com_v5]]
+- [[Hermes_Projeto_Teste_Acesso]]

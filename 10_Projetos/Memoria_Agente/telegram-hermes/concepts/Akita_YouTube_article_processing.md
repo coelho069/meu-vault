@@ -22,3 +22,9 @@ Relevant history:
 - Commit `50e18a5a` implemented personality cloning based on YouTube transcription.
 
 The log does not define “akita” beyond these commit messages. It also does not identify which YouTube source, article source, or model is used, so collaborators should avoid assuming those details from the name alone.
+
+### Conexões Relacionadas
+
+- [[dynamic-timeouts-for-youtube-processing]]
+- [[Progress_feedback_Telegram_terminal]]
+- [[ai-memory-mcp-server]]

@@ -40,3 +40,9 @@ migrated_from: 2026-06-20_resumo_hoje_195033.md
 ⏱️ **[15:14]** - 🧯 Aplicado hotfix fail-safe para estabilizar boot sem `repo_analyze`
 ⏱️ **[15:18]** - 🔁 Restaurado módulo `repo_analyze` e reativados comandos bloqueados
 ⏱️ **[15:29]** - 🧩 Criado wrapper `hermes-intel` par
+
+### Conexões Relacionadas
+
+- [[YouTube_resumo-hoje]]
+- [[resumo_hoje_v3]]
+- [[repo_analyze_https_github_com]]

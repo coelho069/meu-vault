@@ -28,3 +28,9 @@ From the supplied log:
 - Commit `6205bcff` added the bot main loop and guarded startup.
 
 The resulting decision, as reflected by the history, is that the bot should validate its execution environment before module initialization and prevent multiple simultaneous instances using a file lock. The log names `bot.py` and `proteger_instancia_e_ambiente`, but does not provide the lock-file path or exact environment-detection logic.
+
+### Conexões Relacionadas
+
+- [[Akita_YouTube_article_processing]]
+- [[0002-use-fail-safe-disablement-for-missing-repo-analyze]]
+- [[ai-memory-mcp-server]]

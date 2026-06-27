@@ -12,7 +12,7 @@ usuario: 7583853645
 
 Usuario: `7583853645`
 
-Conceitos: [[Memoria_Agente_Resumo_Conceito]], [[Tudo_certo_aqui]]
+Conceitos: [[Memoria_Agente_Resumo_Conceito]], [[Tudo_certo_por_aqui]]
 
 ### Usuario
 

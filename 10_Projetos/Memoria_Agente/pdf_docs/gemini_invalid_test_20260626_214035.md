@@ -20,3 +20,9 @@ Conheça o Gemini, seu assistente pessoal de IA
 ## 2. Gemini
 
 Usar o microfone
+
+### Conexões Relacionadas
+
+- [[gemini_LqVsMYprtQG8_20260626_215321]]
+- [[gemini_LqVsMYprtQG8_20260626_215333]]
+- [[gemini_LqVsMYprtQG8_20260627_000638]]

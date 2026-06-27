@@ -48,3 +48,9 @@ Quem usa **Claude Code, Codex, OpenCode, Cursor, Gemini CLI** ou qualquer agente
 7. Roda teste, falha, corrige, roda de novo.
 
 Depois de **duas horas**, o a
+
+### Conexões Relacionadas
+
+- [[akita_deep_summary_memory_memoria_v2]]
+- [[akita_deep_summary_memory_memoria]]
+- [[akita_podcast_memory_memoria_longo]]

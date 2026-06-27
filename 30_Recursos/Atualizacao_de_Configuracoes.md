@@ -138,7 +138,7 @@ Em termos de segurança, um token é uma chave ou código usado para autenticaç
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_update]], [[Memoria_Agente_Status]], [[Conceito_citado_interacao_sobre]], [[Sobre_upgrade_Hermes_qual]]
+Conceitos: [[Hermes_update]], [[Memoria_Agente_Status]], [[Conceito_citado_uma_interacao_bot]], [[Sobre_upgrade_Hermes_qual]]
 
 ### Usuario
 
@@ -152,7 +152,7 @@ Olá! Sobre o upgrade do Hermes, qual a sua dúvida ou necessidade específica? 
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_update]], [[Conceito_citado_interacao_sobre_Memoria]], [[Instabilidade_Dependencias_Erro_Execucao]], [[Diagnostico_Dependencias]], [[Bibliotecas_Versoes_Desalinhadas]], [[Proximos_passos_Verificar_atualizar]], [[Salvo_Memoria_Agente]], [[Memoria_Agente]]
+Conceitos: [[Hermes_update]], [[Memoria_Agente]], [[Instabilidade_Dependencias_Erro_Execucao]], [[Diagnostico_Dependencias]], [[Bibliotecas_Versoes_Desalinhadas]], [[Proximos_passos_Verificar_atualizar]], [[Salvo_Memoria_Agente]], [[Memoria_Agente]]
 
 ### Usuario
 
@@ -170,7 +170,7 @@ Ok, resumindo o status do `local_videotranscriber`:
 
 Usuario: `7583853645`
 
-Conceitos: [[Tudo_certo_aqui]]
+Conceitos: [[Tudo_certo_por_aqui]]
 
 ### Usuario
 
@@ -184,7 +184,7 @@ Olá! Tudo bem? 😊
 
 Usuario: `7583853645`
 
-Conceitos: [[Tudo_certo_aqui]]
+Conceitos: [[Tudo_certo_por_aqui]]
 
 ### Usuario
 
@@ -254,7 +254,7 @@ resposta diagnostico hermes
 
 Usuario: `7583853645`
 
-Conceitos: [[Tudo_certo_aqui]]
+Conceitos: [[Tudo_certo_por_aqui]]
 
 ### Usuario
 
@@ -325,7 +325,7 @@ Publicado em 19/06/2026 às 18:29 UTC.
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[JSON_Autenticacao_Twitter_CLI]], [[Twitter_Post_Oi_Sessao]], [[essa_synmateus]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Twitter_Post_Oi]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_update]], [[JSON_Autenticacao_Twitter_CLI]], [[Twitter_Post_Oi_Sessao]], [[Ser_era_essa_synmateus]], [[MarcoAurelio_Tweet_Origem_Sessao]], [[SynMateus_Resumo_Twitter_Post]], [[Twitter_Post_Oi]]
 
 ### Usuario
 
@@ -657,7 +657,7 @@ Erro Técnico: empty_or_error_response
 
 Usuario: `7583853645`
 
-Conceitos: [[Tudo_certo_aqui]]
+Conceitos: [[Tudo_certo_por_aqui]]
 
 ### Usuario
 

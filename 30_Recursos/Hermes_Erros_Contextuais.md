@@ -291,7 +291,7 @@ A transcrição é suficiente para entender o fluxo geral, mas não traz detalhe
 
 Usuario: `7583853645`
 
-Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Conceito_citado_interacao_sobre_Tamb]]
+Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Conceito_citado_uma_interacao_bot_v4]]
 
 ### Usuario
 
@@ -328,7 +328,7 @@ Também é mostrado um fluxo com “sprints”: antes de codar, implementador e 
 
 Usuario: `7583853645`
 
-Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Conceito_citado_interacao_sobre_Tamb]]
+Conceitos: [[Sessao_de_discussao]], [[Relatorio_PT_producao]], [[Mensagem_clara_concisa]], [[Sinapses_Neurais_2]], [[Vies_de_autoavaliacao]], [[GANs_gerador_discriminador]], [[Programacao_orientada_objetos]], [[Conceito_citado_uma_interacao_bot_v4]]
 
 ### Usuario
 

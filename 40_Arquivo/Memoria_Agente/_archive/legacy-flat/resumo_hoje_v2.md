@@ -29,3 +29,9 @@ titulo: "resumo_hoje"
 -  **Memória:** corrigido processamento de arquivos de memória para leitura completa, evitando truncamento de conteúdo.
 -  **Memória:** adicionadas novas notas e relatórios no vault, incluindo YouTube, repositórios analisados, agentes e documentação operacional.
 -  **Deps/Skills:** criado wrapper `hermes-intel` e integrado como skill nativa
+
+### Conexões Relacionadas
+
+- [[YouTube_resumo-hoje]]
+- [[resumo-hoje-e-194640]]
+- [[resumo_hoje]]

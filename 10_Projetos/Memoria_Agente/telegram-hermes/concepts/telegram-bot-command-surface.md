@@ -20,3 +20,11 @@ The command surface grew over time:
 - `/resumo_hoje` was added for a daily changelog via git and AI in commit `46dfffbd`, then refactored to show a chronological timeline based on system timestamps in commit `adf91084`.
 
 The supplied sources do not include handler names, exact command arguments, or message formats, so those details should be checked in the code rather than inferred from the log.
+
+### Conexões Relacionadas
+
+- [[spiderfoot-integration]]
+- [[repository-analysis-and-daily-summary]]
+- [[router-wiring-can-hide-existing-commands]]
+- [[Progress_feedback_Telegram_terminal]]
+- [[Akita_YouTube_article_processing]]

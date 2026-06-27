@@ -32,3 +32,9 @@ A notÃ­cia apresenta um benchmark de codificaÃ§Ã£o utilizando trÃªs mode
 **O Benchmark:**
 
 *   **Tare
+
+### Conexões Relacionadas
+
+- [[Sessao_2026-06-20]]
+- [[akita_deep_summary_memory_memoria_v2]]
+- [[akita_deep_summary_LLMs_falhar]]

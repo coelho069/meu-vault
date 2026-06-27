@@ -42,7 +42,7 @@ Mapa de Conteúdo | 191 notas | 2026-06-27 10:03 UTC
 - [[Documentacao_De_Agentes_IA]] — Documentacao_De_Agentes_IA
 - [[dynamic-timeouts-for-youtube-processing]] — dynamic-timeouts-for-youtube-processing
 - [[Erro_Tecnico_Modo_ativo]] — Erro_Tecnico_Modo_ativo
-- [[Essa_cautela_importante_video_trata]] — Essa_cautela_importante_video_trata
+- [[Multi_Token_Prediction]] — Essa_cautela_importante_video_trata
 - [[Exports]] — Exports
 - [[Follow_aparece_transcricao_como_resposta]] — Follow_aparece_transcricao_como_resposta
 - [[Follow_Detecta_Codigo_Morto_Duplicado]] — Follow_Detecta_Codigo_Morto_Duplicado

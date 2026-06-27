@@ -77,3 +77,9 @@ tags:
 - `sessions/youtube-https-youtu-be-ymc0f5i70hc-is-4uujioio3xxbps9r-r-190607.md`
 - `sessions/youtube-https-youtu-be-ymc0f5i70hc-is-4uujioio3xxbps9r-r-190656.md`
 - `sessions/youtube-https-youtu-be-ymc0f5i70hc-is-4uujioio3xxbps9r.md`
+
+### Conexões Relacionadas
+
+- [[repo_analyze_https_github_com]]
+- [[Contexto_Usuario_youtube_https_youtu]]
+- [[YouTube_YMc0f5i70Hc_v2]]

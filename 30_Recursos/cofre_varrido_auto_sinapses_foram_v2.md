@@ -10,3 +10,9 @@ Resumo: O cofre foi varrido, as auto-sinapses foram geradas e o Tronco Cerebral 
 
 Conversas relacionadas:
 - [[Sessao_2026-06-20|Sessao_2026-06-20]]
+
+### Conexões Relacionadas
+
+- [[cofre_varrido_auto_sinapses_foram]]
+- [[Sinapses_Neurais]]
+- [[Sinapses_Neurais_Memoria]]

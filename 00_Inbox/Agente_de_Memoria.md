@@ -13,7 +13,7 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[Twitter_Publicando_Oi]], [[Sinapses_Neurais_2]], [[Memoria_Agente_Resumo_Conceito]], [[Conceito_citado_interacao_sobre]], [[Conceito_citado_interacao_sobre_Memoria]]
+**🧠 Sinapses Neurais:** [[Twitter_Publicando_Oi]], [[Sinapses_Neurais_2]], [[Memoria_Agente_Resumo_Conceito]], [[Conceito_citado_uma_interacao_bot]], [[Memoria_Agente]]
 <!-- memoria-agente-graph -->
 **Índice:** [[000_INDEX_CENTRAL]]
 

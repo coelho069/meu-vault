@@ -10,3 +10,9 @@ Resumo: [[Agent]] aparece na transcrição como um [[Agente]] deliberadamente mi
 
 Conversas relacionadas:
 - [[Sessao_2026-06-20|Sessao_2026-06-20]]
+
+### Conexões Relacionadas
+
+- [[YouTube_YMc0f5i70Hc_v6]]
+- [[YouTube_YMc0f5i70Hc]]
+- [[Sinapses_Neurais_Memoria]]

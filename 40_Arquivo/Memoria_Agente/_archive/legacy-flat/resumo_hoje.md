@@ -31,3 +31,9 @@ titulo: "resumo_hoje"
 - 🧩 **Deps/Skills:** criado wrapper `hermes-intel` e integrado como skill nativa para introspecção de código via Codebase Memory MCP.
 - 🔐 **Infra:** implementada CLI para cadastro e validação automatizada de API keys.
 - 🧯 **Estabilidade:** aplicado hotfix fail-safe para estabilizar o boot quando o módulo `repo_analyze` estava ausente, depois revertido com restauração correta.
+
+### Conexões Relacionadas
+
+- [[YouTube_resumo-hoje]]
+- [[resumo-hoje-e-194640]]
+- [[resumo_hoje_v2]]

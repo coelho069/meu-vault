@@ -20,3 +20,9 @@ Timeline from the log:
 - Commit `2dde398a` fixed web login for `ai-memory` via nginx using simple credentials.
 
 The log indicates the deployment stack includes Docker, nginx, bearer auth, and UFW. It does not provide compose files, ports, credential names, firewall rules, or nginx locations, so those must be read from the repository or host configuration.
+
+### Conexões Relacionadas
+
+- [[0003-expose-ai-memory-remotely-with-layered-access-controls]]
+- [[Akita_YouTube_article_processing]]
+- [[0001-guard-startup-with-venv-and-single-instance-protection]]

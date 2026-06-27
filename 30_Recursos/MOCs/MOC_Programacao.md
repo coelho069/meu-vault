@@ -17,7 +17,7 @@ Mapa de Conteúdo | 142 notas | 2026-06-27 10:03 UTC
 - [[Agent]] — Agent
 - [[Akita_YouTube_article_processing]] — Akita_YouTube_article_processing
 - [[analisar_chat_https_share_gemini]] — analisar_chat_https_share_gemini
-- [[analisar_chat_https_share_gemini_v2]] — analisar_chat_https_share_gemini_v2
+- [[analisar_chat_https_share_gemini]] — analisar_chat_https_share_gemini_v2
 - [[Antes]] — Antes
 - [[API]] — API
 - [[Atualizacao_de_Configuracoes]] — Atualizacao_de_Configuracoes
@@ -28,7 +28,7 @@ Mapa de Conteúdo | 142 notas | 2026-06-27 10:03 UTC
 - [[CodexMonitor]] — CodexMonitor
 - [[Codigo_Duplicado]] — Codigo_Duplicado
 - [[comparar_promessas_marketing_relatos_reais]] — comparar_promessas_marketing_relatos_reais
-- [[Conceito_citado_interacao_sobre_v3]] — Conceito_citado_interacao_sobre_v3
+- [[Sim_Sim]] — Conceito_citado_interacao_sobre_v3
 - [[Conectar_Hermes_Claude_Code_v2]] — Conectar_Hermes_Claude_Code_v2
 - [[Conecte_voce_GitHub]] — Conecte_voce_GitHub
 - [[Hermes_Projeto_Teste_Acesso]] — Confirmar Acesso Projeto
@@ -80,22 +80,22 @@ Mapa de Conteúdo | 142 notas | 2026-06-27 10:03 UTC
 - [[React]] — React
 - [[Relatorio_PT_producao]] — Relatorio_PT_producao
 - [[Repo_YouTube_Skills]] — Repo YouTube Skills
-- [[repo_analyze_https_github_akitaonrails]] — repo_analyze https---github.com-akitaonrails-ai-memory
-- [[repo_analyze_https_github_DeusData]] — repo_analyze https---github.com-DeusData-codebase-memory-mcp
-- [[repo_analyze_https_github_Dimillian]] — repo_analyze https---github.com-Dimillian-CodexMonitor
-- [[repo_analyze_https_github_itsOwen]] — repo_analyze https---github.com-itsOwen-CyberScraper-2077
-- [[repo_analyze_https_github_langchain]] — repo_analyze https---github.com-langchain-ai-langgraph
-- [[repo_analyze_https_github_smicallef]] — repo_analyze https---github.com-smicallef-spiderfoot
-- [[repo_analyze_https_github_akitaonrails]] — repo_analyze_https_github_akitaonrails
-- [[repo_analyze_https_github_arxhr]] — repo_analyze_https_github_arxhr
-- [[repo_analyze_https_github_DeusData]] — repo_analyze_https_github_DeusData
-- [[repo_analyze_https_github_DeusData]] — repo_analyze_https_github_DeusData
-- [[repo_analyze_https_github_Dimillian]] — repo_analyze_https_github_Dimillian
-- [[repo_analyze_https_github_itsOwen]] — repo_analyze_https_github_itsOwen
-- [[repo_analyze_https_github_langchain]] — repo_analyze_https_github_langchain
-- [[repo_analyze_https_github_ShadowHackrs]] — repo_analyze_https_github_ShadowHackrs
-- [[repo_analyze_https_github_ShadowHackrs]] — repo_analyze_https_github_ShadowHackrs
-- [[repo_analyze_https_github_smicallef]] — repo_analyze_https_github_smicallef
+- [[repo_analyze_https_github_com_v3]] — repo_analyze https---github.com-akitaonrails-ai-memory
+- [[repo_analyze_https_github_com]] — repo_analyze https---github.com-DeusData-codebase-memory-mcp
+- [[repo_analyze_https_github_com_v2]] — repo_analyze https---github.com-Dimillian-CodexMonitor
+- [[repo_analyze_https_github_com_v4]] — repo_analyze https---github.com-itsOwen-CyberScraper-2077
+- [[repo_analyze_https_github_com_v5]] — repo_analyze https---github.com-langchain-ai-langgraph
+- [[repo_analyze_https_github_com_v6]] — repo_analyze https---github.com-smicallef-spiderfoot
+- [[repo_analyze_https_github_com_v3]] — repo_analyze_https_github_akitaonrails
+- [[repo_analyze_https_github_com_v2]] — repo_analyze_https_github_arxhr
+- [[repo_analyze_https_github_com]] — repo_analyze_https_github_DeusData
+- [[repo_analyze_https_github_com]] — repo_analyze_https_github_DeusData
+- [[repo_analyze_https_github_com_v2]] — repo_analyze_https_github_Dimillian
+- [[repo_analyze_https_github_com_v4]] — repo_analyze_https_github_itsOwen
+- [[repo_analyze_https_github_com_v5]] — repo_analyze_https_github_langchain
+- [[repo_analyze_https_github_com]] — repo_analyze_https_github_ShadowHackrs
+- [[repo_analyze_https_github_com]] — repo_analyze_https_github_ShadowHackrs
+- [[repo_analyze_https_github_com_v6]] — repo_analyze_https_github_smicallef
 - [[repository-analysis-and-daily-summary]] — repository-analysis-and-daily-summary
 - [[resumo-hoje-e-194640]] — resumo-hoje-e-194640
 - [[Resumo_da_Conta_Marco]] — Resumo_da_Conta_Marco

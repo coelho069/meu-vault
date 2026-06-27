@@ -25,3 +25,9 @@ O tema central do vídeo pode ser sintetizado assim: **[[Printing_Press_gera_doc
 A tese do vídeo é que a maior dificuldade não está apenas em “chamar uma API”, mas em fazer com que um agente compreenda de forma eficiente como aquele serviço funciona sem precisar reler documentação longa a cada interação. A ferramenta chamada [[Printing_Press_gera_documentacao_interfaces]] é apresentada como uma espécie de “fábrica” de artefatos utilizáveis por agentes: ela lê uma API, uma URL ou o nome de uma biblioteca/serviço conhecido e gera saídas como [[Printing_Press_Integracao_CLI]], skill para [[Conectar_Hermes_Claude_Code]], skill para [[OpenCode]] e servidor [[Dependencia_de_Servicos_Externos]] pronto para uso. A promessa prática é converter conhecimento disperso de integração em uma camada operacional mais enxuta, local e reutilizável.
 
 O vídeo também situa [[Printing_Press_gera_documentacao_interfaces]] dentro de um ecossistema de agentes autônomos, cita
+
+### Conexões Relacionadas
+
+- [[Printing_Press_Documentacao_APIs]]
+- [[YouTube_UDTdsLLwGWw]]
+- [[YouTube_UDTdsLLwGWw_v2]]

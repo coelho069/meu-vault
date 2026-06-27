@@ -13,4 +13,4 @@ Conversas relacionadas:
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]
-**🧠 Sinapses Neurais:** [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[Programacao_orientada_objetos]], [[comparar_promessas_marketing_relatos_reais]], [[essa_synmateus]]
+**🧠 Sinapses Neurais:** [[IA_Avaliacao_Adversarial_Resumo]], [[IA_avaliacao_adversarial]], [[Programacao_orientada_objetos]], [[comparar_promessas_marketing_relatos_reais]], [[Ser_era_essa_synmateus]]

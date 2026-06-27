@@ -10,3 +10,9 @@ Resumo: ## Resumo Exaustivo do Texto "ai-memory: memÃ³ria de longo prazo (Karp
 
 Conversas relacionadas:
 - [[Sessao_2026-06-20|Sessao_2026-06-20]]
+
+### Conexões Relacionadas
+
+- [[akita_deep_summary_memory_memoria]]
+- [[akita_deep_summary_memory_memoria_v2]]
+- [[akita_deep_summary_reduce_memory]]
