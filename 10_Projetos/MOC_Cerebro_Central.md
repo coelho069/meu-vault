@@ -24,6 +24,7 @@ e concentra a densidade de conexões neurais do cofre `Memoria_Agente/`.
 
 ## Núcleo — Mapas de Conteúdo (MoCs)
 
+- [[00_NOTEBOOK_MESTRE_JAVVIS]]
 - [[MOC_Indice_Geral]]
 - [[MOC_Cerebro_Central]]
 

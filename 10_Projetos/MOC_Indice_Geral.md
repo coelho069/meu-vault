@@ -15,6 +15,8 @@ source: vault-linter
 
 Mapa de Conteúdo (LYT) autogerado pelo `vault_linter.py`. Hub central para navegação do grafo.
 
+- **Notebook mestre:** [[00_NOTEBOOK_MESTRE_JAVVIS]]
+
 **Última higienização:** 2026-06-20 23:25 UTC
 **Total de notas:** 65
 
