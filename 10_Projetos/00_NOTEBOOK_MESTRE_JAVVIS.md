@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T19:00:12Z
-updated_at: 2026-06-27T19:00:12Z
+created_at: 2026-06-27T20:00:14Z
+updated_at: 2026-06-27T20:00:14Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 19:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 20:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (125 detectados)
+## 1. Manual de Comandos (126 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -62,6 +62,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 /find_targets [query] - Agent-Reach (Twitter/GitHub/Web)
 /check_ads_leak <url> - Recursive Deep Scan Supabase (home + 3 internas)
 /ads_leak - Alias de /check_ads_leak
+/super_scan <urls...> - Silent Hunter: lote silencioso (so alerta critico)
 /verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 /langgraph_test [texto] - Valida orquestracao LangGraph com checkpoints
 /resumo_hoje - Resumo executivo das alteracoes de hoje
@@ -249,9 +250,6 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- ChatGPT e algo mágico? Ser eu sou burro vou ser mais inteligente?
-- Oi
-- Sou burro por não entender nada sobre inteligência artificial e mesmo assim nega algo que eu nem entendo é nem sei? Sou burro? Ou iguinorante
 - Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro?
 - /help
 - /help
@@ -259,15 +257,19 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - "domain": ".gemini.google.com",
 - "domain": ".google.com",
 - "name": "[REDACTED]", "value": "[REDACTED]",
+- ChatGPT e mágico?
+- Oi
+- Oi
 
 ### 8.3 Eventos frequentes nos logs
 
 - `AKITA` — 101 ocorrencia(s)
 - `GEMINI` — 98 ocorrencia(s)
-- `ROUTER` — 79 ocorrencia(s)
+- `ROUTER` — 85 ocorrencia(s)
 - `CMD:/help` — 7 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
+- `CMD:https://site-poliana-marinho.vercel.app/.env` — 3 ocorrencia(s)
 - `CMD:/modelos` — 2 ocorrencia(s)
 - `CMD:hermes-api` — 1 ocorrencia(s)
 - `CMD:Hermes, ative sua skill codebase_intelligence. Faça um search no repositório pel` — 1 ocorrencia(s)
@@ -285,9 +287,6 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- ChatGPT e algo mágico? Ser eu sou burro vou ser mais inteligente?
-- Oi
-- Sou burro por não entender nada sobre inteligência artificial e mesmo assim nega algo que eu nem entendo é nem sei? Sou burro? Ou iguinorante
 - Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro?
 - /help
 - /help
@@ -300,6 +299,9 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - Oi
 - /help
 - /help
+- https://site-poliana-marinho.vercel.app/.env
+- https://site-poliana-marinho.vercel.app/.env
+- https://site-poliana-marinho.vercel.app/.env
 
 ---
 
@@ -369,7 +371,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ## 11. Memoria Persistente do Bot
 
-78 itens em `cache/persistent_memory.json` (lista completa).
+81 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -449,6 +451,9 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [2026-06-27 18:47:36 UTC] Pedido do usuario: /find_targets "supabaseUrl" "lovable" -site:github.com Resposta/solucao que funcionou ou contexto importante: Agent Prospector — Twitter + GitHub + Web Query: "supabaseUrl" "lovable" -site:github.com Alvos: 3 1. [web] www.rapidevelopers.com https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file 2. [web] docs.lovable.dev https://docs.lovable.dev/integrations/supabase 3. [web] afterbuildlabs.com https://afterbuildlabs.com/fix/lovable-preview-wor... _(tags: auto)_
 - [2026-06-27 18:48:29 UTC] Pedido do usuario: /check_ads_leak https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan (Supabase) Alvo principal: https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file Paginas escaneadas: 4 (home + 3 interna(s)) --- [HOME] https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file --- Titulo: Fix "Missing enviro... _(tags: auto)_
 - [2026-06-27 18:52:38 UTC] Pedido do usuario: /check_ads_leak https://farmadobairro.com.br/setup Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://farmadobairro.com.br/setup Paginas escaneadas: 2 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) Fuzzing Inteligente (Path Discovery): - Caminhos descobertos: 1 (max 5) - https://farmadobairro.com.br/login - Vazamento(s) em caminhos fuzzed: 1 ! https://farmado... _(tags: auto)_
+- [2026-06-27 19:47:17 UTC] Pedido do usuario: /find_targets site:*.gov.br inurl:admin "login" Resposta/solucao que funcionou ou contexto importante: Agent Prospector — OSINT Awesome (PublicWWW, Grep.app, Infra, Social RT) Query: site:*.gov.br inurl:admin "login" Alvos de terceiros (BR/Lovable): 2 Fontes: PublicWWW, Grep.app, Shodan/Censys dorks, Social RT, Twitter, Reddit, GitHub, Web 1. [web] covid.fabriciano.mg.gov.br Snippet: covid.fabriciano.mg.gov.br https://covid.fabriciano.mg.gov.br/official-origin/supabase-admin-a... _(tags: auto)_
+- [2026-06-27 19:48:10 UTC] Pedido do usuario: /check_ads_leak https://covid.fabriciano.mg.gov.br/official-origin/supabase-admin-api-your-ultimate-guide-1764806185 Resposta/solucao que funcionou ou contexto importante: ❌ Domínio não encontrado. Verifique a URL. _(tags: auto)_
+- [2026-06-27 19:48:31 UTC] Pedido do usuario: /check_ads_leak https://covid.fabriciano.mg.gov.br/official-origin/supabase-login-your-ultimate-guide-1764804337 Resposta/solucao que funcionou ou contexto importante: ❌ Domínio não encontrado. Verifique a URL. _(tags: auto)_
 
 ---
 
@@ -3421,6 +3426,100 @@ Resultado: VAZAMENTO
 ### Hermes
 Resultado: RLS seguro
 
+## Export 4abca809
+
+**Interacao 2026-06-27 19:07:10 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:07:10 UTC
+### Usuario
+### Hermes
+Resultado: Vazamento detectado
+
+## Export 1c7a4424
+
+**Interacao 2026-06-27 19:12:56 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:12:56 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase
+
+## Export 3656b21c
+
+**Interacao 2026-06-27 19:14:12 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:14:12 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase
+
+## Export 6cd254cc
+
+**Interacao 2026-06-27 19:18:21 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:18:21 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[OSINT Awesome]], [[PublicWWW]], [[Grep]], [[Infra]], [[Social RT]], [[Query]]
+### Usuario
+### Hermes
+Fontes: PublicWWW, Grep.app, Shodan/Censys dorks, Social RT, Twitter, Reddit, GitHub, Web
+1. [web] [Lovable] zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supabase.vercel
+Snippet: zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supabase.vercel.app
+https://zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supabase.vercel.app/blog/lovable-cloud-launch
+
+## Export 153b4c08
+
+**Interacao 2026-06-27 19:19:47 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:19:47 UTC
+### Usuario
+### Hermes
+! [Critico] /.git/config -> https://site-poliana-marinho.vercel.app/.git/config (HTTP 200)
+
+## Export 2db48a67
+
+**Interacao 2026-06-27 19:43:43 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:43:43 UTC
+### Usuario
+### Hermes
+! [Critico] /.git/config -> https://site-poliana-marinho.vercel.app/.git/config (HTTP 200)
+
+## Export 7256202f
+
+**Interacao 2026-06-27 19:47:17 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:47:17 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[OSINT Awesome]], [[PublicWWW]], [[Grep]], [[Infra]], [[Social RT]], [[Query]]
+### Usuario
+### Hermes
+Fontes: PublicWWW, Grep.app, Shodan/Censys dorks, Social RT, Twitter, Reddit, GitHub, Web
+
+## Export 9e2be6e1
+
+**Interacao 2026-06-27 19:48:10 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:48:10 UTC
+### Usuario
+### Hermes
+
+## Export 5698e1ad
+
+**Interacao 2026-06-27 19:48:31 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:48:31 UTC
+### Usuario
+### Hermes
+
+## Export cade70d1
+
+**Interacao 2026-06-27 19:49:33 UTC** (resumo export)
+
+## Interacao 2026-06-27 19:49:33 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[OSINT Awesome]], [[PublicWWW]], [[Grep]], [[Infra]], [[Social RT]], [[Query]]
+### Usuario
+### Hermes
+Fontes: PublicWWW, Grep.app, Shodan/Censys dorks, Social RT, Twitter, Reddit, GitHub, Web
+
 
 
 ---
@@ -3438,11 +3537,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 20 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 78 | `cache/persistent_memory.json` |
+| Memoria persistente | 81 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 8231 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 8443 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -3470,8 +3569,8 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.05 MB |
-| Comandos catalogados | 125 |
+| Dados processados | 1.07 MB |
+| Comandos catalogados | 126 |
 | Conexoes wiki no vault | 520 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
