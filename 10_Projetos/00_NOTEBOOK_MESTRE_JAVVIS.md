@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T11:08:33Z
-updated_at: 2026-06-27T11:08:33Z
+created_at: 2026-06-27T11:28:25Z
+updated_at: 2026-06-27T11:28:25Z
 source: memory-extraction-pipeline
 trigger: watchdog:bot.py
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 11:08 UTC** (trigger: `watchdog:bot.py`).
+> Ultima consolidacao: **2026-06-27 11:28 UTC** (trigger: `watchdog:bot.py`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (118 detectados)
+## 1. Manual de Comandos (120 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -56,6 +56,8 @@ Comandos disponiveis (varredura automatica do bot.py):
 /akita - Ultimas postagens AkitaOnRails em podcast monologo
 /ipcheck <ip_ou_dominio> - Varredura OSINT passiva (SpiderFoot)
 /osint <alvo> - Inteligencia OSINT (subdominios, emails, tecnologias)
+/osint_search <alvo> - Busca OSINT com sugestao da biblioteca Awesome
+/osint_tools <tema> - Consultoria: melhores ferramentas OSINT por tema
 /attack_surface <alvo> - Superficie de ataque (portas, SSL, buckets)
 /verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 /langgraph_test [texto] - Valida orquestracao LangGraph com checkpoints
@@ -165,7 +167,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 ## 7. Historico de Decisoes
 
-5 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
+6 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
 
 ### [[0001-guard-startup-with-venv-and-single-instance-protection]]
 # Guard startup with virtual-environment and single-instance protection The project’s startup path was hardened through a cluster of commits on 2026-06-12. From the supplied log: - Commit `96d2303d` replaced `bot.py` with a single-instance guard placeholder. - Commit `ce0bebb8` imported `fcntl` for single-instance protection. - Commit `2b087f30` imported `sys` in `bot.py`. - Commit `01180db9` added a `proteger_instancia_e_ambiente` stub. - Commit `3069ee96` checked for a virtual environment in the protection setup. - Commit `385c45f1` added a virtual-environment error message. - Commit `5ac9bef1` made the bot exit when run outside a virtual environment. - Commit `982dc073` opened the lock fi...
@@ -173,6 +175,8 @@ Comandos disponiveis (varredura automatica do bot.py):
 # Use fail-safe disablement when repo_analyze is missing Commit `41512594` records a hotfix: imports and handlers for `repo_analyze` were disabled because the file was absent, with the stated goal of stabilizing boot (“para estabilizar o boot”). Commit `2d8eff2e`, a few minutes later in the supplied history, restored the `repo_analyze` module and reactivated blocked commands. This establishes a project precedent: when an optional command module is missing and blocks startup, the immediate fail-safe was to disable its imports/handlers so the bot can boot, then restore the module and re-enable the commands once available. The sources do not say whether this pattern is implemented generically o...
 ### [[0003-expose-ai-memory-remotely-with-layered-access-controls]]
 # Expose ai-memory remotely with layered access controls The `ai-memory` service moved from deployment/integration to remote exposure and then web-login repair across the latest commits. - Commit `14886a60` deployed and integrated the MCP `ai-memory` server via Docker. - Commit `8b7d697f` exposed `ai-memory` remotely with bearer authentication and UFW firewall. - Commit `2dde398a` fixed web login through nginx with simple credentials. The decision captured by these commits is that remote `ai-memory` access is not just a raw service exposure: the history explicitly mentions bearer auth, UFW, nginx, and simple credentials. The sources do not include the credential values, whether bearer auth a...
+### [[repo-analyze-https-github-com-astrosp-awesome-osint-list]]
+github.com-Astrosp-Awesome-OSINT-List tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T11:23:18Z status: active source: hermes-telegram --- # repo_analyze https---github.com-Astrosp-Awesome-OSINT-List ## Contexto **Usuario:** /repo_analyze https://github.com/Astrosp/Awesome-OSINT-List **Hermes:** 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Astrosp-Awesome-OSINT-List` 📊 Nota técnica (extraída): **75/100** 🔗 https://github.com/Astrosp/Awesome-OSINT-List Este repositório é uma lista "Awesome" de ferramentas e recursos OSINT (Open Source Intelligence). Como tal, sua arquitetura e qualidade de código devem...
 ### [[repo_analyze_https_github_com]]
 github.com-DeusData-codebase-memory-mcp tier: semantic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T08:27:19Z status: active source: hermes-telegram --- # repo_analyze https---github.com-DeusData-codebase-memory-mcp ## Contexto **Usuario:** /repo_analyze https://github.com/DeusData/codebase-memory-mcp **Hermes:** **🎯 Resumo Executivo** Servidor MCP de inteligência de código que indexa repositórios em um grafo persistente para consultas rápidas por agentes de IA. Útil para dar ao Hermes memória estrutural sobre codebases sem enviar o código para serviços externos. **🏗️ Arquitetura Core** - C - MCP Server - Grafo de conhecimento local - Análise AST...
 ### [[repo_analyze_https_github_com_v2]]
@@ -282,7 +286,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 ## 9. Repositorios Analisados
 
-11 repositorios no historico `memory/repo_analyze_history.json`.
+12 repositorios no historico `memory/repo_analyze_history.json`.
 
 | Repositorio | Nota | Veredito | Data | Recomendacao |
 |-------------|------|----------|------|--------------|
@@ -297,6 +301,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | `DeusData/codebase-memory-mcp` | 40 | vale testar isolado | 2026-06-27 08:27 UTC | Aguardar validação |
 | `telegram-hermes-freebot` | 45 | análise profunda | 2026-06-27 09:44 UTC | Revisar relatório técnico |
 | `Alfredredbird/tookie-osint` | 65 | análise profunda | 2026-06-27 09:54 UTC | Revisar relatório técnico |
+| `Astrosp/Awesome-OSINT-List` | 75 | análise profunda | 2026-06-27 11:23 UTC | Revisar relatório técnico |
 
 ### Destaques recentes
 
@@ -308,6 +313,9 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 ### `Alfredredbird-tookie-osint`
 ![Tookie-osint-logo-newtext-480x480](https://github.com/Alfredredbird/tookie-osint/assets/105014217/67bab5b4-f537-4f05-8a7b-c9fc3a16d256) ![GitHub contributors](https://img.shields.io/github/contributors/alfredredbird/tookie-osint) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alfredredbird/tookie-osint) ![GitHub fo...
+
+### `Astrosp-Awesome-OSINT-List`
+<base target="_blank"> <!---<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script> ---> <h1 align="center"> <b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/></h1> <p align="center"> A list of osint tools/websites for pentration testing, Reverse Searching, Red te...
 
 
 ---
@@ -362,15 +370,14 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[resumo-hoje-e-194640]]
 - [[resumo-hoje-e-195033]]
 
-### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
+### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
 
 ---
 
 ## 11. Memoria Persistente do Bot
 
-66 itens em `cache/persistent_memory.json`.
+67 itens em `cache/persistent_memory.json`.
 
-- [2026-06-20 19:06:07 UTC] Pedido do usuario: /youtube https://youtu.be/YMc0f5i70Hc?is=4uujIOiO3XXBPS9r Resposta/solucao que funcionou ou contexto importante: O bloco prático do vídeo funciona como uma validação operacional de ponta a ponta: não basta afirmar que [[Modelos Locais]] estão melhores; é precis... _(tags: auto)_
 - [2026-06-20 19:19:24 UTC] Pedido do usuario: /repo_analyze https://github.com/chaitanyagiri/munder-difflin Resposta/solucao que funcionou ou contexto importante: **🎯 Resumo Executivo** Munder Difflin é um harness local multiagente que orquestra agentes de terminal com memória, mensagens e um “GOD agent” s... _(tags: auto)_
 - [2026-06-20 19:46:39 UTC] Pedido do usuario: /resumo_hoje Resposta/solucao que funcionou ou contexto importante: ** Resumo Executivo de Hoje** - **Bot:** criado o comando `/resumo_hoje`, gerando changelog diário automático a partir do Git com apoio de IA. - **Bot:** restaurado o módulo `/repo_analyze` e r... _(tags: auto)_
 - [2026-06-20 19:50:33 UTC] Pedido do usuario: /resumo_hoje Resposta/solucao que funcionou ou contexto importante: ⏱️ **[04:24]** - 🛠️ Atualizado `exec_handler.py` no início da janela operacional ⏱️ **[04:31]** - 💾 Criado backup de `bot.py` e atualizados caches/memórias de erro ⏱️ **[04:49]** - 💾 Criado nov... _(tags: auto)_
@@ -395,6 +402,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [2026-06-27 04:23:15 UTC] Pedido do usuario: /analisar_chat https://g.co/gemini/share/5f30a59343af Resposta/solucao que funcionou ou contexto importante: # Relatório de Análise — Sessão Hermes / Telegram **Foco solicitado:** `https://g.co/gemini/share/5f30a59343af` ## 1. Resumo Executivo A sessão atual re... _(tags: auto)_
 - [2026-06-27 08:27:19 UTC] Pedido do usuario: /repo_analyze https://github.com/DeusData/codebase-memory-mcp Resposta/solucao que funcionou ou contexto importante: **🎯 Resumo Executivo** Servidor MCP de inteligência de código que indexa repositórios em um grafo persistente para consultas rápidas por agentes... _(tags: auto)_
 - [2026-06-27 09:54:15 UTC] Pedido do usuario: /repo_analyze https://github.com/Alfredredbird/tookie-osint Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Alfredredbird-tookie-osint` 📊 Nota técnica (extraída): **65/100** 🔗... _(tags: auto)_
+- [2026-06-27 11:23:18 UTC] Pedido do usuario: /repo_analyze https://github.com/Astrosp/Awesome-OSINT-List Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Astrosp-Awesome-OSINT-List` 📊 Nota técnica (extraída): **75/100** 🔗... _(tags: auto)_
 
 ---
 
@@ -402,12 +410,12 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 61 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 66 | `cache/persistent_memory.json` |
-| Historico repo_analyze | 11 | `memory/repo_analyze_history.json` |
+| Notas Memoria_Agente | 62 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 67 | `cache/persistent_memory.json` |
+| Historico repo_analyze | 12 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
-| Repos clonados | 1 | `cache/codebase_repos/` |
-| Logs PM2 | 7186 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Repos clonados | 2 | `cache/codebase_repos/` |
+| Logs PM2 | 7258 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 
 ### Podcasts em cache
 
@@ -434,9 +442,9 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 0.51 MB |
-| Comandos catalogados | 118 |
-| Conexoes wiki no vault | 487 |
+| Dados processados | 0.75 MB |
+| Comandos catalogados | 120 |
+| Conexoes wiki no vault | 492 |
 | Trigger | `watchdog:bot.py` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
