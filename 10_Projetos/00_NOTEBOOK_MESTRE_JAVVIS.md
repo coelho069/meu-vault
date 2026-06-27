@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T13:50:17Z
-updated_at: 2026-06-27T13:50:17Z
+created_at: 2026-06-27T13:51:55Z
+updated_at: 2026-06-27T13:51:55Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 13:50 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 13:51 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -380,7 +380,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - **[[langgraph-stateful-agents]]** — # LangGraph stateful agent orchestration Commit `5d0605b9` integrated the LangGraph framework for stateful agent orchestration and memory persistence (“orquestracao de agentes stateful e persistencia de memoria”). This i...
 - ... +3 conceitos adicionais
 
-### Sessoes e interacoes indexadas (23)
+### Sessoes e interacoes indexadas (29)
 
 - [[Contexto_Usuario_youtube_https_youtu]]
 - [[Contexto_Usuario_youtube_https_youtu_v10]]
@@ -405,8 +405,14 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[resumo-hoje-e-194640]]
 - [[resumo-hoje-e-195033]]
 - [[validacao-akita]]
+- [[vol-test-0]]
+- [[vol-test-1]]
+- [[vol-test-2]]
+- [[vol-test-3]]
+- [[vol-test-4]]
+- [[vol-test-5]]
 
-### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
+### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
 
 ---
 
@@ -2887,7 +2893,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 65 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Notas Memoria_Agente | 71 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
 | Memoria persistente | 68 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 13 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
@@ -2922,7 +2928,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 |-------|-------|
 | Dados processados | 1.07 MB |
 | Comandos catalogados | 120 |
-| Conexoes wiki no vault | 497 |
+| Conexoes wiki no vault | 503 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
