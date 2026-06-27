@@ -9,7 +9,7 @@ tags:
 Resumo: Hermes, faça um resumo técnico do status atual do projeto local_videotranscriber e salve como uma nota na Memoria_Agente
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_YouTube]]

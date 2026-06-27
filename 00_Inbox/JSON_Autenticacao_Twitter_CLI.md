@@ -9,7 +9,7 @@ tags:
 Resumo: | `~/.bashrc` + `cookies.json` | cookies `TWITTER_AUTH_TOKEN` / `TWITTER_CT0` | **Autenticação real** do CLI |
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]

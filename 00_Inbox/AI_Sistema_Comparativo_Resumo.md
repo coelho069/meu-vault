@@ -9,7 +9,7 @@ tags:
 Resumo: - Codex/Claude Code
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ## Atualizacao 2026-06-20 04:19:59 UTC
 

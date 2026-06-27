@@ -29,7 +29,7 @@ Mapa de Conteúdo — reorganizado em 2026-06-20 07:08 UTC
 - [[Programacao_orientada_objetos]]
 - [[Proximos_passos_Verificar_atualizar]]
 - [[Relatorio_PT_producao]]
-- [[Sinapses Neurais]]
+- [[Sinapses_Neurais]]
 - [[Sinapses_Neurais_2]]
 - [[Resumo_da_Conta_Marco]]
 - [[SSH_Conexao_Instrucoes_Detalhes]]

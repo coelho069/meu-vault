@@ -9,7 +9,7 @@ tags:
 Resumo: Ser era essa @synmateus
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]

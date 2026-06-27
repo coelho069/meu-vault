@@ -390,7 +390,7 @@ Quer que eu configure isso agora? Se tiver os
 
 Usuario: `7583853645`
 
-Conceitos: [[JSON_Autenticacao_Twitter_CLI]], [[PM2]], [[TWITTER_AUTH_TOKENauth_token]], [[Twitter_Post_Oi_Sessao]], [[Atualizando]], [[Credenciais]], [[Local]], [[Vari]]
+Conceitos: [[JSON_Autenticacao_Twitter_CLI]], [[PM2]], [[TWITTER_AUTH_TOKENauth_token]], [[Twitter_Post_Oi_Sessao]], [[Atualizando]], [[GitHub_Conexao_SSH_Credenciais]], [[Local]], [[Vari]]
 
 ### Usuario
 
@@ -463,7 +463,7 @@ O `xurl` não está autenticado (401) — o que importa para o bot é o CLI `twi
 
 Usuario: `7583853645`
 
-Conceitos: [[Twitter_Post_Oi_Sessao]], [[Resumo_da_Conta_Marco]], [[SynMateus_Resumo_Twitter_Post]], [[Twitter_Publicando_Oi]], [[Tweet_publicado_sucesso]], [[Campo]], [[Sinapses Neurais]], [[Sinapses_Neurais_Memoria]]
+Conceitos: [[Twitter_Post_Oi_Sessao]], [[Resumo_da_Conta_Marco]], [[SynMateus_Resumo_Twitter_Post]], [[Twitter_Publicando_Oi]], [[Tweet_publicado_sucesso]], [[Campo]], [[Sinapses_Neurais]], [[Sinapses_Neurais_Memoria]]
 
 ### Usuario
 
@@ -795,7 +795,7 @@ O que já existe no projeto:
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Hermes Agent]]
+Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
 
 ### Usuario
 
@@ -809,7 +809,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[S
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Hermes Agent]]
+Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_e_Memoria]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
 
 ### Usuario
 
@@ -823,7 +823,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[S
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Karpathy Wiki]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Hermes Agent]]
+Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[akita_deep_summary_memory]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
 
 ### Usuario
 

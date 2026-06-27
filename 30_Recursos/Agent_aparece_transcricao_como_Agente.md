@@ -6,7 +6,7 @@ data: "2026-06-20"
 
 # Modelos Locais
 
-Resumo: [[P Agent]] aparece na transcrição como um [[Agente de Programacao]] deliberadamente minimalista, pensado para operar bem com [[Modelos Locais]] em vez de depender exclusivamente de serviços remotos.
+Resumo: [[Agent]] aparece na transcrição como um [[Agente]] deliberadamente minimalista, pensado para operar bem com [[Agent_aparece_transcricao_como_Agente]] em vez de depender exclusivamente de serviços remotos.
 
 Conversas relacionadas:
 - [[Sessao_2026-06-20|Sessao_2026-06-20]]

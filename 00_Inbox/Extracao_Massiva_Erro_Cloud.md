@@ -9,7 +9,7 @@ tags:
 Resumo: Erro Técnico: empty_or_error_response
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ## Atualizacao 2026-06-20 03:09:18 UTC
 

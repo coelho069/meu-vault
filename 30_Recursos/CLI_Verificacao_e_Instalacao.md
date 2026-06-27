@@ -9,13 +9,13 @@ tags:
 Resumo: Verifique se a CLI do GitHub está instalada e me diga o que precisa de mim.
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-18|Sessao_2026-06-18]]
+- [[Sess|Sessao_2026-06-18]]
 
 ## Atualizacao 2026-06-19 18:31:50 UTC
 
 Resumo: O CLI do Twitter está instalado.
 
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]

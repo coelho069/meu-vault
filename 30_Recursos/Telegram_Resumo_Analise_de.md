@@ -22,7 +22,7 @@ canal: javvis_memory
 **Decisões / Insights:**
 - Sessão Telethon ausente/expirada ou canal inacessível para a conta autenticada.
 
-**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llamafile]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Javvis_Memory]] [[Sessão Telethon Ausente/Expirada Ou Cana]]
+**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llama]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Mem]] [[Sess]]
 **Confiança:** 0.0
 
 ## Mensagens coletadas (limpas)
@@ -32,7 +32,7 @@ canal: javvis_memory
 ## Referências bidirecionais
 
 - [[telegram_hermes_freebot_Atualizacoes]]
-- [[Conceitos/Llamafile]]
+- [[Llama]]
 - [[Conceitos/Canais]]
 - [[Obsidian_Restaurar_Conversas_Teste]]
 

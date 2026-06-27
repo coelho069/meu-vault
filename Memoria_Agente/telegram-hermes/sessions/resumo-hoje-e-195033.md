@@ -12,12 +12,12 @@ source: hermes-obsidian
 migrated_from: 2026-06-20_resumo_hoje_195033.md
 ---
 
-# [[telegram-hermes/sessions/[[telegram-hermes/sessions/resumo-hoje]]-e-194640]]
+# [[Hermes]]-e-194640]]
 
 ## Contexto
 
 **Usuario:**
-/[[telegram-hermes/sessions/[[telegram-hermes/sessions/resumo-hoje]]-e-194640]]
+/[[Hermes]]-e-194640]]
 
 **Hermes:**
 ⏱️ **[04:24]** - 🛠️ Atualizado `exec_handler.py` no início da janela operacional

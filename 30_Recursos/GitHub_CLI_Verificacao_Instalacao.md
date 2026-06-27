@@ -9,7 +9,7 @@ tags:
 Resumo: Verifique se a CLI do GitHub está instalada e me diga o que precisa de mim.
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-18|Sessao_2026-06-18]]
+- [[Sess|Sessao_2026-06-18]]
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]

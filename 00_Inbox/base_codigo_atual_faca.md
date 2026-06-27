@@ -9,7 +9,7 @@ tags:
 Resumo: Com base no seu código atual faça uma recomendação de melhoria
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]

@@ -9,7 +9,7 @@ tags:
 Resumo: Conceito citado em uma interacao do bot sobre Memoria_Agente Ok.
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Hermes]]

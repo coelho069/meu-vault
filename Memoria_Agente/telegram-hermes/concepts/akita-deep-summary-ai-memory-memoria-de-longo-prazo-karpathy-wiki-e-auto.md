@@ -12,7 +12,7 @@ source: hermes-obsidian
 migrated_from: 2026-06-20_akita_deep_summary_ai_memory_memoria_de_longo_prazo_karpathy_223326.md
 ---
 
-# [[telegram-hermes/concepts/[[telegram-hermes/concepts/akita-deep-summary-ai-memory-memoria-de-longo-prazo-karpathy-wiki-e-auto-2]]]]
+# [[Mem]]]]
 
 ## Contexto
 

@@ -6,7 +6,7 @@ data: "2026-06-20"
 
 # React
 
-Resumo: Follow aparece na transcrição como uma resposta prática a um problema muito específico da era de [[Vibe Coding]]: projetos [[JavaScript]] e [[TypeScript]] crescem rápido demais quando são gerados com [[IA]], especialmente em stacks como [[React]], [[Next.js]],
+Resumo: Follow aparece na transcrição como uma resposta prática a um problema muito específico da era de [[Vibe Coding]]: projetos [[JavaScript]] e [[TypeScript]] crescem rápido demais quando são gerados com [[IA]], especialmente em stacks como [[React]], [[Next]],
 
 Conversas relacionadas:
 - [[Sessao_2026-06-20|Sessao_2026-06-20]]

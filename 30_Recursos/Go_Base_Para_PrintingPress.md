@@ -6,7 +6,7 @@ data: "2026-06-20"
 
 # Pela
 
-Resumo: Pela transcrição, o [[Go]] não aparece como detalhe periférico, mas como base necessária para instalar o binário do [[Printing_Press]] e gerar ou consumir os artefatos que a ferramenta produz.
+Resumo: Pela transcrição, o [[Go]] não aparece como detalhe periférico, mas como base necessária para instalar o binário do [[Printing_Press_gera_documentacao_interfaces]] e gerar ou consumir os artefatos que a ferramenta produz.
 
 Conversas relacionadas:
 - [[Sessao_2026-06-20|Sessao_2026-06-20]]

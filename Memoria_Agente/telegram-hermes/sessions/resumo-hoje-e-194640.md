@@ -12,12 +12,12 @@ source: hermes-obsidian
 migrated_from: 2026-06-20_resumo_hoje_194640.md
 ---
 
-# [[telegram-hermes/gotchas/[[telegram-hermes/gotchas/resumo-hoje]]]]
+# [[Hermes]]]]
 
 ## Contexto
 
 **Usuario:**
-/[[telegram-hermes/gotchas/[[telegram-hermes/gotchas/resumo-hoje]]]]
+/[[Hermes]]]]
 
 **Hermes:**
 ** Resumo Executivo de Hoje**

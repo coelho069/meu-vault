@@ -8,7 +8,7 @@ generated_at: "2026-06-26 21:53 UTC"
 status: active
 ---
 
-# [[pdf_docs/gemini_LqVsMYprtQG8_20260626_215321]]
+# [[Gemini]]
 
 - Fonte: https://gemini.google.com/share/LqVsMYprtQG8
 - Gerado em: 2026-06-26 21:53 UTC

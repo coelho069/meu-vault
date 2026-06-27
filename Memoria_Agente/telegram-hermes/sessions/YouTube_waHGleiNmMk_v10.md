@@ -12,7 +12,7 @@ source: hermes-obsidian
 migrated_from: 2026-06-20_youtube_https_youtu_be_wahgleinmmk_is_gxz0ceqr3ckvaofg_141744.md
 ---
 
-# [[telegram-hermes/sessions/[[telegram-hermes/sessions/youtube-https-youtu-be-wahgleinmmk-is-gxz0ceqr3ckvaofg]]-g-135852]]
+# [[Hermes]]-g-135852]]
 
 ## Contexto
 
@@ -34,6 +34,6 @@ IntroduÃ§Ã£o ao Follow**: Ferramenta que analisa e corrige problemas em proj
 
 ## IntroduÃ§Ã£o ao Follow**: Ferramenta que analisa e corrige problemas em projetos de desenvolvimento web.
 
-O [[Follow]] é apresentado como uma ferramenta gratuita voltada para analisar e corrigir problemas recorrentes em projetos de [[Desenvolvimento Web]], especialmente aqueles criados ou acelerados por [[IA de Programação]]. A premissa central é simples, mas operacionalmente importante: identificar [[Código Não Utilizado]], [[Código Duplicado]] e trechos com [[Alta Complexidade]] antes que esses resíduos técnicos se acumulem e prejudiquem o projeto. Na leitura do vídeo, o Follow surge como uma resposta prática ao contexto de [[Vibe Coding]], em que aplicações são construídas rapidamente com ferramentas como [[Codex]], [[Cloud Code]] ou outras IAs, mas sem a mesma capacidade humana de revisão contínua, arquitetura deliberada e limpeza incremental.
+O [[Follow]] é apresentado como uma ferramenta gratuita voltada para analisar e corrigir problemas recorrentes em projetos de [[Follow_apresentado_como_ferramenta_gratuita]], especialmente aqueles criados ou acelerados por [[Programa]]. A premissa central é simples, mas operacionalmente importante: identificar [[Utilizado]], [[Codigo_Duplicado]] e trechos com [[premissa_central_simples_operacionalmente_importante]] antes que esses resíduos técnicos se acumulem e prejudiquem o projeto. Na leitura do vídeo, o Follow surge como uma resposta prática ao contexto de [[Vibe Coding]], em que aplicações são construídas rapidamente com ferramentas como [[Codex]], [[video_mostra_instalacao_Cloud_Code]] ou outras IAs, mas sem a mesma capacidade humana de revisão contínua, arquitetura deliberada e limpeza incremental.
 
 O problema que o Follow tenta resolver não

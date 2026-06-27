@@ -92,7 +92,7 @@ Start building
 **Decisões / Insights:**
 - Fallback ativo — 18 mensagens raspadas sem Llamafile.
 
-**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llamafile]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Durov]] [[This]] [[Users]] [[With]] [[Just]] [[Will]]
+**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llama]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Durov]] [[This]] [[Users]] [[With]] [[Just]] [[Will]]
 **Confiança:** 0.35
 
 ## Mensagens coletadas (limpas)
@@ -121,7 +121,7 @@ Start building
 ## Referências bidirecionais
 
 - [[telegram_hermes_freebot_Atualizacoes]]
-- [[Conceitos/Llamafile]]
+- [[Llama]]
 - [[Conceitos/Canais]]
 - [[Obsidian_Restaurar_Conversas_Teste]]
 

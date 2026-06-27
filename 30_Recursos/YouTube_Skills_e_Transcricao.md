@@ -9,7 +9,7 @@ tags:
 Resumo: kills](https://github.com/ZeroPointRepo/youtube-skills) — skills de busca e transcrição no YouTube
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ## Atualizacao 2026-06-20 05:09:03 UTC
 

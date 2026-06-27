@@ -22,7 +22,7 @@ canal: INEMAAGENTES
 **Decisões / Insights:**
 - Canal privado, indisponível ou sem mensagens de texto públicas.
 
-**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llamafile]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Inemaagentes]] [[Canal Privado, Indisponível Ou Sem Mensa]]
+**Conceitos / Tags:** [[telegram_hermes_freebot_Atualizacoes]] [[Llama]] [[Canais]] [[Obsidian_Restaurar_Conversas_Teste]] [[Agente]] [[Sem]]
 **Confiança:** 0.0
 
 ## Mensagens coletadas (limpas)
@@ -32,7 +32,7 @@ canal: INEMAAGENTES
 ## Referências bidirecionais
 
 - [[telegram_hermes_freebot_Atualizacoes]]
-- [[Conceitos/Llamafile]]
+- [[Llama]]
 - [[Conceitos/Canais]]
 - [[Obsidian_Restaurar_Conversas_Teste]]
 

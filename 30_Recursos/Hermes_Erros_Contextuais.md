@@ -26,7 +26,7 @@ Erro Técnico: extracao massiva requer provedor cloud 64k (configured_secret ou 
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Hermes Agent]]
+Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
 
 ### Usuario
 
@@ -40,7 +40,7 @@ Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[S
 
 Usuario: `7583853645`
 
-Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Hermes Agent]]
+Conceitos: [[Hermes_Erro_Contexto_Gemma3]], [[Modelo_Contexto_YAML_Resumo]], [[Sinapses_Neurais_Memoria_2]], [[Extracao_Massiva_Erro_Cloud]], [[gemma3_Contexto_Insuficiente_Falha]], [[Gemma3_Contexto_Muito_Pequeno]], [[Erro_Hermes_Context_Window]], [[Este_contexto_notas_documentos]]
 
 ### Usuario
 
@@ -132,7 +132,7 @@ For those interested in optimizing their use of AI tools, this video could be qu
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria]], [[Sinapses Neurais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria]], [[Sinapses_Neurais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
 
 ### Usuario
 
@@ -162,7 +162,7 @@ Regras foram seguidas, evitando a exposiÃ§Ã£o de tokens ou credenciais e man
 
 Usuario: `7583853645`
 
-Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria]], [[Sinapses Neurais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
+Conceitos: [[telegram_hermes_freebot_Atualizacoes]], [[Hermes_Erro_Contexto_Gemma3]], [[Sinapses_Neurais_Memoria]], [[Sinapses_Neurais]], [[YouTube_Skills_e_Transcricao]], [[Sinapses_Neurais_2]], [[Infelizmente_transcriA_fornecida_para]], [[Transcricao_Inutil_Para_Projeto]]
 
 ### Usuario
 

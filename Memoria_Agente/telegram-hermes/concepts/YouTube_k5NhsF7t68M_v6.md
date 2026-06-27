@@ -10,7 +10,7 @@ source: hermes-obsidian
 migrated_from: Assistente_Contextualizado.md
 ---
 
-# [[telegram-hermes/concepts/youtube-https-youtu-be-k5nhsf7t68m-is-aqghbcacbxnigffy-e-sessao]]
+# [[Hermes]]
 
 ## Contexto
 

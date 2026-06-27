@@ -9,7 +9,7 @@ tags:
 Resumo: No pedido `twitter post "oi" @SynMateus` (19/06/2026, 18:29 UTC), o tweet saiu assim:
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ## Atualizacao 2026-06-20 04:19:59 UTC
 

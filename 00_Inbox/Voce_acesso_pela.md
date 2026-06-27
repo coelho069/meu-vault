@@ -9,7 +9,7 @@ tags:
 Resumo: Você ja tem acesso a ele pela vps
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]

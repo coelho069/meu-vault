@@ -15,7 +15,7 @@ tags:
 
 **Resumo semântico:** Nenhuma curtida coletada no momento.
 
-**Tópicos / Conceitos:** [[Twitter_Post_Oi_Sessao]] [[Curtidas]] [[Llamafile]] [[Obsidian_Restaurar_Conversas_Teste]] [[Agent-Reach]] [[SynMateus_Resumo_Twitter_Post]]
+**Tópicos / Conceitos:** [[Twitter_Post_Oi_Sessao]] [[Curtidas_Twitter_SynMateus]] [[Llama]] [[Obsidian_Restaurar_Conversas_Teste]] [[Agent]] [[SynMateus_Resumo_Twitter_Post]]
 **Confiança:** 0.0
 
 ## Itens coletados (limpos, sem duplicatas/retweets vazios)
@@ -25,9 +25,9 @@ tags:
 ## Referências bidirecionais
 
 - [[Twitter_Post_Oi_Sessao]]
-- [[Conceitos/Llamafile]]
+- [[Llama]]
 - [[Obsidian_Restaurar_Conversas_Teste]]
-- [[Conceitos/Agent-Reach]]
+- [[Agent]]
 
 Gerado por fetch_likes_cookie.py (isolado, resiliente).
 

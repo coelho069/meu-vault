@@ -9,7 +9,7 @@ tags:
 Resumo: Encontrei o registro: o tweet saiu de @1MarcoAurelio2, não de @synmateus.
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Twitter]]

@@ -11,8 +11,8 @@ Painel web das notas geradas pelo bot Hermes, scrapers e loops de IA.
 
 ## Seções
 
-- [[MOC_Conversas_Stub]] — resumos Telegram/Twitter e sessões
-- [[MOC_Conceitos_Stub]] — conceitos e links bidirecionais
+- [[MOC]] — resumos Telegram/Twitter e sessões
+- [[MOC]] — conceitos e links bidirecionais
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]

@@ -9,7 +9,7 @@ tags:
 Resumo: * **Problemas:** A execução está instável devido a erros de dependência.
 
 Conversas relacionadas:
-- [[Conversas/Sessao_2026-06-19|Sessao_2026-06-19]]
+- [[Sess|Sessao_2026-06-19]]
 
 ---
 **🗺️ Hub:** [[MOC_Telegram]]

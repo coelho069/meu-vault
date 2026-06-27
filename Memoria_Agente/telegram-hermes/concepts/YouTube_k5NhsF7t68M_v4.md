@@ -10,7 +10,7 @@ source: hermes-obsidian
 migrated_from: Hermes_Contexto_Pessoal.md
 ---
 
-# [[telegram-hermes/concepts/[[telegram-hermes/concepts/youtube-https-youtu-be-k5nhsf7t68m-is-aqghbcacbxnigffy]]-e-sessao]]
+# [[Hermes]]-e-sessao]]
 
 ## Contexto
 
@@ -32,6 +32,6 @@ Hermes usa memória, soul.md e Obsidian para criar contexto pessoal persistente.
 
 ## Hermes usa memória, soul.md e Obsidian para criar contexto pessoal persistente.
 
-A primeira camada real de potência do Hermes, segundo a transcrição, não está em tratá-lo como mais um [[Chatbot]], mas em configurá-lo como um [[Assistente Pessoal de IA]] com [[Memória Persistente]]. O apresentador enfatiza que muita gente “compra uma Lambo e dirige a 10 milhas por hora”: instala o Hermes, conversa com ele, mas não ativa o sistema de contexto que permite ao agente lembrar quem é o usuário, o que ele faz, quais assuntos recorrentes aparecem nas conversas e como esses elementos devem influenciar respostas futuras. A diferença arquitetural é importante: um chatbot responde ao turno atual; um agente com memória constrói uma visão longitudinal do usuário.
+A primeira camada real de potência do Hermes, segundo a transcrição, não está em tratá-lo como mais um [[Chatbot]], mas em configurá-lo como um [[Assistente Pessoal de IA]] com [[Mem]]. O apresentador enfatiza que muita gente “compra uma Lambo e dirige a 10 milhas por hora”: instala o Hermes, conversa com ele, mas não ativa o sistema de contexto que permite ao agente lembrar quem é o usuário, o que ele faz, quais assuntos recorrentes aparecem nas conversas e como esses elementos devem influenciar respostas futuras. A diferença arquitetural é importante: um chatbot responde ao turno atual; um agente com memória constrói uma visão longitudinal do usuário.
 
 A base descrita na transcrição é o próprio motor de memória do Hermes. Ele inclui um `memory.md`, apresentado como um arquivo [[Markdown]] simples contendo elementos importantes das conversas, além de [[Peer Cards]], com “um card por pessoa”, cobrindo tempo e preferências. Também há um [
