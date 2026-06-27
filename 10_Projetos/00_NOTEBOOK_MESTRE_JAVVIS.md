@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T18:00:12Z
-updated_at: 2026-06-27T18:00:12Z
+created_at: 2026-06-27T19:00:12Z
+updated_at: 2026-06-27T19:00:12Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 18:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 19:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -369,7 +369,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ## 11. Memoria Persistente do Bot
 
-74 itens em `cache/persistent_memory.json` (lista completa).
+78 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -445,6 +445,10 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [2026-06-27 16:43:52 UTC] Pedido do usuario: /check_ads_leak https://frt-financer.vercel.app/login Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://frt-financer.vercel.app/login Titulo: FinanceR Track Metadados: - viewport: width=device-width, initial-scale=1 - description: Rastreando a sua saúde, construindo o seu futuro Endpoints/API: - https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams - https://nextjs.org/docs/app/api-reference/funct... _(tags: auto)_
 - [2026-06-27 16:49:26 UTC] Pedido do usuario: /check_ads_leak https://portfolio-dg-rosy.vercel.app Resposta/solucao que funcionou ou contexto importante: Relatorio Ads Leak Scan Alvo: https://portfolio-dg-rosy.vercel.app Titulo: 404: NOT_FOUND Metadados: - viewport: width=device-width,initial-scale=1 - theme-color: #000 Links encontrados: - https://vercel.com/docs/errors/DEPLOYMENT_NOT_FOUND Avisos: - Nenhum trafego Supabase capturado (network sniff) nem SDK no HTML/JS. Modo: Active Network Sniffing + Playwright stealth. _(tags: auto)_
 - [2026-06-27 17:57:16 UTC] Pedido do usuario: /check_ads_leak https://www.tabnews.com.br/robsonsouza/pitch-criei-um-micro-saas-a-partir-de-uma-necessidade-da-minha-esposa Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan (Supabase) Alvo principal: https://www.tabnews.com.br/robsonsouza/pitch-criei-um-micro-saas-a-partir-de-uma-necessidade-da-minha-esposa Paginas escaneadas: 4 (home + 3 interna(s)) --- [HOME] https://www.tabnews.com.br/robsonsouza/pitch-criei-um-micro-saas-a-partir-de-uma... _(tags: auto)_
+- [2026-06-27 18:13:44 UTC] Pedido do usuario: /check_ads_leak https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan (Supabase) Alvo principal: https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia Paginas escaneadas: 4 (home + 3 interna(s)) --- [HOME] https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-complet... _(tags: auto)_
+- [2026-06-27 18:47:36 UTC] Pedido do usuario: /find_targets "supabaseUrl" "lovable" -site:github.com Resposta/solucao que funcionou ou contexto importante: Agent Prospector — Twitter + GitHub + Web Query: "supabaseUrl" "lovable" -site:github.com Alvos: 3 1. [web] www.rapidevelopers.com https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file 2. [web] docs.lovable.dev https://docs.lovable.dev/integrations/supabase 3. [web] afterbuildlabs.com https://afterbuildlabs.com/fix/lovable-preview-wor... _(tags: auto)_
+- [2026-06-27 18:48:29 UTC] Pedido do usuario: /check_ads_leak https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan (Supabase) Alvo principal: https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file Paginas escaneadas: 4 (home + 3 interna(s)) --- [HOME] https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file --- Titulo: Fix "Missing enviro... _(tags: auto)_
+- [2026-06-27 18:52:38 UTC] Pedido do usuario: /check_ads_leak https://farmadobairro.com.br/setup Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://farmadobairro.com.br/setup Paginas escaneadas: 2 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) Fuzzing Inteligente (Path Discovery): - Caminhos descobertos: 1 (max 5) - https://farmadobairro.com.br/login - Vazamento(s) em caminhos fuzzed: 1 ! https://farmado... _(tags: auto)_
 
 ---
 
@@ -3219,6 +3223,204 @@ Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos
 Agent Prospector — Twitter + GitHub + Web
 Query: "supabaseUrl" "supabaseAnonKey" site:github.com "br"
 
+## Export c7311016
+
+**Interacao 2026-06-27 18:08:29 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:08:29 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export ce7881ff
+
+**Interacao 2026-06-27 18:09:38 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:09:38 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Supabase-3FCF8E]], [[Botoes]], [[Abrir]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+1. [web] multiversodigital.com.br
+https://multiversodigital.com.br
+
+## Export aeecce7b
+
+**Interacao 2026-06-27 18:10:45 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:10:45 UTC
+Conceitos: [[Relatorio Recursive Deep Scan]], [[Supabase]], [[Alvo]], [[Paginas]], [[HOME]], [[Titulo]], [[Multiverso Digital]], [[Startup]]
+### Usuario
+/check_ads_leak https://multiversodigital.com.br
+### Hermes
+Alvo principal: https://multiversodigital.com.br
+Titulo: Multiverso Digital — Startup de IA e LLMs | App Mobile
+Resultado: Sem Supabase detectado
+Titulo: Multiverso Digital — AI & LLM Startup | Mobile App
+Titulo: Multiverso Digital — Startup de IA y LLMs | App Móvil
+
+## Export f37e5993
+
+**Interacao 2026-06-27 18:11:30 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:11:30 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 5ca96d25
+
+**Interacao 2026-06-27 18:12:30 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:12:30 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+3. [web] acervodigital.net
+https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia
+
+## Export ca0b4e0a
+
+**Interacao 2026-06-27 18:13:44 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:13:44 UTC
+### Usuario
+/check_ads_leak https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia
+### Hermes
+Alvo principal: https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia
+Titulo: Lovable e Supabase: Como Criar e Publicar Aplicativos Completos Usando apenas IA - Acervo Digital
+Resultado: Sem Supabase detectado
+Titulo: Arquivo para IA para WhatsApp e Chat - Acervo Digital
+Titulo: Acervo Digital — Recursos Gratuitos: Cursos, Ebooks, IAs e Ferramentas
+Titulo: Assistir Online Grátis - Acervo Digital
+Resultado: Se
+
+## Export 67005d1e
+
+**Interacao 2026-06-27 18:15:21 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:15:21 UTC
+Conceitos: [[GitHub]], [[Lovable]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 9e569ac9
+
+**Interacao 2026-06-27 18:16:08 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:16:08 UTC
+Conceitos: [[Relatorio Recursive Deep Scan]], [[Supabase]], [[Alvo]], [[Paginas]], [[HOME]], [[Titulo]], [[Resultado]], [[Sem Supabase]]
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 037021ab
+
+**Interacao 2026-06-27 18:16:38 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:16:38 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 44a7a9ba
+
+**Interacao 2026-06-27 18:17:06 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:17:06 UTC
+Conceitos: [[Relatorio Recursive Deep Scan]], [[Supabase]], [[Alvo]], [[Paginas]], [[HOME]], [[Titulo]], [[Presentes Encanto Das Flores]], [[Resultado]]
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export b54026e3
+
+**Interacao 2026-06-27 18:18:08 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:18:08 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 17015d1f
+
+**Interacao 2026-06-27 18:22:35 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:22:35 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export 51111bb2
+
+**Interacao 2026-06-27 18:45:10 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:45:10 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+
+## Export a581f9a2
+
+**Interacao 2026-06-27 18:46:21 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:46:21 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase detectado
+
+## Export 497bfdf9
+
+**Interacao 2026-06-27 18:47:36 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:47:36 UTC
+Conceitos: [[GitHub]], [[Agent Prospector]], [[Twitter]], [[Web Query]], [[Alvos]], [[Botoes]], [[Abrir]], [[Scan]]
+### Usuario
+/find_targets "supabaseUrl" "lovable" -site:github.com
+### Hermes
+Agent Prospector — Twitter + GitHub + Web
+Query: "supabaseUrl" "lovable" -site:github.com
+https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file
+https://afterbuildlabs.com/fix/lovable-preview-works-vercel-breaks
+
+## Export 9946ffeb
+
+**Interacao 2026-06-27 18:48:29 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:48:29 UTC
+Conceitos: [[Relatorio Recursive Deep Scan]], [[Supabase]], [[Alvo]], [[Paginas]], [[HOME]], [[Titulo]], [[Fix]], [[Missing]]
+### Usuario
+/check_ads_leak https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file
+### Hermes
+Alvo principal: https://www.rapidevelopers.com/ai-build-errors/missing-environment-variables-in-env-file
+Titulo: Fix "Missing environment variables" in Lovable | RapidDev
+Resultado: Projeto Supabase referenciado (sem exploit confirmado)
+Resultado: Sem Supabase detectado
+
+## Export 291d3d3d
+
+**Interacao 2026-06-27 18:49:39 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:49:39 UTC
+### Usuario
+### Hermes
+Resultado: VAZAMENTO
+
+## Export 646eda81
+
+**Interacao 2026-06-27 18:52:38 UTC** (resumo export)
+
+## Interacao 2026-06-27 18:52:38 UTC
+### Usuario
+### Hermes
+Resultado: RLS seguro
+
 
 
 ---
@@ -3236,11 +3438,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 20 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 74 | `cache/persistent_memory.json` |
+| Memoria persistente | 78 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 8072 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 8231 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -3268,7 +3470,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.03 MB |
+| Dados processados | 1.05 MB |
 | Comandos catalogados | 125 |
 | Conexoes wiki no vault | 520 |
 | Trigger | `cron-export` |
