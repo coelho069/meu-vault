@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T21:29:10Z
-updated_at: 2026-06-27T21:29:10Z
+created_at: 2026-06-27T22:00:07Z
+updated_at: 2026-06-27T22:00:07Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 21:29 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 22:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -366,7 +366,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [[check-ads-leak-https-www-relay-app-apps-instagram-integrations-supabase]]
 - [[sre-test]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
