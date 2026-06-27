@@ -8,17 +8,17 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T12:14:04Z
-updated_at: 2026-06-27T12:14:04Z
+created_at: 2026-06-27T12:38:47Z
+updated_at: 2026-06-27T12:38:47Z
 source: memory-extraction-pipeline
-trigger: manual-user
+trigger: watchdog:memory_notebook_builder.py
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 12:14 UTC** (trigger: `manual-user`).
+> Ultima consolidacao: **2026-06-27 12:38 UTC** (trigger: `watchdog:memory_notebook_builder.py`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -275,7 +275,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 - `GEMINI` — 103 ocorrencia(s)
 - `AKITA` — 101 ocorrencia(s)
-- `ROUTER` — 70 ocorrencia(s)
+- `ROUTER` — 74 ocorrencia(s)
 - `CMD:/help` — 7 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
@@ -406,7 +406,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[resumo-hoje-e-195033]]
 - [[validacao-akita]]
 
-### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
+### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
 
 ---
 
@@ -451,7 +451,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Historico repo_analyze | 13 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 3 | `cache/codebase_repos/` |
-| Logs PM2 | 7379 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7392 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -482,7 +482,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Dados processados | 0.77 MB |
 | Comandos catalogados | 120 |
 | Conexoes wiki no vault | 497 |
-| Trigger | `manual-user` |
+| Trigger | `watchdog:memory_notebook_builder.py` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
