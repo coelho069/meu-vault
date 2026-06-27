@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T21:00:13Z
-updated_at: 2026-06-27T21:00:13Z
+created_at: 2026-06-27T21:29:10Z
+updated_at: 2026-06-27T21:29:10Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 21:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-27 21:29 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -250,7 +250,6 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro?
 - /help
 - /help
 - /help
@@ -260,12 +259,13 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - ChatGPT e mágico?
 - Oi
 - Oi
+- /help
 
 ### 8.3 Eventos frequentes nos logs
 
 - `AKITA` — 101 ocorrencia(s)
 - `GEMINI` — 98 ocorrencia(s)
-- `ROUTER` — 86 ocorrencia(s)
+- `ROUTER` — 91 ocorrencia(s)
 - `CMD:/help` — 7 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
@@ -284,10 +284,10 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - `CMD:"name": "[REDACTED]", "value": "[REDACTED]",` — 1 ocorrencia(s)
 - `CMD:ChatGPT e mágico?` — 1 ocorrencia(s)
 - `NLM` — 1 ocorrencia(s)
+- `CMD:Cancelar` — 1 ocorrencia(s)
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- Então ser ey prefiro perder tempo com alguma atividade que a IA faria em menos tempo sou burro?
 - /help
 - /help
 - /help
@@ -302,6 +302,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - https://site-poliana-marinho.vercel.app/.env
 - https://site-poliana-marinho.vercel.app/.env
 - https://site-poliana-marinho.vercel.app/.env
+- Cancelar
 
 ---
 
@@ -3530,6 +3531,15 @@ Fontes: PublicWWW, Grep.app, Shodan/Censys dorks, Social RT, Twitter, Reddit, Gi
 ### Hermes
 Vulnerabilidades criticas reportadas: 0
 
+## Export 679dedad
+
+**Interacao 2026-06-27 21:19:33 UTC** (resumo export)
+
+## Interacao 2026-06-27 21:19:33 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase
+
 
 
 ---
@@ -3551,7 +3561,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 14 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 4 | `cache/codebase_repos/` |
-| Logs PM2 | 8530 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 8627 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -3579,7 +3589,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.07 MB |
+| Dados processados | 1.08 MB |
 | Comandos catalogados | 126 |
 | Conexoes wiki no vault | 520 |
 | Trigger | `cron-export` |
