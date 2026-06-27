@@ -8,17 +8,17 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T11:41:42Z
-updated_at: 2026-06-27T11:41:42Z
+created_at: 2026-06-27T11:51:42Z
+updated_at: 2026-06-27T11:51:42Z
 source: memory-extraction-pipeline
-trigger: watchdog:memory_notebook_builder.py
+trigger: watchdog:notebooklm_sync.py
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 11:41 UTC** (trigger: `watchdog:memory_notebook_builder.py`).
+> Ultima consolidacao: **2026-06-27 11:51 UTC** (trigger: `watchdog:notebooklm_sync.py`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -398,7 +398,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[resumo-hoje-e-194640]]
 - [[resumo-hoje-e-195033]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
@@ -473,8 +473,8 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 |-------|-------|
 | Dados processados | 0.75 MB |
 | Comandos catalogados | 120 |
-| Conexoes wiki no vault | 492 |
-| Trigger | `watchdog:memory_notebook_builder.py` |
+| Conexoes wiki no vault | 493 |
+| Trigger | `watchdog:notebooklm_sync.py` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
