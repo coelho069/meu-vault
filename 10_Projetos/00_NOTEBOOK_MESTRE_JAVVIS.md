@@ -8,17 +8,17 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-27T11:28:25Z
-updated_at: 2026-06-27T11:28:25Z
+created_at: 2026-06-27T11:35:26Z
+updated_at: 2026-06-27T11:35:26Z
 source: memory-extraction-pipeline
-trigger: watchdog:bot.py
+trigger: manual:osint-section-fix
 status: active
 ---
 
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-27 11:28 UTC** (trigger: `watchdog:bot.py`).
+> Ultima consolidacao: **2026-06-27 11:35 UTC** (trigger: `manual:osint-section-fix`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -165,6 +165,34 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 ---
 
+## 2. Biblioteca OSINT Awesome (1722 ferramentas)
+
+- **Fonte:** [Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List)
+- **Arquivo local:** `data/osint_library.json` (1722 ferramentas, 87 categorias)
+- **Modulo:** `osint_library.py` — busca, sugestao por alvo, contexto LLM
+- **Builder:** `scripts/build_osint_library.py`
+- **Ultima sync:** 2026-06-27 11:28 UTC
+
+### Integracao no bot
+- `/osint_search` e `/osint` consultam a biblioteca antes da varredura SpiderFoot
+- `/osint_tools <tema>` — modo consultoria (ex: crypto, instagram, email)
+- `/repo_analyze` injeta ferramentas OSINT no prompt do LLM
+- Gemini/Grok recebem contexto OSINT em tarefas de investigacao
+
+### Amostra: crypto
+- **Blockchain Explorer** — https://www.blockchain.com/explorer
+- **Bitcoin Explorer** — https://blockchair.com/bitcoin
+- **WalletExplorer** — https://www.walletexplorer.com/
+- **Cryptocurrency Alerting** — https://cryptocurrencyalerting.com/
+- **Bitcoin Forums Search Engine** — https://cse.google.com/cse?cx=f49f9d5e679b15787
+
+### Amostra: instagram
+- **Find Instagram User ID** — https://codeofaninja.com/tools/find-instagram-user-id/
+- **Instagram Deep Photo Search Engine** — https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy
+- **Instagram User ID** — https://commentpicker.com/instagram-user-id.php
+
+---
+
 ## 7. Historico de Decisoes
 
 6 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
@@ -245,7 +273,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 
 - `GEMINI` — 103 ocorrencia(s)
 - `AKITA` — 101 ocorrencia(s)
-- `ROUTER` — 68 ocorrencia(s)
+- `ROUTER` — 70 ocorrencia(s)
 - `CMD:/help` — 7 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
@@ -370,7 +398,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 - [[resumo-hoje-e-194640]]
 - [[resumo-hoje-e-195033]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
@@ -415,7 +443,8 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Historico repo_analyze | 12 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 2 | `cache/codebase_repos/` |
-| Logs PM2 | 7258 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7269 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
 
@@ -445,7 +474,7 @@ github.com-arxhr007-Aliens_eye tier: semantic tags: - auto - telegram - memoria-
 | Dados processados | 0.75 MB |
 | Comandos catalogados | 120 |
 | Conexoes wiki no vault | 492 |
-| Trigger | `watchdog:bot.py` |
+| Trigger | `manual:osint-section-fix` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
 **Tronco Cerebral:** [[MOC_Cerebro_Central]] | **Indice:** [[MOC_Indice_Geral]]
