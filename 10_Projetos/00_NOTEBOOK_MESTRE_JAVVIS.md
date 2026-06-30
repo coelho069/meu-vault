@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-06-30T16:00:15Z
-updated_at: 2026-06-30T16:00:15Z
+created_at: 2026-06-30T17:00:07Z
+updated_at: 2026-06-30T17:00:07Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-06-30 16:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-06-30 17:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -265,9 +265,9 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ### 8.3 Eventos frequentes nos logs
 
+- `GEMINI` — 102 ocorrencia(s)
 - `AKITA` — 101 ocorrencia(s)
-- `GEMINI` — 98 ocorrencia(s)
-- `ROUTER` — 93 ocorrencia(s)
+- `ROUTER` — 94 ocorrencia(s)
 - `CMD:/help` — 8 ocorrencia(s)
 - `CMD:Oi` — 5 ocorrencia(s)
 - `RESUMO` — 3 ocorrencia(s)
@@ -372,7 +372,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [[check-ads-leak-https-www-relay-app-apps-instagram-integrations-supabase]]
 - [[sre-test]]
 
-### ai-memory MCP status: `{ "counts": { "pages_latest": 0, "pages_all": 0, "sessions": 0, "observations": 0 } }`
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
@@ -3621,7 +3621,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 15 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 5 | `cache/codebase_repos/` |
-| Logs PM2 | 8689 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 9397 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -3649,7 +3649,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.10 MB |
+| Dados processados | 1.14 MB |
 | Comandos catalogados | 126 |
 | Conexoes wiki no vault | 523 |
 | Trigger | `cron-export` |
