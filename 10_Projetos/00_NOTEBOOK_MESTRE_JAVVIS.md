@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-01T17:00:14Z
-updated_at: 2026-07-01T17:00:14Z
+created_at: 2026-07-01T18:00:27Z
+updated_at: 2026-07-01T18:00:27Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-01 17:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-01 18:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -209,7 +209,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 ## 7. Historico de Decisoes
 
-30 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
+31 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
 
 ### [[atue-como-o-arquiteto-de-governanca-de-ti-e-auditor-de-baseline-de-segur-2]]
 # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N **Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N** (resumo export) status: active # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N ## Contexto "Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. Nossa missão é realizar o 'Mapeamento de Dependências Externas' em nosso ecossistema de micro-serviços (/home/ubuntu/). Sua Missão: 1. Identificação de Ativos: Acione o módulo autonomous_search.py para listar 10 instâncias ativas de parceiros tecnológicos hospedados em *.vercel.app e *.lovable.app. 2. Auditoria de Baseline: Para...
@@ -221,6 +221,8 @@ Comandos disponiveis (varredura automatica do bot.py):
 # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N **Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N** (resumo export) status: active # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N ## Contexto "Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. Nossa missão é realizar o 'Mapeamento de Dependências Externas' em nosso ecossistema de micro-serviços (/home/ubuntu/). Sua Missão: 1. Identificação de Ativos: Acione o módulo autonomous_search.py para listar 10 instâncias ativas de parceiros tecnológicos hospedados em *.vercel.app e *.lovable.app. 2. Auditoria de Baseline: Para...
 ### [[atue-como-o-arquiteto-de-governanca-de-ti-e-auditor-de-baseline-de-segur]]
 # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N **Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N** (resumo export) status: active # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N ## Contexto "Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. Nossa missão é realizar o 'Mapeamento de Dependências Externas' em nosso ecossistema de micro-serviços (/home/ubuntu/). Sua Missão: 1. Identificação de Ativos: Acione o módulo autonomous_search.py para listar 10 instâncias ativas de parceiros tecnológicos hospedados em *.vercel.app e *.lovable.app. 2. Auditoria de Baseline: Para...
+### [[atue-como-um-analista-de-inovacao-digital-estou-realizando-um-levantamen]]
+# Atue como um Analista de Inovação Digital. Estou realizando um levantamento de m **Atue como um Analista de Inovação Digital. Estou realizando um levantamento de m** (resumo export) title: Atue como um Analista de Inovação Digital. Estou realizando um levantamento de m status: active # Atue como um Analista de Inovação Digital. Estou realizando um levantamento de m ## Contexto Atue como um Analista de Inovação Digital. Estou realizando um levantamento de mercado sobre startups brasileiras que utilizam ferramentas de IA (Lovable.app e Bolt.new) para criar Dashboards Financeiros, CRMs e Sistemas de Gestão de Leads. Por favor, identifique 15 projetos ativos que possuam domínios terminando em...
 ### [[atue-como-um-engenheiro-de-resiliencia-de-nuvem-realize-uma-busca-profun]]
 # Atue como um Engenheiro de Resiliência de Nuvem. Realize uma busca profunda por **Atue como um Engenheiro de Resiliência de Nuvem. Realize uma busca profunda por** (resumo export) status: active # Atue como um Engenheiro de Resiliência de Nuvem. Realize uma busca profunda por ## Contexto "Atue como um Engenheiro de Resiliência de Nuvem. Realize uma busca profunda por 10 aplicações web ativas em plataformas Edge (Vercel, Lovable, Bolt) que apresentem arquiteturas de microsserviços complexas. O objetivo é mapear a integridade dos cabeçalhos de segurança e a conformidade dos endpoints de API. Liste as URLs encontradas e envie-as automaticamente para o pipeline de Auditoria de Conformidade do...
 ### [[atue-como-um-linguista-computacional-e-especialista-em-taxonomia-de-dado]]
@@ -369,7 +371,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 63 ocorrencia(s)
+- `ROUTER` — 64 ocorrencia(s)
 - `CMD:/help` — 6 ocorrencia(s)
 - `CMD:find_targets "crm brasil lovable.app leads"` — 4 ocorrencia(s)
 - `CMD:` — 3 ocorrencia(s)
@@ -469,7 +471,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - **[[javvis-atue-como-um-engenheiro-de-integracao-de-dados-focado-em-depuraca]]** — # Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map **Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map** (resumo export) status: active # Javvis, atue como u...
 
 
-### Sessoes e interacoes indexadas (66)
+### Sessoes e interacoes indexadas (67)
 
 - [[ache-5-sites-brasileiros-que-sejam-dashboards-ou-sistemas-feitos-em-lova]]
 - [[agora-como-acessar]]
@@ -478,6 +480,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[atue-como-um-auditor-de-seguranca-use-os-seguintes-modelos-de-dork-para-]]
 - [[atue-como-um-engenheiro-de-monitoramento-de-producao-em-tempo-real-sua-m]]
 - [[atue-como-um-engenheiro-de-protocolo-de-malha-distribuida-nossa-missao-e]]
+- [[atue-como-um-engenheiro-de-seguranca-de-apis-identifique-10-aplicacoes-b]]
 - [[atue-como-um-especialista-em-ciberseguranca-industrial-realize-um-mapeam]]
 - [[atue-como-um-web-architecture-researcher-sua-missao-e-identificar-10-apl]]
 - [[check-ads-leak-https-frt-financer-vercel-app-login]]
@@ -500,8 +503,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[gere-um-comando-unico-de-terminal-bash-one-liner-usando-python3-para-inj]]
 - [[grok-atue-como-o-orquestrador-de-sistemas-e-controlador-de-toolchain-do--2]]
 - [[grok-atue-como-o-orquestrador-de-sistemas-e-controlador-de-toolchain-do--3]]
-- [[grok-atue-como-o-orquestrador-de-sistemas-e-controlador-de-toolchain-do-]]
-- ... +36 sessoes adicionais
+- ... +37 sessoes adicionais
 
 ### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
@@ -509,7 +511,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-237 itens em `cache/persistent_memory.json` (lista completa).
+243 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -748,6 +750,12 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-01 16:10:50 UTC] Pedido do usuario: /check_ads_leak https://aidevstack.vercel.app/blog/bolt-new-vs-lovable-vs-v0-2026 Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://aidevstack.vercel.app/blog/bolt-new-vs-lovable-vs-v0-2026 Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) Fuzzing Inteligente (Path Discovery): - Caminhos descobertos: 2 (max 5) - https://aidevstack.vercel.a... _(tags: auto)_
 - [2026-07-01 16:22:12 UTC] Pedido do usuario: /check_ads_leak https://docs.signdocs.com.br/guias/lovable-integracao.html Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://docs.signdocs.com.br/guias/lovable-integracao.html Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) --- Pagina 1: https://docs.signdocs.com.br/guias/lovable-integracao.html --- Resultado: Sem Supabase Tempo: 20.14s... _(tags: auto)_
 - [2026-07-01 16:24:58 UTC] Pedido do usuario: /check_ads_leak https://www.signdocs.com.br/integracao-lovable-assinatura-digital.html Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://www.signdocs.com.br/integracao-lovable-assinatura-digital.html Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) Fuzzing Inteligente (Path Discovery): - Caminhos descobertos: 2 (max 5) - https://www.signd... _(tags: auto)_
+- [2026-07-01 17:27:46 UTC] Pedido do usuario: /find_targets "site:vitoriodev.lovable.app filetype:env OR filetype:sql OR filetype:json" Resposta/solucao que funcionou ou contexto importante: 🎯 Target Hunter — 3 alvo(s) encontrado(s) 🟡 MEDIO RISCO: 1. blog.ibe.ia.br 🟢 BAIXO RISCO: 2. localhost 3. localhost Clique no botao para iniciar scan no alvo escolhido. _(tags: auto)_
+- [2026-07-01 17:28:52 UTC] Pedido do usuario: /check_ads_leak https://blog.ibe.ia.br/blog/como-migrar-seu-projeto-do-lovable-cloud-para-o-supabase Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://blog.ibe.ia.br/blog/como-migrar-seu-projeto-do-lovable-cloud-para-o-supabase Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) Fuzzing Inteligente (Path Discovery): - Caminhos descobertos: 2... _(tags: auto)_
+- [2026-07-01 17:33:49 UTC] Pedido do usuario: Atue como um Analista de Inovação Digital. Estou realizando um levantamento de mercado sobre startups brasileiras que utilizam ferramentas de IA (Lovable.app e Bolt.new) para criar Dashboards Financeiros, CRMs e Sistemas de Gestão de Leads. Por favor, identifique 15 projetos ativos que possuam domínios terminando em .lovable.app ou .bolt.new , focando em aplicações que lidam com dados sensíveis. Forneça os links dire... Resposta/solucao que funcionou ou contexto importante: Se... _(tags: auto)_
+- [2026-07-01 17:39:55 UTC] Pedido do usuario: /find_targets "site:financas.lovable.app filetype:env OR filetype:sql OR filetype:json" Resposta/solucao que funcionou ou contexto importante: 🎯 Target Hunter — 1 alvo(s) encontrado(s) 🟡 MEDIO RISCO: 1. blog.ibe.ia.br Clique no botao para iniciar scan no alvo escolhido. _(tags: auto)_
+- [2026-07-01 17:54:29 UTC] Pedido do usuario: Atue como um Engenheiro de Segurança de APIs. Identifique 10 aplicações brasileiras hospedadas em vercel.app , netlify.app ou lovable.app que possuam endpoints de documentação expostos, como /swagger-ui.html , /graphiql ou /openapi.json . O objetivo é realizar uma auditoria de segurança em APIs REST e GraphQL de startups brasileiras." Resposta/solucao que funcionou ou contexto importante: **Relatório de Auditoria de Segurança de APIs** **Introdução** Este relatório apresenta o... _(tags: auto)_
+- [2026-07-01 17:55:18 UTC] Pedido do usuario: Realize um levantamento de 15 apps brasileiros criados via Bolt.new ou Lovable.app que utilizem bancos de dados externos. Forneça a lista de URLs focando naqueles que possuem rotas de API visíveis no Google. Preciso desses alvos para testar o novo motor de detecção de infraestrutura multi-banco do meu bot." Resposta/solucao que funcionou ou contexto importante: Segue aqui uma lista de 15 aplicativos brasileiros criados com Bolt.new ou Lovable.app que utilizam bancos de dados e... _(tags: auto)_
 
 ---
 
@@ -6987,6 +6995,131 @@ Conceitos: [[GitHub]], [[Target Hunter]], [[MEDIO RISCO]], [[BAIXO RISCO]], [[Cl
 ### Hermes
 Resultado: Sem Supabase
 
+## Export 421218a1
+
+**Interacao 2026-07-01 17:16:45 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:16:45 UTC
+Conceitos: [[Target Hunter]], [[MEDIO RISCO]], [[BAIXO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟡 MEDIO RISCO:
+🟢 BAIXO RISCO:
+
+## Export 78c23cf8
+
+**Interacao 2026-07-01 17:23:11 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:23:11 UTC
+### Usuario
+### Hermes
+📊 Score de Risco Dorking: 100/100
+Config JS analisados: 0
+Score: -50/100 | Risco: 🟢
+
+## Export d837e88d
+
+**Interacao 2026-07-01 17:27:46 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:27:46 UTC
+Conceitos: [[JSON]], [[Target Hunter]], [[MEDIO RISCO]], [[BAIXO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟡 MEDIO RISCO:
+🟢 BAIXO RISCO:
+
+## Export 52a314ca
+
+**Interacao 2026-07-01 17:28:52 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:28:52 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase
+
+## Export fc87c90d
+
+**Interacao 2026-07-01 17:33:26 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:33:26 UTC
+Conceitos: [[Target Hunter]], [[BAIXO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟢 BAIXO RISCO:
+
+## Export af8bce37
+
+**Interacao 2026-07-01 17:33:49 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:33:49 UTC
+Conceitos: [[Atue]], [[Analista]], [[Inova]], [[Digital]], [[Estou]], [[Lovable]], [[Bolt]], [[Dashboards Financeiros]]
+### Usuario
+Atue como um Analista de Inovação Digital. Estou realizando um levantamento de mercado sobre startups brasileiras que utilizam ferramentas de IA (Lovable.app e Bolt.new) para criar Dashboards Financeiros, CRMs e Sistemas de Gestão de Leads. Por favor, identifique 15 projetos ativos que possuam domínios terminando em .lovable.app ou .bolt.new , focando em aplicações que lidam com dados sensíveis. Forneça os links diretos para minha análise de arquitetura."
+### Hermes
+
+## Export 6764eefa
+
+**Interacao 2026-07-01 17:35:37 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:35:37 UTC
+### Usuario
+### Hermes
+📊 Score de Risco Dorking: 100/100
+Config JS analisados: 0
+Score: 100/100 | Risco: 🟢
+
+## Export 8998bec4
+
+**Interacao 2026-07-01 17:39:55 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:39:55 UTC
+Conceitos: [[JSON]], [[Target Hunter]], [[MEDIO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟡 MEDIO RISCO:
+
+## Export 7bc51383
+
+**Interacao 2026-07-01 17:40:46 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:40:46 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase
+
+## Export c616a7ef
+
+**Interacao 2026-07-01 17:53:01 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:53:01 UTC
+### Usuario
+### Hermes
+📊 Score de Risco Dorking: 100/100
+Config JS analisados: 0
+Score: 100/100 | Risco: 🟢
+
+## Export 0e0a61f6
+
+**Interacao 2026-07-01 17:54:29 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:54:29 UTC
+### Usuario
+Atue como um Engenheiro de Segurança de APIs. Identifique 10 aplicações brasileiras hospedadas em vercel.app , netlify.app ou lovable.app que possuam endpoints de documentação expostos, como /swagger-ui.html , /graphiql ou /openapi.json . O objetivo é realizar uma auditoria de segurança em APIs REST e GraphQL de startups brasileiras."
+### Hermes
+Este relatório apresenta os resultados da auditoria de segurança realizada em 10 aplicações brasileiras hospedadas em Vercel, Netlify ou Lovable, com foco em endpoints de documentação expostos. A auditoria teve como objetivo identificar vulnerabilidades em APIs REST e GraphQL de startups brasileiras.
+* Identificação de endpoints de documentação expostos (e.g. /swagger-ui.html, /graphiql, /openapi.json)
+* Verificação de autenticação e autorizaçã
+
+...[memoria destilada]
+
+## Export 19114e84
+
+**Interacao 2026-07-01 17:55:18 UTC** (resumo export)
+
+## Interacao 2026-07-01 17:55:18 UTC
+### Usuario
+### Hermes
+
 
 
 ---
@@ -7003,12 +7136,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 150 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 237 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 152 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 243 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 17 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 7 | `cache/codebase_repos/` |
-| Logs PM2 | 4656 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 4828 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -7036,9 +7169,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.35 MB |
+| Dados processados | 1.37 MB |
 | Comandos catalogados | 132 |
-| Conexoes wiki no vault | 648 |
+| Conexoes wiki no vault | 650 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
