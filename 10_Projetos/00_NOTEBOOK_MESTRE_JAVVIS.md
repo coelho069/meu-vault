@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-01T22:20:24Z
-updated_at: 2026-07-01T22:20:24Z
+created_at: 2026-07-01T23:00:18Z
+updated_at: 2026-07-01T23:00:18Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-01 22:20 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-01 23:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (132 detectados)
+## 1. Manual de Comandos (134 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -171,8 +171,10 @@ Comandos disponiveis (varredura automatica do bot.py):
 📦 Outros:
 /add_key - Admin-only: /add_key <key> salva no /home/ubuntu/freellmapi/.env e reinicia o proxy freellmapi via pm2.
 /discover - Comando /discover — menu interativo de selecao de APIs e alvos.
+/dork
 /dump_table - Comando /dump_table — extrai dados de uma tabela Supabase vulneravel.
 /osint_audit
+/scan
 /scan_db_interfaces
 /vibe_scan - Comando /vibe_scan — audita falhas RLS em backends Supabase.
 
@@ -362,7 +364,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- Me explique como api registrada como principal
 - Oi
 - Oi
 - Me liste os comandos
@@ -372,12 +373,14 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - Oi
 - /reset
 - Oi
+- Oi
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 112 ocorrencia(s)
+- `ROUTER` — 113 ocorrencia(s)
+- `AKITA` — 12 ocorrencia(s)
+- `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
-- `CMD:Oi` — 9 ocorrencia(s)
 - `CMD:` — 4 ocorrencia(s)
 - `CMD:find_targets "crm brasil lovable.app leads"` — 4 ocorrencia(s)
 - `CMD:vibe_scan https://supabase.meubanco.com.br` — 3 ocorrencia(s)
@@ -399,11 +402,9 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - `CMD:python3 stealth_scanner.py https://demo.lovable.app` — 1 ocorrencia(s)
 - `CMD:Me liste então` — 1 ocorrencia(s)
 - `CMD:Me explique como api registrada como principal` — 1 ocorrencia(s)
-- `CMD:Me liste os comandos` — 1 ocorrencia(s)
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- Me explique como api registrada como principal
 - Oi
 - Oi
 - Me liste os comandos
@@ -418,6 +419,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - /help
 - /modelos
 - /modelos
+- Oi
 
 ---
 
@@ -521,13 +523,13 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[gere-um-comando-unico-de-terminal-bash-one-liner-que-use-sed-ou-python3-]]
 - ... +54 sessoes adicionais
 
-### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (No module named 'mcp')
+### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
 ---
 
 ## 11. Memoria Persistente do Bot
 
-277 itens em `cache/persistent_memory.json` (lista completa).
+278 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -806,6 +808,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-01 21:58:58 UTC] Pedido do usuario: so liste os comandos e a descrição Resposta/solucao que funcionou ou contexto importante: # Análise Técnica de Conformidade e Resiliência: JNDI e Citrix Gateway ## Comandos e Descrições para Validação de Resiliência ### JNDI (Java Naming and Directory Interface) #### 1. Teste de Lookup LDAP/RMI ```bash # Teste de conexão LDAP malicioso (simulação de ataque JNDI) ldapsearch -x -H ldap://<target_ip>:1389 -b "dc=example,dc=com" "(objectclass=*)" # Teste de RMI Registry nmap -sV -... _(tags: auto)_
 - [2026-07-01 22:04:25 UTC] Pedido do usuario: Gerenciamento Inteligente de APIs e Fallback Local 🛡️🔄Grok, preciso que você altere a lógica de chamadas de IA do bot para priorizar as APIs externas e usar o modelo local apenas como contingência.Instruções de Implementação:1.Prioridade de API: O bot deve SEMPRE tentar realizar a chamada usando a API externa configurada (ex: OpenRouter/Gemini ou NVIDIA/Minimax) como primeira opção.2.Detecção de Falta de Crédito: Imp... Resposta/solucao que funcionou ou contexto importante: #... _(tags: auto)_
 - [2026-07-01 22:14:23 UTC] Pedido do usuario: faça uma atualização que o bot so use o modelo local ser os créditos acaba Resposta/solucao que funcionou ou contexto importante: FAILOVER MECHANISM FOR NLP SERVICE RESILIENCE IN HYBRID AI ARCHITECTURES VERSION 1.0 | CLASSIFICATION: TECHNICAL OPERATIONAL 1. RESOURCE EXHAUSTION DETECTION PROTOCOLS - PRIMARY TRIGGER: REMOTE API RATE LIMIT THRESHOLD MONITORING QUERY (PROMETHEUS): `sum(rate(remote_nlp_api_quota_used[5m])) by (service) > 0.95` ACTION: INITIATE FAILOVER WHEN SUSTAIN... _(tags: auto)_
+- [2026-07-01 22:33:17 UTC] Pedido do usuario: /check_ads_leak https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) --- Pagina 1: https:/... _(tags: auto)_
 
 ---
 
@@ -7891,6 +7894,40 @@ ACTION: INITIATE FAILOVER WHEN ERROR RATE >8% FOR 90-SECOND WINDOW
 ⏱️ **[07:57]** - ⚙️ Alteração em arquivo de configuração de ambiente
 ⏱️ **[21:00]** - ☁️ Atualização de cache/config do Google Drive
 
+## Export ac6ae7c8
+
+**Interacao 2026-07-01 22:26:28 UTC** (resumo export)
+
+## Interacao 2026-07-01 22:26:28 UTC
+### Usuario
+### Hermes
+
+## Export 57926983
+
+**Interacao 2026-07-01 22:27:43 UTC** (resumo export)
+
+## Interacao 2026-07-01 22:27:43 UTC
+Conceitos: [[Target Hunter]], [[MEDIO RISCO]], [[BAIXO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟡 MEDIO RISCO:
+5. acervodigital.net
+🟢 BAIXO RISCO:
+
+## Export 0b5b2d13
+
+**Interacao 2026-07-01 22:33:17 UTC** (resumo export)
+
+## Interacao 2026-07-01 22:33:17 UTC
+### Usuario
+/check_ads_leak https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia
+### Hermes
+Alvo raiz: https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia
+Resultado: Sem Supabase
+Titulo: Lovable e Supabase: Como Criar e Publicar Aplicativos Completos Usando apenas IA - Acervo Digital
+Titulo: Arquivo para IA para WhatsApp e Chat - Acervo Digital
+Titulo: Acervo Digital — Recursos Gratuitos: Cursos, Ebooks, IAs e Ferramentas
+
 
 
 ---
@@ -7908,11 +7945,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 176 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 277 | `cache/persistent_memory.json` |
+| Memoria persistente | 278 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 17 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 7 | `cache/codebase_repos/` |
-| Logs PM2 | 6440 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 6518 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -7940,8 +7977,8 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.57 MB |
-| Comandos catalogados | 132 |
+| Dados processados | 1.58 MB |
+| Comandos catalogados | 134 |
 | Conexoes wiki no vault | 675 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
