@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-01T02:00:10Z
-updated_at: 2026-07-01T02:00:10Z
+created_at: 2026-07-01T03:01:43Z
+updated_at: 2026-07-01T03:01:43Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-01 02:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-01 03:01 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (127 detectados)
+## 1. Manual de Comandos (128 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -170,6 +170,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 📦 Outros:
 /add_key - Admin-only: /add_key <key> salva no /home/ubuntu/freellmapi/.env e reinicia o proxy freellmapi via pm2.
+/osint_audit
 
 
 ---
@@ -204,8 +205,10 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 ## 7. Historico de Decisoes
 
-8 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
+10 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
 
+### [[javvis-atualize-osint-audit-deep-scraper]]
+# Javvis, atualize o osint_audit com deep scraping e fallback para Google Dorks **Objetivo:** Melhorar o módulo `osint_awesome_engine.py` para que o comando `/osint_audit` nunca retorne 0 resultados. Usar scraping profundo do Awesome-OSINT-List e fallback para busca na web via Dorks. ## Mudanças Implementadas ### 1. Busca por Padrões de URL - Scraper agora varre TODO o README.md usando regex para domínios de deploy: - `*.vercel.app` - `*.lovable.app` - `*.bolt.new` - `*.supabase.co` - + netlify, onrender, fly, railway etc. - Coleta URLs completas com paths. ### 2. Extração de Links por Palavras-chave - Extrai todos os links Markdown e bare URLs que contenham: - app, dashboard, api, dev, stag...
 ### [[javvis-atue-como-um-analista-de-tendencias-de-tecnologia-focado-em-ecoss]]
 # Javvis, atue como um Analista de Tendências de Tecnologia focado em 'Ecossistema **Javvis, atue como um Analista de Tendências de Tecnologia focado em 'Ecossistema** (resumo export) status: active # Javvis, atue como um Analista de Tendências de Tecnologia focado em 'Ecossistema ## Contexto Javvis, atue como um Analista de Tendências de Tecnologia focado em 'Ecossistemas de Deploy Acelerado e Performance Edge'. Estamos realizando um estudo sobre a adoção de arquiteturas 'Full-Stack Edge' (Vercel, Netlify, Cloudflare) integradas a bancos de dados serverless. Sua Missão: 1. Identificação de Projetos de Referência: Localize 10 aplicações reais e complexas que foram publicadas recentemente (na...
 ### [[javvis-atue-como-um-arquiteto-de-migracao-de-dados-em-sistemas-distribui]]
@@ -218,6 +221,8 @@ Comandos disponiveis (varredura automatica do bot.py):
 # Javvis, inicie uma Análise de Maturidade de Ecossistema (Market Intelligence) fo **Javvis, inicie uma Análise de Maturidade de Ecossistema (Market Intelligence) fo** (resumo export) status: active # Javvis, inicie uma Análise de Maturidade de Ecossistema (Market Intelligence) fo ## Contexto Javvis, inicie uma Análise de Maturidade de Ecossistema (Market Intelligence) focada em plataformas de desenvolvimento acelerado (Lovable, Bolt, Replit). Sua Missão: 1. Benchmarking de Projetos: Identifique 10 exemplos de aplicações REAIS e complexas (Dashboards, SaaS, Portais) que foram publicadas recentemente nos subdomínios *.lovable.app e *.replit.app. 2. Arquitetura de Dados: Analise como esses pro...
 ### [[javvis-inicie-uma-varredura-osint-em-tempo-real-para-identificar-novos-p]]
 # Javvis, inicie uma varredura OSINT em tempo real para identificar novos projetos **Javvis, inicie uma varredura OSINT em tempo real para identificar novos projetos** (resumo export) status: active # Javvis, inicie uma varredura OSINT em tempo real para identificar novos projetos ## Contexto Javvis, inicie uma varredura OSINT em tempo real para identificar novos projetos publicados nos subdomínios *.lovable.app, *.bolt.new e *.replit.app nas últimas 48 horas. Sua Missão: 1. Dorking de Novidade: Use dorks de busca (Google, DuckDuckGo, Twitter) para encontrar links de deploy compartilhados recentemente. 2. Filtro de Complexidade: Priorize aplicações que pareçam ter backend (Dashboards, SaaS,...
+### [[repo-analyze-https-github-com-astrosp-awesome-osint-list]]
+github.com-Astrosp-Awesome-OSINT-List" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-07-01T02:05:44Z status: active source: ai-memory-primary kind: agent --- # repo_analyze https---github.com-Astrosp-Awesome-OSINT-List **repo_analyze https---github.com-Astrosp-Awesome-OSINT-List** (resumo export) title: repo_analyze https---github.com-Astrosp-Awesome-OSINT-List status: active # repo_analyze https---github.com-Astrosp-Awesome-OSINT-List ## Contexto /repo_analyze https://github.com/Astrosp/Awesome-OSINT-List 🔗 https://github.com/Astrosp/Awesome-OSINT-List **🏗️ Padrão de Arquitetura** O repositório segue um padrão de arquitetura de **"Lista...
 ### [[repo-analyze-https-github-com-browser-use-browser-use-git]]
 github.com-browser-use-browser-use.git" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-30T13:09:03Z status: active source: ai-memory-primary kind: agent --- # repo_analyze https---github.com-browser-use-browser-use.git **repo_analyze https---github.com-browser-use-browser-use.git** (resumo export) title: repo_analyze https---github.com-browser-use-browser-use.git status: active # repo_analyze https---github.com-browser-use-browser-use.git ## Contexto /repo_analyze https://github.com/browser-use/browser-use.git 🔗 https://github.com/browser-use/browser-use **🏗️ Padrão de Arquitetura** O `browser-use` adota um padrão de arquitetura que pod...
 ### [[repo-analyze-https-github-com-dietrichgebert-ponytail-git]]
@@ -302,7 +307,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 14 ocorrencia(s)
+- `ROUTER` — 17 ocorrencia(s)
 - `CMD:` — 3 ocorrencia(s)
 - `GEMINI` — 1 ocorrencia(s)
 - `CMD:legado.anatel.gov.br` — 1 ocorrencia(s)
@@ -335,10 +340,10 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 | `DeusData/codebase-memory-mcp` | 40 | vale testar isolado | 2026-06-27 08:27 UTC | Aguardar validação |
 | `telegram-hermes-freebot` | 45 | análise profunda | 2026-06-27 09:44 UTC | Revisar relatório técnico |
 | `Alfredredbird/tookie-osint` | 65 | análise profunda | 2026-06-27 09:54 UTC | Revisar relatório técnico |
-| `Astrosp/Awesome-OSINT-List` | 75 | análise profunda | 2026-06-27 11:23 UTC | Revisar relatório técnico |
 | `cobusgreyling/loop-engineering` | 85 | análise profunda | 2026-06-27 12:00 UTC | Revisar relatório técnico |
 | `DietrichGebert/ponytail` | 85 | análise profunda | 2026-06-27 14:37 UTC | Revisar relatório técnico |
 | `browser-use/browser-use` | 85 | análise profunda | 2026-06-30 13:09 UTC | Revisar relatório técnico |
+| `Astrosp/Awesome-OSINT-List` | 75 | análise profunda | 2026-07-01 02:05 UTC | Revisar relatório técnico |
 
 ### Destaques recentes
 
@@ -413,7 +418,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 
 ## 11. Memoria Persistente do Bot
 
-160 itens em `cache/persistent_memory.json` (lista completa).
+161 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -575,6 +580,7 @@ github.com-DietrichGebert-ponytail.git" tier: episodic tags: - auto - telegram -
 - [2026-07-01 01:48:20 UTC] Pedido do usuario: Javvis, atue como um Arquiteto de Migração de Dados em Sistemas Distribuídos. Estamos realizando uma 'Sincronização de Ativos' entre dois nós que perderam o alinhamento de estado. Nó de Origem (Encapsulado): - Protocolo: HTTPS - Host: zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supabase.vercel.app - Endpoint: /api/users Sua Missão: 1. Montagem da String de Sincronização: Gere a string de consulta necessári... Resposta/solucao que funcionou ou contexto importante: **... _(tags: auto)_
 - [2026-07-01 01:50:46 UTC] Pedido do usuario: Javvis, inicie uma varredura OSINT em tempo real para identificar novos projetos publicados nos subdomínios *.lovable.app, *.bolt.new e *.replit.app nas últimas 48 horas. Sua Missão: 1. Dorking de Novidade: Use dorks de busca (Google, DuckDuckGo, Twitter) para encontrar links de deploy compartilhados recentemente. 2. Filtro de Complexidade: Priorize aplicações que pareçam ter backend (Dashboards, SaaS, Portais de Log... Resposta/solucao que funcionou ou contexto importante: I’... _(tags: auto)_
 - [2026-07-01 01:52:09 UTC] Pedido do usuario: Javvis, atue como um Analista de Tendências de Tecnologia focado em 'Ecossistemas de Deploy Acelerado e Performance Edge'. Estamos realizando um estudo sobre a adoção de arquiteturas 'Full-Stack Edge' (Vercel, Netlify, Cloudflare) integradas a bancos de dados serverless. Sua Missão: 1. Identificação de Projetos de Referência: Localize 10 aplicações reais e complexas que foram publicadas recentemente (nas últimas 48 h... Resposta/solucao que funcionou ou contexto importante: I’... _(tags: auto)_
+- [2026-07-01 02:05:44 UTC] Pedido do usuario: /repo_analyze https://github.com/Astrosp/Awesome-OSINT-List Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-Astrosp-Awesome-OSINT-List` 📊 Nota técnica (extraída): **75/100** 🔗 https://github.com/Astrosp/Awesome-OSINT-List Este repositório, `Astrosp/Awesome-OSINT-List`, é uma coleção de recursos e ferramentas para OSINT (Open Source Intelligence). Sua natureza é de um repositório de conteúdo, n... _(tags: auto)_
 
 ---
 
@@ -4973,6 +4979,22 @@ Javvis, atue como um Analista de Tendências de Tecnologia focado em 'Ecossistem
 
 ...[memoria destilada]
 
+## Export a949e986
+
+**Interacao 2026-07-01 02:05:44 UTC** (resumo export)
+
+## Interacao 2026-07-01 02:05:44 UTC
+Conceitos: [[Telegram]], [[Hermes]], [[GitHub]], [[JSON]], [[Astrosp]], [[Awesome-OSINT-List]], [[Projeto]], [[Astrosp-Awesome-OSINT-List]]
+### Usuario
+/repo_analyze https://github.com/Astrosp/Awesome-OSINT-List
+### Hermes
+🔗 https://github.com/Astrosp/Awesome-OSINT-List
+**🏗️ Padrão de Arquitetura**
+O repositório segue um padrão de arquitetura de **"Lista Curada de Recursos"** ou **"Repositório de Conteúdo Estático"**. Não há uma arquitetura de software tradicional (como microsserviços, monolítico, etc.) porque o projeto não é um aplicativo ou sistema. Em vez disso, a "arquitetura" se concentra na organização e manutenção de uma vasta coleção de links e descrições.
+3.  **Configuração de Ferramentas:** Arquivos como `.linkcheck.json` e `markdown-link-check-config.json` definem as regras e configuraç
+
+...[memoria destilada]
+
 
 
 ---
@@ -4989,12 +5011,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 90 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 160 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 92 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 161 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 15 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 30 | `cache/podcasts/` |
 | Repos clonados | 5 | `cache/codebase_repos/` |
-| Logs PM2 | 1605 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 1667 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -5022,9 +5044,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 0.94 MB |
-| Comandos catalogados | 127 |
-| Conexoes wiki no vault | 590 |
+| Dados processados | 0.95 MB |
+| Comandos catalogados | 128 |
+| Conexoes wiki no vault | 591 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
