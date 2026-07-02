@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-02T02:00:09Z
-updated_at: 2026-07-02T02:00:09Z
+created_at: 2026-07-02T03:00:07Z
+updated_at: 2026-07-02T03:00:07Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-02 02:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-02 03:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -369,7 +369,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
 - Oi
-- Oi
 - Me liste os comandos
 - Grok, altere a configuração padrão do bot para usar a API [/api_test freemode] como o motor principal. Certifique-se de que a
 - Oi
@@ -378,10 +377,11 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - /reset
 - Oi
 - Oi
+- Oi
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 114 ocorrencia(s)
+- `ROUTER` — 116 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -410,7 +410,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 ### 8.4 Ultimos comandos Telegram registrados
 
 - Oi
-- Oi
 - Me liste os comandos
 - Grok, altere a configuração padrão do bot para usar a API [/api_test freemode] como o motor principal. Certifique-se de que a
 - Oi
@@ -424,6 +423,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - /modelos
 - /modelos
 - Oi
+- /start
 
 ---
 
@@ -8104,7 +8104,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 18 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 8 | `cache/codebase_repos/` |
-| Logs PM2 | 7130 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7674 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8132,7 +8132,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.70 MB |
+| Dados processados | 1.74 MB |
 | Comandos catalogados | 135 |
 | Conexoes wiki no vault | 678 |
 | Trigger | `cron-export` |
