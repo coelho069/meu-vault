@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-02T01:00:14Z
-updated_at: 2026-07-02T01:00:14Z
+created_at: 2026-07-02T02:00:09Z
+updated_at: 2026-07-02T02:00:09Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-02 01:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-02 02:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (134 detectados)
+## 1. Manual de Comandos (135 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -173,6 +173,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 /discover - Comando /discover — menu interativo de selecao de APIs e alvos.
 /dork <dominio> - Gera dorks clicáveis para Google + Shodan
 /dump_table - Comando /dump_table — extrai dados de uma tabela Supabase vulneravel.
+/julgar - Handler para /julgar <link_do_instagram>
 /osint_audit
 /scan <url> - Advanced Vuln Scanner (headers, paths sensíveis, banners)
 /scan_db_interfaces
@@ -380,7 +381,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 113 ocorrencia(s)
+- `ROUTER` — 114 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -8103,7 +8104,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 18 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 8 | `cache/codebase_repos/` |
-| Logs PM2 | 6712 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 7130 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8131,8 +8132,8 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.67 MB |
-| Comandos catalogados | 134 |
+| Dados processados | 1.70 MB |
+| Comandos catalogados | 135 |
 | Conexoes wiki no vault | 678 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
