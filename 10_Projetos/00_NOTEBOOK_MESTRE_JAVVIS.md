@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-01T23:00:18Z
-updated_at: 2026-07-01T23:00:18Z
+created_at: 2026-07-02T00:00:58Z
+updated_at: 2026-07-02T00:00:58Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-01 23:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-02 00:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -171,10 +171,10 @@ Comandos disponiveis (varredura automatica do bot.py):
 📦 Outros:
 /add_key - Admin-only: /add_key <key> salva no /home/ubuntu/freellmapi/.env e reinicia o proxy freellmapi via pm2.
 /discover - Comando /discover — menu interativo de selecao de APIs e alvos.
-/dork
+/dork <dominio> - Gera dorks clicáveis para Google + Shodan
 /dump_table - Comando /dump_table — extrai dados de uma tabela Supabase vulneravel.
 /osint_audit
-/scan
+/scan <url> - Advanced Vuln Scanner (headers, paths sensíveis, banners)
 /scan_db_interfaces
 /vibe_scan - Comando /vibe_scan — audita falhas RLS em backends Supabase.
 
@@ -283,6 +283,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[atue-como-um-especialista-em-inteligencia-de-infraestrutura-sua-missao-e]] — # Atue como um Especialista em Inteligência de Infraestrutura. Sua missão é reali **Atue como um Especialista em Inteligência de Infraestrutura. Sua missão é reali** (resumo export...
 - [[atue-como-um-especialista-em-recuperacao-de-desastres-de-ti-o-site-https]] — ganh" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-07-01T14:45:24Z status: active source: ai-memory-primary kind: agent --- #...
 - [[check-ads-leak-https-clinica-saas-demo-vercel-app]] — clinica-saas-demo.vercel.app" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T16:04:42Z status: active source: ai-memory-p...
+- [[check-ads-leak-https-gocache-com-br-seguranca-vazamento-na-lovable-expos]] — gocache.com.br-seguranca-vazamento-na-lovable-expos-milh" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-07-01T23:31:37Z status...
 - [[check-ads-leak-https-portfolio-dg-rosy-vercel-app]] — portfolio-dg-rosy.vercel.app" tier: episodic tags: - auto - telegram - memoria-agente - hermes - telegram-hermes created_at: 2026-06-27T16:49:26Z status: active source: ai-memory-p...
 - [[erro-ao-executar-script-sh-sh-1-syntax-error-bad-fd-number-sh-i-dev-tcp]] — # erro ao executar -script.sh sh- 1- Syntax error- Bad fd number sh -i -& -dev-tcp **erro ao executar -script.sh sh- 1- Syntax error- Bad fd number sh -i -& -dev-tcp** (resumo expo...
 - [[excelente-agora-faca-o-seguinte-1-gere-o-payload-set-otimizado-para-cada-2]] — # Excelente! Agora faça o seguinte- 1. Gere o 'Payload Set' otimizado para cada um **Excelente! Agora faça o seguinte- 1. Gere o 'Payload Set' otimizado para cada um** (resumo expo...
@@ -378,7 +379,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 ### 8.3 Eventos frequentes nos logs
 
 - `ROUTER` — 113 ocorrencia(s)
-- `AKITA` — 12 ocorrencia(s)
+- `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
 - `CMD:` — 4 ocorrencia(s)
@@ -529,7 +530,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-278 itens em `cache/persistent_memory.json` (lista completa).
+280 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -809,6 +810,8 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-01 22:04:25 UTC] Pedido do usuario: Gerenciamento Inteligente de APIs e Fallback Local 🛡️🔄Grok, preciso que você altere a lógica de chamadas de IA do bot para priorizar as APIs externas e usar o modelo local apenas como contingência.Instruções de Implementação:1.Prioridade de API: O bot deve SEMPRE tentar realizar a chamada usando a API externa configurada (ex: OpenRouter/Gemini ou NVIDIA/Minimax) como primeira opção.2.Detecção de Falta de Crédito: Imp... Resposta/solucao que funcionou ou contexto importante: #... _(tags: auto)_
 - [2026-07-01 22:14:23 UTC] Pedido do usuario: faça uma atualização que o bot so use o modelo local ser os créditos acaba Resposta/solucao que funcionou ou contexto importante: FAILOVER MECHANISM FOR NLP SERVICE RESILIENCE IN HYBRID AI ARCHITECTURES VERSION 1.0 | CLASSIFICATION: TECHNICAL OPERATIONAL 1. RESOURCE EXHAUSTION DETECTION PROTOCOLS - PRIMARY TRIGGER: REMOTE API RATE LIMIT THRESHOLD MONITORING QUERY (PROMETHEUS): `sum(rate(remote_nlp_api_quota_used[5m])) by (service) > 0.95` ACTION: INITIATE FAILOVER WHEN SUSTAIN... _(tags: auto)_
 - [2026-07-01 22:33:17 UTC] Pedido do usuario: /check_ads_leak https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://acervodigital.net/lovable-e-supabase-como-criar-e-publicar-aplicativos-completos-usando-apenas-ia Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) --- Pagina 1: https:/... _(tags: auto)_
+- [2026-07-01 23:31:37 UTC] Pedido do usuario: /check_ads_leak https://gocache.com.br/seguranca/vazamento-na-lovable-expos-milhares-de-projetos-por-48-dias-sem-solucao Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://gocache.com.br/seguranca/vazamento-na-lovable-expos-milhares-de-projetos-por-48-dias-sem-solucao Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) --- Pagina 1: https://g... _(tags: auto)_
+- [2026-07-01 23:37:56 UTC] Pedido do usuario: /check_ads_leak https://hakaisecurity.io/chupabase-extraindo-dados-de-aplicacoes-lovable-mal-configuradas/research-blog Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://hakaisecurity.io/chupabase-extraindo-dados-de-aplicacoes-lovable-mal-configuradas/research-blog Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) --- Pagina 1: https://hak... _(tags: auto)_
 
 ---
 
@@ -7928,6 +7931,126 @@ Titulo: Lovable e Supabase: Como Criar e Publicar Aplicativos Completos Usando a
 Titulo: Arquivo para IA para WhatsApp e Chat - Acervo Digital
 Titulo: Acervo Digital — Recursos Gratuitos: Cursos, Ebooks, IAs e Ferramentas
 
+## Export 02ed2ee5
+
+**Interacao 2026-07-01 23:09:08 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:09:08 UTC
+Conceitos: [[Advanced Vuln Scanner Report]], [[Timestamp]], [[2026]], [[01 23]], [[59 Status]], [[200 OK Final URL]], [[Redirects]], [[SERVER BANNER]]
+### Usuario
+/scan https://acervodigital.net
+### Hermes
+=== Advanced Vuln Scanner Report for https://acervodigital.net ===
+Status: 200 OK
+Final URL: https://acervodigital.net/
+- https://acervodigital.net/.env (403)
+- https://acervodigital.net/config/.env (403)
+- https://acervodigital.net/.git/config (403)
+⚠️ EXPOSED: https://acervodigital.net/robots.txt (200 OK, 121 bytes)
+⚠️ EXPOSED: https://acervodigital.net/sitemap.xml (200 OK, 532 bytes)
+⚠️ EXPOSED: https://acervodigital.net/admin (200 OK, 9780 bytes)
+
+## Export f09f0d20
+
+**Interacao 2026-07-01 23:13:06 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:13:06 UTC
+### Usuario
+/check_ads_leak https://acervodigital.net
+### Hermes
+Alvo raiz: https://acervodigital.net/
+Resultado: Sem Supabase
+Titulo: Acervo Digital — Recursos Gratuitos: Cursos, Ebooks, IAs e Ferramentas
+Titulo: Arquivo para IA para WhatsApp e Chat - Acervo Digital
+Titulo: Assistir Online Grátis - Acervo Digital
+
+## Export fce4387d
+
+**Interacao 2026-07-01 23:14:40 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:14:40 UTC
+### Usuario
+/dork acervodigital.net
+### Hermes
+=== Dork Links for acervodigital.net ===
+## Google Dorks
+- Site search: https://www.google.com/search?q=site%3Aacervodigital.net
+Query: site:acervodigital.net
+- Exposed env/config: https://www.google.com/search?q=site%3Aacervodigital.net%20%28filetype%3Aenv%20OR%20filetype%3Aini%20OR%20filetype%3Aconf%20OR%20filetype%3Aconfig%29
+Query: site:acervodigital.net (filetype:env OR filetype:ini OR filetype:conf OR filetype:config)
+- Admin panels: https://www.google.com/search?q=site%3Aacervodigital.net%20inurl%3A%28admin%20OR%20login%20OR%20dashboard%20OR%20painel%29
+Query: site:acervodigital.net inurl:(admin OR login OR dashboard OR painel)
+- Open directories: https://www.google.com/search?q=site%3Aacervodigital.net%20intitle%3Aindex.of
+Query: site:acervodi
+
+...[memoria destilada]
+
+## Export fde0e509
+
+**Interacao 2026-07-01 23:25:29 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:25:29 UTC
+Conceitos: [[Target Hunter]], [[BAIXO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟢 BAIXO RISCO:
+
+## Export c453ddf6
+
+**Interacao 2026-07-01 23:31:37 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:31:37 UTC
+### Usuario
+/check_ads_leak https://gocache.com.br/seguranca/vazamento-na-lovable-expos-milhares-de-projetos-por-48-dias-sem-solucao
+### Hermes
+Alvo raiz: https://gocache.com.br/seguranca/vazamento-na-lovable-expos-milhares-de-projetos-por-48-dias-sem-solucao
+Resultado: Sem Supabase
+Titulo: Vazamento na Lovable expôs milhares de projetos por 48 dias — sem solução
+Resultado: Se
+
+## Export 19564e25
+
+**Interacao 2026-07-01 23:37:56 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:37:56 UTC
+### Usuario
+/check_ads_leak https://hakaisecurity.io/chupabase-extraindo-dados-de-aplicacoes-lovable-mal-configuradas/research-blog
+### Hermes
+Alvo raiz: https://hakaisecurity.io/chupabase-extraindo-dados-de-aplicacoes-lovable-mal-configuradas/research-blog
+Resultado: Sem Supabase
+Titulo: Chupabase: Extraindo dados de aplicações Lovable ​​mal configuradas - Hakai
+
+## Export 65f08bd3
+
+**Interacao 2026-07-01 23:45:20 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:45:20 UTC
+Conceitos: [[Target Hunter]], [[BAIXO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟢 BAIXO RISCO:
+
+## Export 3411523b
+
+**Interacao 2026-07-01 23:54:42 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:54:42 UTC
+Conceitos: [[Target Hunter]], [[BAIXO RISCO]], [[Clique]]
+### Usuario
+### Hermes
+🟢 BAIXO RISCO:
+
+## Export d57c8820
+
+**Interacao 2026-07-01 23:59:17 UTC** (resumo export)
+
+## Interacao 2026-07-01 23:59:17 UTC
+### Usuario
+### Hermes
+Resultado: Supabase detectado (indeterminado)
+Status RLS: Indeterminado
+Resultado: Sem Supabase
+
 
 
 ---
@@ -7944,16 +8067,17 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 176 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 278 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 177 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 280 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 17 | `memory/repo_analyze_history.json` |
-| Podcasts gerados | 30 | `cache/podcasts/` |
+| Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 7 | `cache/codebase_repos/` |
-| Logs PM2 | 6518 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 6701 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
 
+- `podcast_akita_llm_benchmark_sonnet_5_falha_gemini_fl_1782946826.mp3.edge.part_2.mp3` (0 KB)
 - `podcast_akita_por_que_llms_vão_falhar_na_sua_empresa_1782553246.mp3` (1823 KB)
 - `podcast_chatgpt_1782543562.mp3` (1370 KB)
 - `podcast_chatgpt_1782543567.mp3` (1361 KB)
@@ -7968,8 +8092,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 - `podcast_diario_tom_doerr.mp3` (1056 KB)
 - `podcast_openai_1782543190.mp3` (1768 KB)
 - `podcast_openai_1782543237.mp3` (1769 KB)
-- `podcast_openai_1782543330.mp3` (307 KB)
-- ... +15 arquivos
+- ... +16 arquivos
 
 ---
 
@@ -7977,9 +8100,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.58 MB |
+| Dados processados | 1.61 MB |
 | Comandos catalogados | 134 |
-| Conexoes wiki no vault | 675 |
+| Conexoes wiki no vault | 676 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
