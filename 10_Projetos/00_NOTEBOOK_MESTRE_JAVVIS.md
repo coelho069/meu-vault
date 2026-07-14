@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-14T12:03:11Z
-updated_at: 2026-07-14T12:03:11Z
+created_at: 2026-07-14T13:00:10Z
+updated_at: 2026-07-14T13:00:10Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-14 12:03 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-14 13:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (136 detectados)
+## 1. Manual de Comandos (144 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -170,14 +170,22 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 📦 Outros:
 /add_key - Admin-only: /add_key <key> salva no /home/ubuntu/freellmapi/.env e reinicia o proxy freellmapi via pm2.
+/baixar_cortes - Envia pelo Telegram os .mp4 já salvos em Cortes_Salvos/[nome_da_pasta_do_video]/.
+/conectar_drive
 /cortar_video
 /discover - Comando /discover — menu interativo de selecao de APIs e alvos.
 /dork <dominio> - Gera dorks clicáveis para Google + Shodan
+/drive_auth
+/drive_link
+/drive_login
+/drive_login_link
+/drive_status
 /dump_table - Comando /dump_table — extrai dados de uma tabela Supabase vulneravel.
 /julgar - Handler para /julgar <link_do_instagram>
 /osint_audit
 /scan <url> - Advanced Vuln Scanner (headers, paths sensíveis, banners)
 /scan_db_interfaces
+/status_drive
 /vibe_scan - Comando /vibe_scan — audita falhas RLS em backends Supabase.
 
 
@@ -371,7 +379,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- Grok, altere a configuração padrão do bot para usar a API [/api_test freemode] como o motor principal. Certifique-se de que a
 - Oi
 - /reset
 - Oi
@@ -381,10 +388,11 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - Oi
 - /help
 - /modelos
+- /modelos
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 123 ocorrencia(s)
+- `ROUTER` — 128 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -412,7 +420,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- Grok, altere a configuração padrão do bot para usar a API [/api_test freemode] como o motor principal. Certifique-se de que a
 - Oi
 - /reset
 - Oi
@@ -427,6 +434,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - /start
 - 
 - Parte 74/157
+- 51730 (1)
 
 ---
 
@@ -8139,7 +8147,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 8935 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 9773 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8167,8 +8175,8 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.83 MB |
-| Comandos catalogados | 136 |
+| Dados processados | 1.90 MB |
+| Comandos catalogados | 144 |
 | Conexoes wiki no vault | 680 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
