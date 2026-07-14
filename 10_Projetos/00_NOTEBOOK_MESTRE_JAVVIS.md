@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-14T13:00:10Z
-updated_at: 2026-07-14T13:00:10Z
+created_at: 2026-07-14T15:00:10Z
+updated_at: 2026-07-14T15:00:10Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-14 13:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-14 15:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -171,13 +171,13 @@ Comandos disponiveis (varredura automatica do bot.py):
 📦 Outros:
 /add_key - Admin-only: /add_key <key> salva no /home/ubuntu/freellmapi/.env e reinicia o proxy freellmapi via pm2.
 /baixar_cortes - Envia pelo Telegram os .mp4 já salvos em Cortes_Salvos/[nome_da_pasta_do_video]/.
-/conectar_drive
+/conectar_drive - Conecta Google Drive via OAuth WEB (link publico no celular).
 /cortar_video
 /discover - Comando /discover — menu interativo de selecao de APIs e alvos.
 /dork <dominio> - Gera dorks clicáveis para Google + Shodan
-/drive_auth
+/drive_auth - Conecta Google Drive via OAuth WEB (link publico no celular).
 /drive_link
-/drive_login
+/drive_login - Conecta Google Drive via OAuth WEB (link publico no celular).
 /drive_login_link
 /drive_status
 /dump_table - Comando /dump_table — extrai dados de uma tabela Supabase vulneravel.
@@ -382,17 +382,17 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - Oi
 - /reset
 - Oi
-- /reset
-- Oi
 - Oi
 - Oi
 - /help
 - /modelos
 - /modelos
+- Oi
+- /start
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 128 ocorrencia(s)
+- `ROUTER` — 137 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -405,6 +405,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - `CMD:Me explique os comandos do Twitter` — 2 ocorrencia(s)
 - `CMD:/reset` — 2 ocorrencia(s)
 - `CMD:/modelos` — 2 ocorrencia(s)
+- `CMD:Carlinhos Maia vs 30 hates` — 2 ocorrencia(s)
 - `GEMINI` — 1 ocorrencia(s)
 - `CMD:legado.anatel.gov.br` — 1 ocorrencia(s)
 - `CMD:In case the user asks about xAI's products, here is some information and respons` — 1 ocorrencia(s)
@@ -416,12 +417,9 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - `CMD:Grok, integre o stealth_scanner.py ao comando /grok. Sempre que um alvo for anal` — 1 ocorrencia(s)
 - `CMD:python3 stealth_scanner.py https://demo.lovable.app` — 1 ocorrencia(s)
 - `CMD:Me liste então` — 1 ocorrencia(s)
-- `CMD:Me explique como api registrada como principal` — 1 ocorrencia(s)
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- Oi
-- /reset
 - Oi
 - /reset
 - Oi
@@ -435,6 +433,8 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - 
 - Parte 74/157
 - 51730 (1)
+- Carlinhos Maia vs 30 hates
+- Carlinhos Maia vs 30 hates
 
 ---
 
@@ -8147,7 +8147,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 9773 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 11238 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8175,7 +8175,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 1.90 MB |
+| Dados processados | 2.04 MB |
 | Comandos catalogados | 144 |
 | Conexoes wiki no vault | 680 |
 | Trigger | `cron-export` |
