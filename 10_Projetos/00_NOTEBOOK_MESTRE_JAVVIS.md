@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-15T22:00:14Z
-updated_at: 2026-07-15T22:00:14Z
+created_at: 2026-07-15T23:00:13Z
+updated_at: 2026-07-15T23:00:13Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-15 22:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-15 23:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -397,7 +397,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 156 ocorrencia(s)
+- `ROUTER` — 157 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -557,7 +557,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-297 itens em `cache/persistent_memory.json` (lista completa).
+298 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -856,6 +856,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-15 18:17:31 UTC] Pedido do usuario: perfis das empresas de ia por exemplo Resposta/solucao que funcionou ou contexto importante: **Perfis resumidos de algumas das principais empresas de IA (até 2024)** | Empresa | Ano de fundação | Sede | Área de foco principal | Produtos/Serviços emblemáticos | Diferencial competitivo | |--------|----------------|------|------------------------|--------------------------------|--------------------------| | **OpenAI** | 2015 (originalmente sem fins lucrativos) | San Francisco, E... _(tags: auto)_
 - [2026-07-15 18:24:19 UTC] Pedido do usuario: perfis sobre ia Resposta/solucao que funcionou ou contexto importante: ## Perfis de IA – Visão geral rápida | Perfil | O que faz | Principais técnicas | Exemplos de uso | |--------|----------|---------------------|-----------------| | **IA Generativa** | Cria conteúdo novo (texto, imagem, áudio, código). | Modelos de linguagem grande (LLMs), Diffusion, GANs. | ChatGPT, DALL‑E, Copilot. | | **Visão Computacional** | Interpreta imagens e vídeos. | CNNs, Vision Transformers, YOLO... _(tags: auto)_
 - [2026-07-15 19:09:35 UTC] Pedido do usuario: faça uma liste somente das url 1. Elon Musk @elonmusk https://x.com/elonmusk CEO da Tesla, SpaceX e xAI. Posta sobre avanços em IA (xAI/Grok), veículos autônomos, Neuralink, riscos existenciais da IA e inovações tecnológicas amplas, com opiniões diretas e frequentes. 2. Sam Altman @sama https://x.com/sama CEO da OpenAI. Compartilha atualizações sobre GPT, ChatGPT, AGI, segurança de IA, startups e o futuro da inteligê... Resposta/solucao que funcionou ou contexto importante: 📡... _(tags: auto)_
+- [2026-07-15 22:19:26 UTC] Pedido do usuario: /find_targets Objetivo: Encontrar sites recém-lançados ou recentemente atualizados que provavelmente utilizam Supabase. Critérios de busca: - Vercel - Next.js - Supabase - Lovable - Bolt.new - Replit - Cursor - AI app - SaaS - Startup - Hackathon - Product Hunt - GitHub Pages - Cloudflare Pages Priorizar: - Domínios criados ou divulgados nos últimos 30 dias. - Projetos com login/autenticação. - Landing pages de SaaS.... Resposta/solucao que funcionou ou contexto importante: 🎯... _(tags: auto)_
 
 ---
 
@@ -8654,6 +8655,54 @@ Conceitos: [[Advanced Vuln Scanner Report]], [[Timestamp]], [[2026]], [[15 21]],
 ### Hermes
 Status: 200 OK
 
+## Export b5b893af
+
+**Interacao 2026-07-15 22:05:40 UTC** (resumo export)
+
+## Interacao 2026-07-15 22:05:40 UTC
+Conceitos: [[Advanced Vuln Scanner Report]], [[Timestamp]], [[2026]], [[15 22]], [[37 Status]], [[200 OK Final URL]], [[Redirects]], [[SERVER BANNER]]
+### Usuario
+### Hermes
+Status: 200 OK
+
+## Export b541f3b8
+
+**Interacao 2026-07-15 22:19:26 UTC** (resumo export)
+
+## Interacao 2026-07-15 22:19:26 UTC
+Conceitos: [[GitHub]], [[Objetivo]], [[Encontrar]], [[Supabase]], [[Crit]], [[Vercel]], [[Next]], [[Lovable]]
+### Usuario
+Objetivo:
+- GitHub Pages
+- GitHub (Trending e Recent)
+Para cada resultado retornar:
+### Hermes
+🟡 MEDIO RISCO:
+🟢 BAIXO RISCO:
+2. github.com
+3. github.com
+4. github.com
+5. github.com
+
+## Export 74ec9b9b
+
+**Interacao 2026-07-15 22:38:42 UTC** (resumo export)
+
+## Interacao 2026-07-15 22:38:42 UTC
+Conceitos: [[GitHub]], [[Objetivo]], [[Encontrar]], [[Supabase]], [[Crit]], [[Vercel]], [[Next]], [[Lovable]]
+### Usuario
+Objetivo:
+- GitHub Pages
+- GitHub (Trending e Recent)
+Para cada resultado retornar:
+### Hermes
+🟡 MEDIO RISCO:
+🟢 BAIXO RISCO:
+2. github.com
+3. github.com
+4. github.com
+5. github.com
+
 
 
 ---
@@ -8671,11 +8720,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 195 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 297 | `cache/persistent_memory.json` |
+| Memoria persistente | 298 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 15404 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 15579 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8703,7 +8752,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 2.39 MB |
+| Dados processados | 2.40 MB |
 | Comandos catalogados | 146 |
 | Conexoes wiki no vault | 693 |
 | Trigger | `cron-export` |
