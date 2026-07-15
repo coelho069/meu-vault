@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-15T13:00:11Z
-updated_at: 2026-07-15T13:00:11Z
+created_at: 2026-07-15T14:00:16Z
+updated_at: 2026-07-15T14:00:16Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-15 13:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-15 14:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -552,7 +552,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-282 itens em `cache/persistent_memory.json` (lista completa).
+283 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -836,10 +836,11 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-01 23:37:56 UTC] Pedido do usuario: /check_ads_leak https://hakaisecurity.io/chupabase-extraindo-dados-de-aplicacoes-lovable-mal-configuradas/research-blog Resposta/solucao que funcionou ou contexto importante: Relatorio Recursive Deep Scan — Supabase Alvo raiz: https://hakaisecurity.io/chupabase-extraindo-dados-de-aplicacoes-lovable-mal-configuradas/research-blog Paginas escaneadas: 4 (home + ate 3 internas) Modo: Fuzzing Inteligente + Network Sniffing + Exploit Check (timeout 60000ms) --- Pagina 1: https://hak... _(tags: auto)_
 - [2026-07-02 00:06:24 UTC] Pedido do usuario: /repo_analyze https://github.com/projectdiscovery/nuclei Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-projectdiscovery-nuclei` 📊 Nota técnica (extraída): **92/100** 🔗 https://github.com/projectdiscovery/nuclei ## 📊 Nota Técnica: 92/100 O Nuclei é um projeto maduro, bem estruturado e com uma comunidade ativa, o que se reflete na sua alta qualidade técnica. A escolha de Go para a linguagem pr... _(tags: auto)_
 - [2026-07-02 03:21:50 UTC] Pedido do usuario: /repo_analyze https://github.com/D3Ext/WEF Resposta/solucao que funcionou ou contexto importante: 🔬 Projeto indexado: `home-ubuntu-telegram-hermes-freebot-cache-codebase_repos-D3Ext-WEF` 📊 Nota técnica (extraída): **68/100** 🔗 https://github.com/D3Ext/WEF Com certeza! Vamos analisar o repositório D3Ext/WEF. --- ## Análise Técnica do Repositório D3Ext/WEF ### 📊 Nota Técnica: 68/100 O WEF é uma ferramenta funcional e abrangente para exploração de Wi-Fi, com uma boa variedade de... _(tags: auto)_
+- [2026-07-15 13:58:12 UTC] Pedido do usuario: oi Resposta/solucao que funcionou ou contexto importante: ⚠️ API principal indisponível ou sem créditos. Processando via modelo local... ❌ Erro Técnico: returncode=1 stderr=hermes -z: no final response was produced; treating the run as failed. _(tags: auto)_
 
 ---
 
-## 12. Arquivo de Sessoes (6 dias)
+## 12. Arquivo de Sessoes (7 dias)
 
 Transcricoes completas exportadas de `40_Arquivo/Sessao_*.md`.
 
@@ -8127,6 +8128,22 @@ O WEF segue um padrão de arquitetura que pode ser descrito como **"Monolítico 
 Voz clonada configurada com sucesso.
 
 
+### Sessao_2026-07-15
+
+# Sessao_2026-07-15
+
+
+## Export 80cc3be0
+
+**Interacao 2026-07-15 13:58:12 UTC** (resumo export)
+
+## Interacao 2026-07-15 13:58:12 UTC
+Conceitos: [[Hermes]], [[API]], [[Processando]], [[Erro]]
+### Usuario
+### Hermes
+❌ Erro Técnico: returncode=1 stderr=hermes -z: no final response was produced; treating the run as failed.
+
+
 
 ---
 
@@ -8143,11 +8160,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 182 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 282 | `cache/persistent_memory.json` |
+| Memoria persistente | 283 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 12927 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 13037 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8177,7 +8194,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 |-------|-------|
 | Dados processados | 2.20 MB |
 | Comandos catalogados | 144 |
-| Conexoes wiki no vault | 680 |
+| Conexoes wiki no vault | 681 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
