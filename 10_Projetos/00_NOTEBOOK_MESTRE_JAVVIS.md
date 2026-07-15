@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-15T18:00:26Z
-updated_at: 2026-07-15T18:00:26Z
+created_at: 2026-07-15T19:00:19Z
+updated_at: 2026-07-15T19:00:19Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-15 18:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-15 19:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (145 detectados)
+## 1. Manual de Comandos (146 detectados)
 
 Comandos disponiveis (varredura automatica do bot.py):
 
@@ -70,7 +70,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 /consultar_memoria <pergunta> - Busca e resume notas em Memoria_Agente
 /youtube <link> - Extrai transcricao e gera relatorio de aprendizado
 /persona_youtube <link> - Clona personalidade do locutor via YouTube
-/grok <tarefa> - Execução pura + ofuscação total (Pesquisador Acadêmico Sênior de Resiliência Digital)
+/grok <tarefa> - Perfis X só pelas suas curtidas | /grok reset
 /gemini_pdf <link> - Extrai conversa Gemini e gera PDF/MD
 /pdf_gemini - Alias de /gemini_pdf
 /login_gemini - Autentica Gemini colando cookies no chat
@@ -93,7 +93,8 @@ Comandos disponiveis (varredura automatica do bot.py):
 /trend <consulta> - Pesquisa tendencias via Agent-Reach
 
 🐦 Twitter/X:
-/analisar_x - Top 10 perfis curtidos que você ainda não segue
+/analisar_x [pericia tema] - Pesquisa perfis nas suas curtidas | reset
+/buscar_perfis
 /x <consulta> - Pesquisa Twitter/X via Agent-Reach
 /twitter_feed_start - Inicia feed de tweets
 /twitter_feed_done - Finaliza feed
@@ -396,7 +397,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 152 ocorrencia(s)
+- `ROUTER` — 153 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -516,10 +517,11 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - **[[javvis-atue-como-um-engenheiro-de-integracao-de-dados-focado-em-depuraca]]** — # Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map **Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map** (resumo export) status: active # Javvis, atue como u...
 
 
-### Sessoes e interacoes indexadas (93)
+### Sessoes e interacoes indexadas (95)
 
 - [[ache-5-sites-brasileiros-que-sejam-dashboards-ou-sistemas-feitos-em-lova]]
 - [[agora-como-acessar]]
+- [[agora-liste-so-sobre-inteligencia-artificial]]
 - [[altere-a-configuracao-padrao-do-bot-para-usar-a-api-api-test-freemode-co-2]]
 - [[altere-a-configuracao-padrao-do-bot-para-usar-a-api-api-test-freemode-co]]
 - [[atue-como-o-orquestrador-de-sistemas-e-controlador-de-toolchain-do-javvi]]
@@ -547,8 +549,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[faca-um-script-so-com-nano-que-faca-tudo-execucao-do-protocolo-raw-strea]]
 - [[faca-uma-atualizacao-que-o-bot-so-use-o-modelo-local-ser-os-creditos-aca]]
 - [[faca-uma-publicacao-no-meu-x-dizendo-oi]]
-- [[gere-dataset-de-topologia-estudo-mapeamento-de-endpoints-de-servico-e-po]]
-- ... +63 sessoes adicionais
+- ... +65 sessoes adicionais
 
 ### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
@@ -556,7 +557,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-293 itens em `cache/persistent_memory.json` (lista completa).
+296 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -851,6 +852,9 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-15 17:48:30 UTC] Pedido do usuario: sobre tudo de ia notícias, lançamentos Resposta/solucao que funcionou ou contexto importante: **Notícias e Lançamentos de IA (até julho de 2024):** ### **Modelos e APIs** - **OpenAI**: Lançou o **GPT-4 Turbo** (2023) com atualizações contínuas, incluindo suporte a 128K tokens e integração com ferramentas como **DALL·E 3** e **Whisper**. Em 2024, expandiu a API para empresas com foco em **IA generativa para negócios**. - **Google DeepMind**: **Gemini 1.5** (2024) destaca-se por... _(tags: auto)_
 - [2026-07-15 17:50:50 UTC] Pedido do usuario: perfis rese social Resposta/solucao que funcionou ou contexto importante: **Como criar e otimizar perfis em redes sociais** | Plataforma | Passos principais | Dicas rápidas | |------------|-------------------|---------------| | **LinkedIn** | 1. Crie um perfil completo (foto profissional, headline, resumo). <br>2. Adicione experiência, educação e competências. <br>3. Publique conteúdo relevante e interaja com conexões. | • Use palavras-chave do seu setor no resumo.<br>• Peça r... _(tags: auto)_
 - [2026-07-15 17:55:19 UTC] Pedido do usuario: IMPORTANTE: Execute esta tarefa usando exclusivamente o X (Twitter) como fonte de dados. NÃO use GitHub. NÃO procure repositórios. NÃO gere consultas para GitHub. NÃO substitua o X por outra fonte. Se você não conseguir acessar ou pesquisar no X, informe isso claramente e encerre a execução. Não invente resultados e não faça fallback para GitHub. ## Objetivo Pesquise diretamente no X e encontre os 100 melhores perfis... Resposta/solucao que funcionou ou contexto importante: 📡... _(tags: auto)_
+- [2026-07-15 18:11:47 UTC] Pedido do usuario: Use APENAS as curtidas do MEU perfil no X (twitter-cli, minha sessão autenticada). Liste SOMENTE perfis de IA / inteligência artificial que aparecem nas curtidas que EU dei. Filtre posts sobre: LLM, GPT, Claude, Gemini, Grok, OpenAI, Anthropic, machine learning, agentes de IA, modelos de linguagem. Regras: - Não busque no X em geral - Ignore quem eu já sigo - Ignore perfis já recomendados antes - Top 10 perfis NOVOS... Resposta/solucao que funcionou ou contexto importante: 📡 C... _(tags: auto)_
+- [2026-07-15 18:17:31 UTC] Pedido do usuario: perfis das empresas de ia por exemplo Resposta/solucao que funcionou ou contexto importante: **Perfis resumidos de algumas das principais empresas de IA (até 2024)** | Empresa | Ano de fundação | Sede | Área de foco principal | Produtos/Serviços emblemáticos | Diferencial competitivo | |--------|----------------|------|------------------------|--------------------------------|--------------------------| | **OpenAI** | 2015 (originalmente sem fins lucrativos) | San Francisco, E... _(tags: auto)_
+- [2026-07-15 18:24:19 UTC] Pedido do usuario: perfis sobre ia Resposta/solucao que funcionou ou contexto importante: ## Perfis de IA – Visão geral rápida | Perfil | O que faz | Principais técnicas | Exemplos de uso | |--------|----------|---------------------|-----------------| | **IA Generativa** | Cria conteúdo novo (texto, imagem, áudio, código). | Modelos de linguagem grande (LLMs), Diffusion, GANs. | ChatGPT, DALL‑E, Copilot. | | **Visão Computacional** | Interpreta imagens e vídeos. | CNNs, Vision Transformers, YOLO... _(tags: auto)_
 
 ---
 
@@ -8520,6 +8524,94 @@ IMPORTANTE: Execute esta tarefa usando exclusivamente o X (Twitter) como fonte d
 
 ...[memoria destilada]
 
+## Export 2e0904ba
+
+**Interacao 2026-07-15 18:11:47 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:11:47 UTC
+### Usuario
+### Hermes
+
+## Export a8f61875
+
+**Interacao 2026-07-15 18:14:18 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:14:18 UTC
+### Usuario
+### Hermes
+
+## Export 227a2c7e
+
+**Interacao 2026-07-15 18:15:40 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:15:40 UTC
+### Usuario
+### Hermes
+
+## Export 6b923b70
+
+**Interacao 2026-07-15 18:17:31 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:17:31 UTC
+### Usuario
+### Hermes
+| **Anthropic** | 2020 | São Francisco, EUA | Segurança e interpretabilidade de LLMs | Claude 2 (LLM focado em “steerability”), API de chat | Ênfase em “Constitutional AI” para reduzir viés e comportamento indesejado |
+
+## Export e27ec080
+
+**Interacao 2026-07-15 18:19:54 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:19:54 UTC
+### Usuario
+### Hermes
+
+## Export 15865842
+
+**Interacao 2026-07-15 18:20:30 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:20:30 UTC
+### Usuario
+### Hermes
+- **Supervisionado:** regressão linear, árvores de decisão, SVM, redes neurais.
+- **Tokenização, stemming, lematização.**
+
+## Export 2714c9a6
+
+**Interacao 2026-07-15 18:21:18 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:21:18 UTC
+Conceitos: [[GitHub]], [[LinkedIn]], [[Twitter]]
+### Usuario
+### Hermes
+Para poder ajudar, preciso saber de quais perfis você está falando. É sobre perfis de redes sociais (GitHub, LinkedIn, Twitter etc.), de usuários em algum sistema interno ou outra coisa? Por favor, especifique.
+
+## Export bb96ff21
+
+**Interacao 2026-07-15 18:23:27 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:23:27 UTC
+### Usuario
+### Hermes
+
+## Export 46a8a3c2
+
+**Interacao 2026-07-15 18:23:50 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:23:50 UTC
+### Usuario
+### Hermes
+
+## Export 3c3ee3b0
+
+**Interacao 2026-07-15 18:24:19 UTC** (resumo export)
+
+## Interacao 2026-07-15 18:24:19 UTC
+### Usuario
+### Hermes
+## Perfis de IA – Visão geral rápida
+| **Aprendizado Supervisionado** | Prediz rótulos a partir de dados anotados. | Árvores de decisão, SVM, Redes Neurais, XGBoost. | Classificação de e‑mail (spam/ham), diagnóstico médico. |
+| **Aprendizado por Reforço** | Aprende por tentativa‑e‑erro em ambientes dinâmicos. | Q‑learning, Policy Gradient, Deep RL (DQN, PPO). | J
+
 
 
 ---
@@ -8536,12 +8628,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 192 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 293 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 194 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 296 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 14383 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 14776 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8569,9 +8661,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 2.32 MB |
-| Comandos catalogados | 145 |
-| Conexoes wiki no vault | 691 |
+| Dados processados | 2.35 MB |
+| Comandos catalogados | 146 |
+| Conexoes wiki no vault | 692 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
