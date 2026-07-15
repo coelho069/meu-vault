@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-15T19:00:19Z
-updated_at: 2026-07-15T19:00:19Z
+created_at: 2026-07-15T20:00:18Z
+updated_at: 2026-07-15T20:00:18Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-15 19:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-15 20:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -384,8 +384,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- /reset
-- Oi
 - Oi
 - Oi
 - /help
@@ -394,10 +392,12 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - Oi
 - /start
 - 
+- Parte 74/157
+- 51730 (1)
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 153 ocorrencia(s)
+- `ROUTER` — 156 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -412,6 +412,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - `CMD:/modelos` — 2 ocorrencia(s)
 - `AGENT_REACH` — 2 ocorrencia(s)
 - `CMD:Carlinhos Maia vs 30 hates` — 2 ocorrencia(s)
+- `CMD:/twitter_examples` — 2 ocorrencia(s)
 - `GEMINI` — 1 ocorrencia(s)
 - `CMD:legado.anatel.gov.br` — 1 ocorrencia(s)
 - `CMD:In case the user asks about xAI's products, here is some information and respons` — 1 ocorrencia(s)
@@ -421,12 +422,9 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - `CMD:Origem: Fuzzing Inteligente (Path Discovery)` — 1 ocorrencia(s)
 - `CMD:arca:` — 1 ocorrencia(s)
 - `CMD:Grok, integre o stealth_scanner.py ao comando /grok. Sempre que um alvo for anal` — 1 ocorrencia(s)
-- `CMD:python3 stealth_scanner.py https://demo.lovable.app` — 1 ocorrencia(s)
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- /reset
-- Oi
 - Oi
 - Oi
 - /help
@@ -440,6 +438,8 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - Carlinhos Maia vs 30 hates
 - Carlinhos Maia vs 30 hates
 - No Twitter, uma publicação falando sobre como funciona o comando/grok
+- /twitter_examples
+- /twitter_examples
 
 ---
 
@@ -517,7 +517,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - **[[javvis-atue-como-um-engenheiro-de-integracao-de-dados-focado-em-depuraca]]** — # Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map **Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map** (resumo export) status: active # Javvis, atue como u...
 
 
-### Sessoes e interacoes indexadas (95)
+### Sessoes e interacoes indexadas (96)
 
 - [[ache-5-sites-brasileiros-que-sejam-dashboards-ou-sistemas-feitos-em-lova]]
 - [[agora-como-acessar]]
@@ -548,8 +548,8 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[faca-um-script-em-md-fazendo-tudoexecucao-do-protocolo-raw-stream-sync-p]]
 - [[faca-um-script-so-com-nano-que-faca-tudo-execucao-do-protocolo-raw-strea]]
 - [[faca-uma-atualizacao-que-o-bot-so-use-o-modelo-local-ser-os-creditos-aca]]
-- [[faca-uma-publicacao-no-meu-x-dizendo-oi]]
-- ... +65 sessoes adicionais
+- [[faca-uma-liste-somente-das-url-1-elon-musk-elonmusk-https-x-com-elonmusk]]
+- ... +66 sessoes adicionais
 
 ### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
@@ -557,7 +557,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-296 itens em `cache/persistent_memory.json` (lista completa).
+297 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -855,6 +855,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-15 18:11:47 UTC] Pedido do usuario: Use APENAS as curtidas do MEU perfil no X (twitter-cli, minha sessão autenticada). Liste SOMENTE perfis de IA / inteligência artificial que aparecem nas curtidas que EU dei. Filtre posts sobre: LLM, GPT, Claude, Gemini, Grok, OpenAI, Anthropic, machine learning, agentes de IA, modelos de linguagem. Regras: - Não busque no X em geral - Ignore quem eu já sigo - Ignore perfis já recomendados antes - Top 10 perfis NOVOS... Resposta/solucao que funcionou ou contexto importante: 📡 C... _(tags: auto)_
 - [2026-07-15 18:17:31 UTC] Pedido do usuario: perfis das empresas de ia por exemplo Resposta/solucao que funcionou ou contexto importante: **Perfis resumidos de algumas das principais empresas de IA (até 2024)** | Empresa | Ano de fundação | Sede | Área de foco principal | Produtos/Serviços emblemáticos | Diferencial competitivo | |--------|----------------|------|------------------------|--------------------------------|--------------------------| | **OpenAI** | 2015 (originalmente sem fins lucrativos) | San Francisco, E... _(tags: auto)_
 - [2026-07-15 18:24:19 UTC] Pedido do usuario: perfis sobre ia Resposta/solucao que funcionou ou contexto importante: ## Perfis de IA – Visão geral rápida | Perfil | O que faz | Principais técnicas | Exemplos de uso | |--------|----------|---------------------|-----------------| | **IA Generativa** | Cria conteúdo novo (texto, imagem, áudio, código). | Modelos de linguagem grande (LLMs), Diffusion, GANs. | ChatGPT, DALL‑E, Copilot. | | **Visão Computacional** | Interpreta imagens e vídeos. | CNNs, Vision Transformers, YOLO... _(tags: auto)_
+- [2026-07-15 19:09:35 UTC] Pedido do usuario: faça uma liste somente das url 1. Elon Musk @elonmusk https://x.com/elonmusk CEO da Tesla, SpaceX e xAI. Posta sobre avanços em IA (xAI/Grok), veículos autônomos, Neuralink, riscos existenciais da IA e inovações tecnológicas amplas, com opiniões diretas e frequentes. 2. Sam Altman @sama https://x.com/sama CEO da OpenAI. Compartilha atualizações sobre GPT, ChatGPT, AGI, segurança de IA, startups e o futuro da inteligê... Resposta/solucao que funcionou ou contexto importante: 📡... _(tags: auto)_
 
 ---
 
@@ -8612,6 +8613,24 @@ Para poder ajudar, preciso saber de quais perfis você está falando. É sobre p
 | **Aprendizado Supervisionado** | Prediz rótulos a partir de dados anotados. | Árvores de decisão, SVM, Redes Neurais, XGBoost. | Classificação de e‑mail (spam/ham), diagnóstico médico. |
 | **Aprendizado por Reforço** | Aprende por tentativa‑e‑erro em ambientes dinâmicos. | Q‑learning, Policy Gradient, Deep RL (DQN, PPO). | J
 
+## Export fffefa12
+
+**Interacao 2026-07-15 19:09:35 UTC** (resumo export)
+
+## Interacao 2026-07-15 19:09:35 UTC
+### Usuario
+faça uma liste somente das url 1. Elon Musk @elonmusk https://x.com/elonmusk CEO da Tesla, SpaceX e xAI. Posta sobre avanços em IA (xAI/Grok), veículos autônomos, Neuralink, riscos existenciais da IA e inovações tecnológicas amplas, com opiniões diretas e frequentes. 2. Sam Altman @sama https://x.com/sama CEO da OpenAI. Compartilha atualizações sobre GPT, ChatGPT, AGI, segurança de IA, startups e o futuro da inteligência artificial. 3. Andrew Ng @AndrewYNg https://x.com/AndrewYNg Cofundador da Coursera e ex-líder de Google Brain/Baidu AI. Posta sobre educação em ML/IA, aplicações práticas de deep learning e cursos acessíveis de inteligência artificial. 4. Yann LeCun @ylecun https://x.com/ylecun Professor da NYU e ex-Chief AI Scientist da Meta. Discute pesquisa em deep learning, visão d
+
+...[memoria destilada]
+
+## Export c58512bf
+
+**Interacao 2026-07-15 19:36:16 UTC** (resumo export)
+
+## Interacao 2026-07-15 19:36:16 UTC
+### Usuario
+### Hermes
+
 
 
 ---
@@ -8628,12 +8647,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 194 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 296 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 195 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 297 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 14776 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 15210 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8661,9 +8680,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 2.35 MB |
+| Dados processados | 2.37 MB |
 | Comandos catalogados | 146 |
-| Conexoes wiki no vault | 692 |
+| Conexoes wiki no vault | 693 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
