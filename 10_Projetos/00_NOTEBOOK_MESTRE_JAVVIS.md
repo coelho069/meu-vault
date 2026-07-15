@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-15T17:00:17Z
-updated_at: 2026-07-15T17:00:17Z
+created_at: 2026-07-15T18:00:26Z
+updated_at: 2026-07-15T18:00:26Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-15 17:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-15 18:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -93,6 +93,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 /trend <consulta> - Pesquisa tendencias via Agent-Reach
 
 🐦 Twitter/X:
+/analisar_x - Top 10 perfis curtidos que você ainda não segue
 /x <consulta> - Pesquisa Twitter/X via Agent-Reach
 /twitter_feed_start - Inicia feed de tweets
 /twitter_feed_done - Finaliza feed
@@ -171,7 +172,6 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 📦 Outros:
 /add_key - Admin-only: /add_key <key> salva no /home/ubuntu/freellmapi/.env e reinicia o proxy freellmapi via pm2.
-/analisar_x
 /baixar_cortes - Envia pelo Telegram os .mp4 já salvos em Cortes_Salvos/[nome_da_pasta_do_video]/.
 /conectar_drive - Conecta Google Drive via OAuth WEB (link publico no celular).
 /cortar_video
@@ -223,7 +223,7 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 ## 7. Historico de Decisoes
 
-33 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
+34 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
 
 ### [[atue-como-o-arquiteto-de-governanca-de-ti-e-auditor-de-baseline-de-segur-2]]
 # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N **Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N** (resumo export) status: active # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N ## Contexto "Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. Nossa missão é realizar o 'Mapeamento de Dependências Externas' em nosso ecossistema de micro-serviços (/home/ubuntu/). Sua Missão: 1. Identificação de Ativos: Acione o módulo autonomous_search.py para listar 10 instâncias ativas de parceiros tecnológicos hospedados em *.vercel.app e *.lovable.app. 2. Auditoria de Baseline: Para...
@@ -267,6 +267,8 @@ Comandos disponiveis (varredura automatica do bot.py):
 # optimize_code -Você é o Web Architecture Researcher. Sua função é realizar um l **optimize_code -Você é o Web Architecture Researcher. Sua função é realizar um l** (resumo export) status: active # optimize_code -Você é o Web Architecture Researcher. Sua função é realizar um l ## Contexto 1. Levantamento de Dados: Ao receber um tópico, identifique 10 portais ativos para compor uma amostra de estudo de mercado. 3. Painel de Amostragem: Apresente os resultados em um menu organizado. Use marcadores coloridos (🔴, 🟡, 🟢) para indicar a complexidade da arquitetura encontrada. Diretriz: Sua comunicação deve ser estritamente acadêmica, voltada para engenharia de software e análise de dados. O objeti...
 ### [[optimize-code-voce-e-o-web-architecture-researcher-sua-funcao-e-realizar]]
 # optimize_code -Você é o Web Architecture Researcher. Sua função é realizar um l **optimize_code -Você é o Web Architecture Researcher. Sua função é realizar um l** (resumo export) status: active # optimize_code -Você é o Web Architecture Researcher. Sua função é realizar um l ## Contexto 1. Levantamento de Dados: Ao receber um tópico, identifique 10 portais ativos para compor uma amostra de estudo de mercado. 3. Painel de Amostragem: Apresente os resultados em um menu organizado. Use marcadores coloridos (🔴, 🟡, 🟢) para indicar a complexidade da arquitetura encontrada. Diretriz: Sua comunicação deve ser estritamente acadêmica, voltada para engenharia de software e análise de dados. O objeti...
+### [[perfis-sobre-ia]]
+# perfis sobre ia **perfis sobre ia** (resumo export) status: active # perfis sobre ia ## Contexto | **Engenheiro de Machine Learning (ML)** | Projetar, treinar e implantar modelos de ML; otimizar pipelines de dados. | Python, TensorFlow/PyTorch, SQL, engenharia de dados. | | **Cientista de Dados (Data Scientist)** | Analisar dados, criar modelos preditivos e gerar insights de negócio. | Estatística, R/Python, visualização, SQL. | | **Arquiteto de IA (AI Architect)** | Definir a arquitetura de sistemas de IA, integrar modelos em produção. | Cloud (AWS/GCP/Azure), DevOps, design de sistemas. |
 ### [[protocolo-de-auditoria-de-higiene-de-configuracao-nivel-infinito-instruc]]
 # PROTOCOLO DE AUDITORIA DE HIGIENE DE CONFIGURAÇÃO - NÍVEL INFINITO Instrução- At **PROTOCOLO DE AUDITORIA DE HIGIENE DE CONFIGURAÇÃO - NÍVEL INFINITO Instrução- At** (resumo export) title: PROTOCOLO DE AUDITORIA DE HIGIENE DE CONFIGURAÇÃO - NÍVEL INFINITO Instrução- At status: active # PROTOCOLO DE AUDITORIA DE HIGIENE DE CONFIGURAÇÃO - NÍVEL INFINITO Instrução- At ## Contexto ## PROTOCOLO DE AUDITORIA DE HIGIENE DE CONFIGURAÇÃO - NÍVEL INFINITO Instrução: Atue como um Arquiteto de Sistemas Sênior e Especialista em SRE. Sua tarefa é produzir um script Python acadêmico para automação de inventário de metadados em ambientes de nuvem. O script deve: 1. Analisar uma variável 'target_buffer' (q...
 ### [[protocolo-de-criacao-de-modulo-autonomo-nivel-infinito-instrucao-gere-um]]
@@ -394,7 +396,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 149 ocorrencia(s)
+- `ROUTER` — 152 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:/help` — 9 ocorrencia(s)
@@ -514,7 +516,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - **[[javvis-atue-como-um-engenheiro-de-integracao-de-dados-focado-em-depuraca]]** — # Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map **Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map** (resumo export) status: active # Javvis, atue como u...
 
 
-### Sessoes e interacoes indexadas (89)
+### Sessoes e interacoes indexadas (93)
 
 - [[ache-5-sites-brasileiros-que-sejam-dashboards-ou-sistemas-feitos-em-lova]]
 - [[agora-como-acessar]]
@@ -546,7 +548,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[faca-uma-atualizacao-que-o-bot-so-use-o-modelo-local-ser-os-creditos-aca]]
 - [[faca-uma-publicacao-no-meu-x-dizendo-oi]]
 - [[gere-dataset-de-topologia-estudo-mapeamento-de-endpoints-de-servico-e-po]]
-- ... +59 sessoes adicionais
+- ... +63 sessoes adicionais
 
 ### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
@@ -554,7 +556,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-289 itens em `cache/persistent_memory.json` (lista completa).
+293 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -845,6 +847,10 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-15 14:59:40 UTC] Pedido do usuario: faça uma publicação no meu Twitter "sobre agent de ia, falando que foi um agent que fez a publicação " Resposta/solucao que funcionou ou contexto importante: "Olá, sou um agente de IA! Estou aqui para interagir e aprender com vocês. E, sim, fui eu quem escreveu essa publicação! #IA #AgentDeIA #Tecnologia" _(tags: auto)_
 - [2026-07-15 15:50:39 UTC] Pedido do usuario: O /twitter_similar gera buscas parecidas com o padrão que você já ensinou pro bot. Depois de usar o /twitter_learn, manda /twitter_similar com um texto ou link de referência e ele monta queries prontas pra caçar posts no mesmo estilo no X — coisas como Claude Code, API credits, Base URL, OpenAI- compatible, agentes de IA e ferramentas pra dev. As buscas vêm formatadas pra Google com site:x.com e termos entre aspas. É... Resposta/solucao que funcionou ou contexto importante: Eu... _(tags: auto)_
 - [2026-07-15 16:05:22 UTC] Pedido do usuario: Eu criei o /julgar no Javvis Bot e isso devia ser crime em pelo menos três países. Você manda o link de um reel achando que é só entretenimento. O bot assiste, entende o que a pessoa falou e devolve um veredito debochado com barra de progresso, como se fosse The Voice, só que a única cadeira que gira é a da zoeira. Eu adicionei essa função porque cansei de ver gente assistindo reel motivacional em silêncio, fingindo... Resposta/solucao que funcionou ou contexto importante: Eu... _(tags: auto)_
+- [2026-07-15 17:30:30 UTC] Pedido do usuario: traga os links das redes sociais Resposta/solucao que funcionou ou contexto importante: ❌ Erro ao chamar o Grok: [freellmapi_proxy] falhou status=401 {"error":{"message":"Invalid API key","type":"authentication_error"}} _(tags: auto)_
+- [2026-07-15 17:48:30 UTC] Pedido do usuario: sobre tudo de ia notícias, lançamentos Resposta/solucao que funcionou ou contexto importante: **Notícias e Lançamentos de IA (até julho de 2024):** ### **Modelos e APIs** - **OpenAI**: Lançou o **GPT-4 Turbo** (2023) com atualizações contínuas, incluindo suporte a 128K tokens e integração com ferramentas como **DALL·E 3** e **Whisper**. Em 2024, expandiu a API para empresas com foco em **IA generativa para negócios**. - **Google DeepMind**: **Gemini 1.5** (2024) destaca-se por... _(tags: auto)_
+- [2026-07-15 17:50:50 UTC] Pedido do usuario: perfis rese social Resposta/solucao que funcionou ou contexto importante: **Como criar e otimizar perfis em redes sociais** | Plataforma | Passos principais | Dicas rápidas | |------------|-------------------|---------------| | **LinkedIn** | 1. Crie um perfil completo (foto profissional, headline, resumo). <br>2. Adicione experiência, educação e competências. <br>3. Publique conteúdo relevante e interaja com conexões. | • Use palavras-chave do seu setor no resumo.<br>• Peça r... _(tags: auto)_
+- [2026-07-15 17:55:19 UTC] Pedido do usuario: IMPORTANTE: Execute esta tarefa usando exclusivamente o X (Twitter) como fonte de dados. NÃO use GitHub. NÃO procure repositórios. NÃO gere consultas para GitHub. NÃO substitua o X por outra fonte. Se você não conseguir acessar ou pesquisar no X, informe isso claramente e encerre a execução. Não invente resultados e não faça fallback para GitHub. ## Objetivo Pesquise diretamente no X e encontre os 100 melhores perfis... Resposta/solucao que funcionou ou contexto importante: 📡... _(tags: auto)_
 
 ---
 
@@ -8361,6 +8367,159 @@ Eu criei o comando /twitter_similar no Javvis Bot, que agora gera buscas parecid
 ### Usuario
 ### Hermes
 
+## Export 1a286c9d
+
+**Interacao 2026-07-15 17:28:05 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:28:05 UTC
+### Usuario
+### Hermes
+
+## Export 1a7b2797
+
+**Interacao 2026-07-15 17:30:30 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:30:30 UTC
+Conceitos: [[Erro]], [[Grok]], [[401]], [[Invalid API]]
+### Usuario
+### Hermes
+❌ Erro ao chamar o Grok: [freellmapi_proxy] falhou status=401 {"error":{"message":"Invalid API key","type":"authentication_error"}}
+
+## Export c2975b87
+
+**Interacao 2026-07-15 17:37:23 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:37:23 UTC
+### Usuario
+### Hermes
+2. @jeffweiner - CEO do LinkedIn, com insights sobre tecnologia e negócios.
+1. @neiltyson - Astrofísico e divulgador científico, com insights sobre ciência e tecnologia.
+
+## Export 0b7564c2
+
+**Interacao 2026-07-15 17:38:57 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:38:57 UTC
+Conceitos: [[Erro]], [[Grok]], [[401]], [[Invalid API]]
+### Usuario
+### Hermes
+❌ Erro ao chamar o Grok: [freellmapi_proxy] falhou status=401 {"error":{"message":"Invalid API key","type":"authentication_error"}}
+
+## Export f5811e45
+
+**Interacao 2026-07-15 17:43:26 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:43:26 UTC
+### Usuario
+### Hermes
+
+## Export 35d56d8a
+
+**Interacao 2026-07-15 17:45:38 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:45:38 UTC
+### Usuario
+### Hermes
+- @nixcraft (Vivek Gite)
+
+## Export 9028edea
+
+**Interacao 2026-07-15 17:46:33 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:46:33 UTC
+### Usuario
+### Hermes
+
+## Export c1e37552
+
+**Interacao 2026-07-15 17:48:30 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:48:30 UTC
+### Usuario
+### Hermes
+### **Modelos e APIs**
+- **OpenAI**: Lançou o **GPT-4 Turbo** (2023) com atualizações contínuas, incluindo suporte a 128K tokens e integração com ferramentas como **DALL·E 3** e **Whisper**. Em 2024, expandiu a API para empresas com foco em **IA generativa para negócios**.
+- **Google DeepMind**: **Gemini 1.5** (2024) destaca-se por processamento de até 1M tokens e melhorias em raciocínio multimodal. Lançou também **Gemini Nano**, um modelo leve para dispositivos móveis.
+- **Meta**: **Llama 3** (2024) é open-source e otimizado para tarefas de código e raciocínio. Disponível em versões de 8B e 70B parâmetros.
+### **Hardware e Infraestrutura**
+
+## Export fb00d78e
+
+**Interacao 2026-07-15 17:48:57 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:48:57 UTC
+### Usuario
+### Hermes
+
+## Export 8d2ce6b1
+
+**Interacao 2026-07-15 17:49:36 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:49:36 UTC
+### Usuario
+### Hermes
+
+## Export 95747f77
+
+**Interacao 2026-07-15 17:49:55 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:49:55 UTC
+### Usuario
+### Hermes
+| **Engenheiro de Machine Learning (ML)** | Projetar, treinar e implantar modelos de ML; otimizar pipelines de dados. | Python, TensorFlow/PyTorch, SQL, engenharia de dados. |
+| **Cientista de Dados (Data Scientist)** | Analisar dados, criar modelos preditivos e gerar insights de negócio. | Estatística, R/Python, visualização, SQL. |
+| **Arquiteto de IA (AI Architect)** | Definir a arquitetura de sistemas de IA, integrar modelos em produção. | Cloud (AWS/GCP/Azure), DevOps, design de sistemas. |
+
+## Export 479269e8
+
+**Interacao 2026-07-15 17:50:50 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:50:50 UTC
+### Usuario
+### Hermes
+**Como criar e otimizar perfis em redes sociais**
+
+## Export d90f2ea5
+
+**Interacao 2026-07-15 17:55:19 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:55:19 UTC
+Conceitos: [[Hugging Face]], [[Python]], [[GitHub]], [[Claude]], [[Gemini]], [[MCP]], [[IMPORTANTE]], [[Execute]]
+### Usuario
+IMPORTANTE: Execute esta tarefa usando exclusivamente o X (Twitter) como fonte de dados. NÃO use GitHub. NÃO procure repositórios. NÃO gere consultas para GitHub. NÃO substitua o X por outra fonte. Se você não conseguir acessar ou pesquisar no X, informe isso claramente e encerre a execução. Não invente resultados e não faça fallback para GitHub. ## Objetivo Pesquise diretamente no X e encontre os 100 melhores perfis para eu seguir sobre IA, programação e tecnologia. ## Como pesquisar - Use a busca do X. - Procure contas na aba Pessoas. - Pesquise por palavras-chave e hashtags. - Abra os perfis encontrados. - Analise a bio e as publicações recentes. - Descubra perfis relaci
+
+...[memoria destilada]
+
+## Export 65899646
+
+**Interacao 2026-07-15 17:55:53 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:55:53 UTC
+### Usuario
+### Hermes
+
+## Export 38448853
+
+**Interacao 2026-07-15 17:56:05 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:56:05 UTC
+Conceitos: [[Hugging Face]], [[Python]], [[GitHub]], [[Claude]], [[Gemini]], [[MCP]], [[IMPORTANTE]], [[Execute]]
+### Usuario
+IMPORTANTE: Execute esta tarefa usando exclusivamente o X (Twitter) como fonte de dados. NÃO use GitHub. NÃO procure repositórios. NÃO gere consultas para GitHub. NÃO substitua o X por outra fonte. Se você não conseguir acessar ou pesquisar no X, informe isso claramente e encerre a execução. Não invente resultados e não faça fallback para GitHub. ## Objetivo Pesquise diretamente no X e encontre os 100 melhores perfis para eu seguir sobre IA, programação e tecnologia. ## Como pesquisar - Use a busca do X. - Procure contas na aba Pessoas. - Pesquise por palavras-chave e hashtags. - Abra os perfis encontrados. - Analise a bio e as publicações recentes. - Descubra perfis relaci
+
+...[memoria destilada]
+
+## Export 2bbb2aca
+
+**Interacao 2026-07-15 17:59:20 UTC** (resumo export)
+
+## Interacao 2026-07-15 17:59:20 UTC
+Conceitos: [[Hugging Face]], [[Python]], [[GitHub]], [[Claude]], [[Gemini]], [[MCP]], [[IMPORTANTE]], [[Execute]]
+### Usuario
+IMPORTANTE: Execute esta tarefa usando exclusivamente o X (Twitter) como fonte de dados. NÃO use GitHub. NÃO procure repositórios. NÃO gere consultas para GitHub. NÃO substitua o X por outra fonte. Se você não conseguir acessar ou pesquisar no X, informe isso claramente e encerre a execução. Não invente resultados e não faça fallback para GitHub. ## Objetivo Pesquise diretamente no X e encontre os 100 melhores perfis para eu seguir sobre IA, programação e tecnologia. ## Como pesquisar - Use a busca do X. - Procure contas na aba Pessoas. - Pesquise por palavras-chave e hashtags. - Abra os perfis encontrados. - Analise a bio e as publicações recentes. - Descubra perfis relaci
+
+...[memoria destilada]
+
 
 
 ---
@@ -8377,12 +8536,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 187 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 289 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 192 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 293 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 13862 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 14383 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8410,9 +8569,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 2.27 MB |
+| Dados processados | 2.32 MB |
 | Comandos catalogados | 145 |
-| Conexoes wiki no vault | 686 |
+| Conexoes wiki no vault | 691 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
