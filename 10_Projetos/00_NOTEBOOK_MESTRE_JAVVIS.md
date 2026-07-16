@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-16T09:00:09Z
-updated_at: 2026-07-16T09:00:09Z
+created_at: 2026-07-16T10:00:13Z
+updated_at: 2026-07-16T10:00:13Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-16 09:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-16 10:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -52,7 +52,7 @@ Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no b
 /cortar_video <URL> - Corta video do YouTube e salva em Cortes_Salvos/
 /baixar_cortes [pasta] - Envia .mp4 da pasta pelo Telegram
 /publicar_cortes [pasta] - Publica 1 video/vez no TikTok @corteschhh
-/publicar_gphotos [album] - Baixa do Google Fotos e publica fila no TikTok
+/publicar_gphotos [album] - 1 video/vez do Google Fotos para TikTok
 /drive_login - Autentica Google Drive/Fotos (OAuth)
 /drive_login_link - Login Drive via link OAuth
 /drive_auth - Alias de /drive_login
@@ -8849,7 +8849,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 17127 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 17145 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
