@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-16T04:00:10Z
-updated_at: 2026-07-16T04:00:10Z
+created_at: 2026-07-16T05:00:58Z
+updated_at: 2026-07-16T05:00:58Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,15 +18,50 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-16 04:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-16 05:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (147 detectados)
+## 1. Manual de Comandos (151 detectados)
 
-Comandos disponiveis (varredura automatica do bot.py):
+Hermes Bot — menu de comandos
+Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no botao / do Telegram.
+
+🔍 OSINT e Seguranca:
+/ipcheck <ip_ou_dominio> - Varredura OSINT passiva (SpiderFoot)
+/osint <alvo> - OSINT passivo: subdominios, e-mails, tecnologias e riscos
+/osint_search <alvo> - Mesma varredura OSINT com sugestao da biblioteca
+/osint_tools <tema> - Consultoria de ferramentas OSINT (ex: instagram, email)
+/osint_audit <alvo> - Auditoria OSINT avancada (Awesome Engine)
+/attack_surface <alvo> - Superficie de ataque (portas, SSL, buckets)
+/find_targets [query] - Agent-Reach + ofuscação de temas para dorking limpo
+/check_ads_leak <url> - Recursive Deep Scan + ofuscação de dados interceptados (relatório sem bloqueios)
+/ads_leak - Alias de /check_ads_leak (ofuscado)
+/super_scan <urls...> - Silent Hunter: lote silencioso (so alerta critico)
+/vibe_scan <url> - Audita falhas RLS em backends Supabase
+/dump_table <url> <tabela> [key] - Extrai dados de tabela Supabase exposta
+/discover - Menu interativo de APIs e alvos OSINT
+/scan <url> - Advanced Vuln Scanner (headers, paths sensíveis, banners)
+/dork <dominio> - Gera dorks clicáveis para Google + Shodan
+/scan_db_interfaces - Observabilidade de interfaces de gestao/DB
+/verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
+
+🎬 Cortes e TikTok:
+/cortar_video <URL> - Corta video do YouTube e salva em Cortes_Salvos/
+/baixar_cortes [pasta] - Envia .mp4 da pasta pelo Telegram
+/publicar_cortes [pasta] - Publica 1 video/vez no TikTok @corteschhh
+/drive_login - Autentica Google Drive/Fotos (OAuth)
+/drive_login_link - Login Drive via link OAuth
+/drive_auth - Alias de /drive_login
+/conectar_drive - Alias de /drive_login
+/drive_link - Alias de /drive_login_link
+/drive_status - Status da conexao Google Drive
+/status_drive - Alias de /drive_status
+
+📸 Instagram:
+/julgar <link_instagram> - Debochador de reel/video do Instagram
 
 🤖 IA e Analise:
 /aprender_repo <url_github> - Baixa README e salva em memory/learned_repos
@@ -54,16 +89,6 @@ Comandos disponiveis (varredura automatica do bot.py):
 /ia_news_audio - Alias de /noticias_ai_audio
 /news_ai_audio - Alias de /noticias_ai_audio
 /akita - Ultimas postagens AkitaOnRails em podcast monologo
-/ipcheck <ip_ou_dominio> - Varredura OSINT passiva (SpiderFoot)
-/osint <alvo> - Inteligencia OSINT (subdominios, emails, tecnologias)
-/osint_search <alvo> - Busca OSINT com sugestao da biblioteca Awesome
-/osint_tools <tema> - Consultoria: melhores ferramentas OSINT por tema
-/attack_surface <alvo> - Superficie de ataque (portas, SSL, buckets)
-/find_targets [query] - Agent-Reach + ofuscação de temas para dorking limpo
-/check_ads_leak <url> - Recursive Deep Scan + ofuscação de dados interceptados (relatório sem bloqueios)
-/ads_leak - Alias de /check_ads_leak (ofuscado)
-/super_scan <urls...> - Silent Hunter: lote silencioso (so alerta critico)
-/verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 /langgraph_test [texto] - Valida orquestracao LangGraph com checkpoints
 /resumo_hoje - Resumo executivo das alteracoes de hoje
 /analisar_chat [foco] - Analisa historico desta conversa
@@ -94,7 +119,10 @@ Comandos disponiveis (varredura automatica do bot.py):
 
 🐦 Twitter/X:
 /analisar_x [pericia tema] - Pesquisa perfis nas suas curtidas | reset
-/buscar_perfis
+/buscar_perfis - Mapeia 20 perfis de autoridade no X por tema
+/publicar_x <texto> - Publica no X (formata local; foto/vídeo; thread)
+/tweet_x <texto> - Alias de /publicar_x
+/post_x <texto> - Alias de /publicar_x
 /x <consulta> - Pesquisa Twitter/X via Agent-Reach
 /twitter_feed_start - Inicia feed de tweets
 /twitter_feed_done - Finaliza feed
@@ -123,11 +151,13 @@ Comandos disponiveis (varredura automatica do bot.py):
 🔧 Sistema:
 /start - Inicia o bot
 /help - Mostra esta ajuda
+/menu - Menu principal de comandos (igual a /help)
 /commands - Mostra esta ajuda
 /modelos - Mostra modelos configurados
 /reset - Reinicia sessao
 /id - Mostra seu chat_id
 /diag - Diagnostico do sistema
+/add_key <chave> - Admin: atualiza chave no freellmapi (.env)
 /optimize_code <arquivo|codigo> - Refatora codigo (Ponytail/Lazy Senior Dev)
 /optimize - Alias de /optimize_code
 /api <nome> <api_key> [base_url] [modelo] - Configura API automaticamente
@@ -170,27 +200,6 @@ Comandos disponiveis (varredura automatica do bot.py):
 💻 Shell (autorizados):
 /shell <comando> - Executa comando shell (autorizados)
 /cmd <comando> - Executa comando shell (autorizados)
-
-📦 Outros:
-/add_key - Admin-only: /add_key <key> salva no /home/ubuntu/freellmapi/.env e reinicia o proxy freellmapi via pm2.
-/baixar_cortes - Envia pelo Telegram os .mp4 já salvos em Cortes_Salvos/[nome_da_pasta_do_video]/.
-/conectar_drive - Conecta Google Drive via OAuth WEB (link publico no celular).
-/cortar_video
-/discover - Comando /discover — menu interativo de selecao de APIs e alvos.
-/dork <dominio> - Gera dorks clicáveis para Google + Shodan
-/drive_auth - Conecta Google Drive via OAuth WEB (link publico no celular).
-/drive_link
-/drive_login - Conecta Google Drive via OAuth WEB (link publico no celular).
-/drive_login_link
-/drive_status
-/dump_table - Comando /dump_table — extrai dados de uma tabela Supabase vulneravel.
-/julgar - Handler para /julgar <link_do_instagram>
-/osint_audit
-/publicar_cortes - Publica no TikTok os .mp4 já salvos em Cortes_Salvos/[nome_da_pasta]/.
-/scan <url> - Advanced Vuln Scanner (headers, paths sensíveis, banners)
-/scan_db_interfaces
-/status_drive
-/vibe_scan - Comando /vibe_scan — audita falhas RLS em backends Supabase.
 
 
 ---
@@ -385,23 +394,23 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- Oi
-- Oi
-- /help
-- /modelos
 - /modelos
 - Oi
 - /start
 - 
 - Parte 74/157
 - 51730 (1)
+- Carlinhos Maia vs 30 hates
+- Carlinhos Maia vs 30 hates
+- No Twitter, uma publicação falando sobre como funciona o comando/grok
+- /twitter_examples
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 162 ocorrencia(s)
+- `ROUTER` — 173 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
+- `CMD:/help` — 10 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
-- `CMD:/help` — 9 ocorrencia(s)
 - `CMD:` — 5 ocorrencia(s)
 - `CMD:find_targets "crm brasil lovable.app leads"` — 4 ocorrencia(s)
 - `CMD:vibe_scan https://supabase.meubanco.com.br` — 3 ocorrencia(s)
@@ -426,10 +435,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- Oi
-- Oi
-- /help
-- /modelos
 - /modelos
 - Oi
 - /start
@@ -441,6 +446,10 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - No Twitter, uma publicação falando sobre como funciona o comando/grok
 - /twitter_examples
 - /twitter_examples
+- /help
+- /kanban
+- /kanban faça um prompt
+- /menu
 
 ---
 
@@ -558,7 +567,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-298 itens em `cache/persistent_memory.json` (lista completa).
+300 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -858,10 +867,12 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-15 18:24:19 UTC] Pedido do usuario: perfis sobre ia Resposta/solucao que funcionou ou contexto importante: ## Perfis de IA – Visão geral rápida | Perfil | O que faz | Principais técnicas | Exemplos de uso | |--------|----------|---------------------|-----------------| | **IA Generativa** | Cria conteúdo novo (texto, imagem, áudio, código). | Modelos de linguagem grande (LLMs), Diffusion, GANs. | ChatGPT, DALL‑E, Copilot. | | **Visão Computacional** | Interpreta imagens e vídeos. | CNNs, Vision Transformers, YOLO... _(tags: auto)_
 - [2026-07-15 19:09:35 UTC] Pedido do usuario: faça uma liste somente das url 1. Elon Musk @elonmusk https://x.com/elonmusk CEO da Tesla, SpaceX e xAI. Posta sobre avanços em IA (xAI/Grok), veículos autônomos, Neuralink, riscos existenciais da IA e inovações tecnológicas amplas, com opiniões diretas e frequentes. 2. Sam Altman @sama https://x.com/sama CEO da OpenAI. Compartilha atualizações sobre GPT, ChatGPT, AGI, segurança de IA, startups e o futuro da inteligê... Resposta/solucao que funcionou ou contexto importante: 📡... _(tags: auto)_
 - [2026-07-15 22:19:26 UTC] Pedido do usuario: /find_targets Objetivo: Encontrar sites recém-lançados ou recentemente atualizados que provavelmente utilizam Supabase. Critérios de busca: - Vercel - Next.js - Supabase - Lovable - Bolt.new - Replit - Cursor - AI app - SaaS - Startup - Hackathon - Product Hunt - GitHub Pages - Cloudflare Pages Priorizar: - Domínios criados ou divulgados nos últimos 30 dias. - Projetos com login/autenticação. - Landing pages de SaaS.... Resposta/solucao que funcionou ou contexto importante: 🎯... _(tags: auto)_
+- [2026-07-16 04:31:56 UTC] Pedido do usuario: /find_targets Objetivo: Descobrir sites novos, sem repetir resultados já encontrados anteriormente, priorizando aplicações com alta probabilidade de utilizar Supabase. Regras obrigatórias: - NÃO retornar URLs já exibidas em execuções anteriores. - Eliminar duplicatas (mesmo domínio, subdomínio ou redirecionamento). - Priorizar apenas projetos publicados, lançados ou atualizados nos últimos 30 dias. - Ordenar do mais... Resposta/solucao que funcionou ou contexto importante: 🎯 T... _(tags: auto)_
+- [2026-07-16 04:54:49 UTC] Pedido do usuario: /kanban faça um prompt Resposta/solucao que funcionou ou contexto importante: Crie um quadro no Trello ou similar com listas para To-Do, Em Progresso e Concluido. Adicione cartoes para tarefas como encontrar sites com Supabase, realizar scan de vulnerabilidades e documentar resultados. _(tags: auto)_
 
 ---
 
-## 12. Arquivo de Sessoes (7 dias)
+## 12. Arquivo de Sessoes (8 dias)
 
 Transcricoes completas exportadas de `40_Arquivo/Sessao_*.md`.
 
@@ -8705,6 +8716,79 @@ Para cada resultado retornar:
 5. github.com
 
 
+### Sessao_2026-07-16
+
+# Sessao_2026-07-16
+
+
+## Export b4996467
+
+**Interacao 2026-07-16 04:31:56 UTC** (resumo export)
+
+## Interacao 2026-07-16 04:31:56 UTC
+Conceitos: [[GitHub]], [[MCP]], [[Objetivo]], [[Descobrir]], [[Supabase]], [[Regras]], [[URLs]], [[Eliminar]]
+### Usuario
+Objetivo:
+Descobrir sites novos, sem repetir resultados já encontrados anteriormente, priorizando aplicações com alta probabilidade de utilizar Supabase.
+- GitHub Pages
+- Indícios em HTML, JavaScript, Network, Source Maps, GitHub ou README
+- GitHub Trending
+- GitHub Recent
+- GitHub Search
+- Awesome Lists no GitHub
+Para cada resultado retornar:
+- Possível autenticação (Google, GitHub, Magic Link, Email, OAuth etc.)
+### Hermes
+
+## Export 6d74d744
+
+**Interacao 2026-07-16 04:34:44 UTC** (resumo export)
+
+## Interacao 2026-07-16 04:34:44 UTC
+### Usuario
+### Hermes
+Resultado: Sem Supabase
+
+## Export 68a7a212
+
+**Interacao 2026-07-16 04:54:49 UTC** (resumo export)
+
+## Interacao 2026-07-16 04:54:49 UTC
+### Usuario
+### Hermes
+Crie um quadro no Trello ou similar com listas para To-Do, Em Progresso e Concluido. Adicione cartoes para tarefas como encontrar sites com Supabase, realizar scan de vulnerabilidades e documentar resultados.
+
+## Export 7794d447
+
+**Interacao 2026-07-16 04:57:28 UTC** (resumo export)
+
+## Interacao 2026-07-16 04:57:28 UTC
+Conceitos: [[GitHub]], [[Target Hunter]], [[ALTO RISCO]], [[MEDIO RISCO]], [[2026]], [[BAIXO RISCO]], [[2026 Clique]], [[Fonte]]
+### Usuario
+### Hermes
+🔴 ALTO RISCO:
+1. zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supab...
+https://zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supabase.vercel.app/blog/lovable-cloud-launch
+🟡 MEDIO RISCO:
+🟢 BAIXO RISCO:
+Fonte: landings verificadas (SDK Supabase) + SaaS filtrado, sem GitHub/docs.
+
+## Export 1b5d166b
+
+**Interacao 2026-07-16 04:59:40 UTC** (resumo export)
+
+## Interacao 2026-07-16 04:59:40 UTC
+Conceitos: [[GitHub]], [[Target Hunter]], [[ALTO RISCO]], [[MEDIO RISCO]], [[2026]], [[BAIXO RISCO]], [[2026 Clique]], [[Fonte]]
+### Usuario
+### Hermes
+🔴 ALTO RISCO:
+1. zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supab...
+https://zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supabase.vercel.app/blog/lovable-cloud-launch
+🟡 MEDIO RISCO:
+🟢 BAIXO RISCO:
+Fonte: landings verificadas (SDK Supabase) + SaaS filtrado, sem GitHub/docs.
+
+
 
 ---
 
@@ -8721,11 +8805,11 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
 | Notas Memoria_Agente | 195 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 298 | `cache/persistent_memory.json` |
+| Memoria persistente | 300 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 16593 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 16914 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8753,9 +8837,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 2.50 MB |
-| Comandos catalogados | 147 |
-| Conexoes wiki no vault | 693 |
+| Dados processados | 2.52 MB |
+| Comandos catalogados | 151 |
+| Conexoes wiki no vault | 694 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
