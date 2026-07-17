@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-16T21:00:11Z
-updated_at: 2026-07-16T21:00:11Z
+created_at: 2026-07-17T00:00:30Z
+updated_at: 2026-07-17T00:00:30Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-16 21:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-17 00:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -528,9 +528,10 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - **[[javvis-atue-como-um-engenheiro-de-integracao-de-dados-focado-em-depuraca]]** — # Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map **Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map** (resumo export) status: active # Javvis, atue como u...
 
 
-### Sessoes e interacoes indexadas (96)
+### Sessoes e interacoes indexadas (98)
 
 - [[ache-5-sites-brasileiros-que-sejam-dashboards-ou-sistemas-feitos-em-lova]]
+- [[adicionei-um-comando-novo-no-meu-bot-do-telegram-cortar-video-voce-manda]]
 - [[agora-como-acessar]]
 - [[agora-liste-so-sobre-inteligencia-artificial]]
 - [[altere-a-configuracao-padrao-do-bot-para-usar-a-api-api-test-freemode-co-2]]
@@ -556,11 +557,10 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[excelente-agora-faca-o-seguinte-1-gere-o-payload-set-otimizado-para-cada]]
 - [[excelente-analise-tecnica-agora-organize-essas-informacoes-para-mim-no-s]]
 - [[executar-para-executar-o-protocolo-raw-stream-sync-no-alvo-agridence-con]]
+- [[faca-publicacao-no-twitter-adicionei-um-comando-novo-no-meu-bot-do-teleg]]
 - [[faca-um-script-em-md-fazendo-tudoexecucao-do-protocolo-raw-stream-sync-p]]
 - [[faca-um-script-so-com-nano-que-faca-tudo-execucao-do-protocolo-raw-strea]]
-- [[faca-uma-atualizacao-que-o-bot-so-use-o-modelo-local-ser-os-creditos-aca]]
-- [[faca-uma-liste-somente-das-url-1-elon-musk-elonmusk-https-x-com-elonmusk]]
-- ... +66 sessoes adicionais
+- ... +68 sessoes adicionais
 
 ### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
@@ -568,7 +568,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-300 itens em `cache/persistent_memory.json` (lista completa).
+302 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -870,6 +870,8 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-15 22:19:26 UTC] Pedido do usuario: /find_targets Objetivo: Encontrar sites recém-lançados ou recentemente atualizados que provavelmente utilizam Supabase. Critérios de busca: - Vercel - Next.js - Supabase - Lovable - Bolt.new - Replit - Cursor - AI app - SaaS - Startup - Hackathon - Product Hunt - GitHub Pages - Cloudflare Pages Priorizar: - Domínios criados ou divulgados nos últimos 30 dias. - Projetos com login/autenticação. - Landing pages de SaaS.... Resposta/solucao que funcionou ou contexto importante: 🎯... _(tags: auto)_
 - [2026-07-16 04:31:56 UTC] Pedido do usuario: /find_targets Objetivo: Descobrir sites novos, sem repetir resultados já encontrados anteriormente, priorizando aplicações com alta probabilidade de utilizar Supabase. Regras obrigatórias: - NÃO retornar URLs já exibidas em execuções anteriores. - Eliminar duplicatas (mesmo domínio, subdomínio ou redirecionamento). - Priorizar apenas projetos publicados, lançados ou atualizados nos últimos 30 dias. - Ordenar do mais... Resposta/solucao que funcionou ou contexto importante: 🎯 T... _(tags: auto)_
 - [2026-07-16 04:54:49 UTC] Pedido do usuario: /kanban faça um prompt Resposta/solucao que funcionou ou contexto importante: Crie um quadro no Trello ou similar com listas para To-Do, Em Progresso e Concluido. Adicione cartoes para tarefas como encontrar sites com Supabase, realizar scan de vulnerabilidades e documentar resultados. _(tags: auto)_
+- [2026-07-16 23:01:51 UTC] Pedido do usuario: Adicionei um comando novo no meu bot do Telegram: /cortar_video. Você manda o link de um vídeo (YouTube, TikTok, Instagram, Twitter, Twitch, entre outros), escolhe um nome, e o bot faz o resto sozinho: → baixa o vídeo → corta automaticamente em pedaços de ~30 segundos → nomeia cada arquivo em sequência (ex: Podcast_001.mp4, Podcast_002.mp4...) → sobe tudo pra uma pasta no Google Drive Roda em background, então dá pra... Resposta/solucao que funcionou ou contexto importante: 📡... _(tags: auto)_
+- [2026-07-16 23:02:57 UTC] Pedido do usuario: faça publicação no Twitter Adicionei um comando novo no meu bot do Telegram: /cortar_video. Você manda o link de um vídeo (YouTube, TikTok, Instagram, Twitter, Twitch, entre outros), escolhe um nome, e o bot faz o resto sozinho: → baixa o vídeo → corta automaticamente em pedaços de ~30 segundos → nomeia cada arquivo em sequência (ex: Podcast_001.mp4, Podcast_002.mp4...) → sobe tudo pra uma pasta no Google Drive Roda... Resposta/solucao que funcionou ou contexto importante: 📡 D... _(tags: auto)_
 
 ---
 
@@ -8828,6 +8830,26 @@ https://zone-www-dot-com-git-charislam-sql-snippet-safe-2a9ac6-supabase.vercel.a
 🟢 BAIXO RISCO:
 Fonte: landings verificadas (SDK Supabase) + SaaS filtrado, sem GitHub/docs.
 
+## Export 69b02d13
+
+**Interacao 2026-07-16 23:01:51 UTC** (resumo export)
+
+## Interacao 2026-07-16 23:01:51 UTC
+### Usuario
+Adicionei um comando novo no meu bot do Telegram: /cortar_video. Você manda o link de um vídeo (YouTube, TikTok, Instagram, Twitter, Twitch, entre outros), escolhe um nome, e o bot faz o resto sozinho: → baixa o vídeo → corta automaticamente em pedaços de ~30 segundos → nomeia cada arquivo em sequência (ex: Podcast_001.mp4, Podcast_002.mp4...) → sobe tudo pra uma pasta no Google Drive Roda em background, então dá pra continuar usando o bot enquanto ele processa — e ele avisa o progresso em tempo real (quantos cortes já subiram, quantos faltam). Serve principalmente pra quem trabalha com clipes/cortes pra Shorts, Reels ou TikTok: em vez de baixar o vídeo original, abrir editor, cortar manualmente pedaço por pedaço e organizar arquivo por arquivo, o processo inteiro vira "manda o link, e
+
+...[memoria destilada]
+
+## Export 29443b8e
+
+**Interacao 2026-07-16 23:02:57 UTC** (resumo export)
+
+## Interacao 2026-07-16 23:02:57 UTC
+### Usuario
+faça publicação no Twitter Adicionei um comando novo no meu bot do Telegram: /cortar_video. Você manda o link de um vídeo (YouTube, TikTok, Instagram, Twitter, Twitch, entre outros), escolhe um nome, e o bot faz o resto sozinho: → baixa o vídeo → corta automaticamente em pedaços de ~30 segundos → nomeia cada arquivo em sequência (ex: Podcast_001.mp4, Podcast_002.mp4...) → sobe tudo pra uma pasta no Google Drive Roda em background, então dá pra continuar usando o bot enquanto ele processa — e ele avisa o progresso em tempo real (quantos cortes já subiram, quantos faltam). Serve principalmente pra quem trabalha com clipes/cortes pra Shorts, Reels ou TikTok: em vez de baixar o vídeo original, abrir editor, cortar manualmente pedaço por pedaço e organizar arquivo por arquivo, o processo in
+
+...[memoria destilada]
+
 
 
 ---
@@ -8844,12 +8866,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 195 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 300 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 197 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 302 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 17199 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 17343 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8877,9 +8899,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 2.54 MB |
+| Dados processados | 2.55 MB |
 | Comandos catalogados | 152 |
-| Conexoes wiki no vault | 694 |
+| Conexoes wiki no vault | 696 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
