@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-22T06:00:13Z
-updated_at: 2026-07-22T06:00:13Z
+created_at: 2026-07-22T08:00:11Z
+updated_at: 2026-07-22T08:00:11Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-22 06:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-22 08:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -8871,7 +8871,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 25347 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 25361 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8899,7 +8899,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 3.46 MB |
+| Dados processados | 3.47 MB |
 | Comandos catalogados | 152 |
 | Conexoes wiki no vault | 696 |
 | Trigger | `cron-export` |
