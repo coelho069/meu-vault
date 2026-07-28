@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-28T03:00:39Z
-updated_at: 2026-07-28T03:00:39Z
+created_at: 2026-07-28T04:00:13Z
+updated_at: 2026-07-28T04:00:13Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-28 03:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-28 04:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -49,7 +49,7 @@ Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no b
 /verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 
 🎬 Cortes e TikTok:
-/cortar_video <URL> - Corta video do YouTube e salva em Cortes_Salvos/
+/cortar_video <URL> - Corta video, salva local, sobe Drive + Google Fotos
 /baixar_cortes [pasta] - Envia .mp4 da pasta pelo Telegram
 /publicar_cortes [pasta] - Publica 1 video/vez no TikTok @corteschhh
 /publicar_gphotos [album] - 1 video/vez do Google Fotos para TikTok
@@ -203,8 +203,8 @@ Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no b
 /cmd <comando> - Executa comando shell (autorizados)
 
 📦 Outros:
-/canais [limite] - Lista canais/grupos da conta (Telethon userbot)
-/ler_canal <@user|id|link> [limite] [all] - Le posts uteis do canal (Telethon; filtra vazios)
+/canais [limite|nome] - Lista canais + subcanais (tópicos/discussão vinculada)
+/ler_canal <alvo> [limite] - Le canal+subs e resume com IA (raw=lista, ambos=IA+lista)
 /listar_canais - Alias de /canais
 /status_userbot - Comandos /canais, /ler_canal, /userbot_status via Telethon (conta pessoal).
 /userbot_status - Status da sessao Telethon userbot
@@ -402,7 +402,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- /start
 - 
 - Parte 74/157
 - 51730 (1)
@@ -412,12 +411,13 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - /twitter_examples
 - /twitter_examples
 - /help
+- /kanban
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 197 ocorrencia(s)
+- `ROUTER` — 198 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
-- `CMD:/help` — 10 ocorrencia(s)
+- `CMD:/help` — 11 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
 - `CMD:` — 6 ocorrencia(s)
 - `CMD:find_targets "crm brasil lovable.app leads"` — 4 ocorrencia(s)
@@ -443,7 +443,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- /start
 - 
 - Parte 74/157
 - 51730 (1)
@@ -458,6 +457,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - /menu
 - https://drive.google.com/drive/
 - 
+- /help
 
 ---
 
@@ -8879,6 +8879,46 @@ faça publicação no Twitter Adicionei um comando novo no meu bot do Telegram: 
 ### Usuario
 ### Hermes
 
+## Export acb3a0ee
+
+**Interacao 2026-07-28 03:02:24 UTC** (resumo export)
+
+## Interacao 2026-07-28 03:02:24 UTC
+### Usuario
+### Hermes
+
+## Export a93a4dc3
+
+**Interacao 2026-07-28 03:09:17 UTC** (resumo export)
+
+## Interacao 2026-07-28 03:09:17 UTC
+### Usuario
+### Hermes
+
+## Export c3988d7b
+
+**Interacao 2026-07-28 03:10:19 UTC** (resumo export)
+
+## Interacao 2026-07-28 03:10:19 UTC
+### Usuario
+### Hermes
+
+## Export b222d266
+
+**Interacao 2026-07-28 03:15:50 UTC** (resumo export)
+
+## Interacao 2026-07-28 03:15:50 UTC
+### Usuario
+### Hermes
+
+## Export d1ae0d35
+
+**Interacao 2026-07-28 03:19:22 UTC** (resumo export)
+
+## Interacao 2026-07-28 03:19:22 UTC
+### Usuario
+### Hermes
+
 
 
 ---
@@ -8900,7 +8940,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 26657 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 26856 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8928,7 +8968,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 3.63 MB |
+| Dados processados | 3.65 MB |
 | Comandos catalogados | 157 |
 | Conexoes wiki no vault | 697 |
 | Trigger | `cron-export` |
