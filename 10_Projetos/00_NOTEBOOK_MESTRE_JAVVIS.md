@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-28T05:00:12Z
-updated_at: 2026-07-28T05:00:12Z
+created_at: 2026-07-28T07:55:14Z
+updated_at: 2026-07-28T07:55:14Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,7 +18,7 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-28 05:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-28 07:55 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
@@ -49,7 +49,7 @@ Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no b
 /verificar_hack <url_tweet> - Analisa tweet suspeito de comprometimento
 
 🎬 Cortes e TikTok:
-/cortar_video <URL> - Corta video, salva local, sobe Drive + Google Fotos
+/cortar_video <URL> - Corta (~90s) e publica Postiz (sem Photos)
 /baixar_cortes [pasta] - Envia .mp4 da pasta pelo Telegram
 /publicar_cortes [pasta] - Publica 1 video/vez no TikTok @corteschhh
 /publicar_gphotos [album] - 1 video/vez do Google Fotos para TikTok
@@ -242,8 +242,10 @@ Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no b
 
 ## 7. Historico de Decisoes
 
-34 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
+35 decisoes arquiteturais extraidas de `Memoria_Agente/telegram-hermes/decisions/`.
 
+### [[2026-07-28-postiz-massa-cortar-auto]]
+# Postiz massa + /cortar_video auto (sem Photos) Sessão de implementação no bot `telegram-hermes-freebot` (2026-07-28). ## Objetivo Unificar **corte de vídeos** com **publicação em massa** via Postiz, sem depender de Google Fotos/Drive. ## O que mudou ### 1) Publicação em massa Postiz (`/postiz_massa`) - Locks + watchdog `postiz_massa` (4h) - Pacing anti-429 (`POSTIZ_DELAY_BETWEEN_PLATFORMS` / `POSTIZ_DELAY_BETWEEN_VIDEOS`) - X/Twitter **excluído** por padrão (`POSTIZ_EXCLUDE_PLATFORMS=x,twitter`) - YouTube sempre como **Shorts** (`YOUTUBE_FORCE_SHORTS=1` + formato 9:16) - Mídia anexada na mensagem do comando - Lote multi-mídia com **confirmação** (`/postiz_ok`) — avisos só após pausa no env...
 ### [[atue-como-o-arquiteto-de-governanca-de-ti-e-auditor-de-baseline-de-segur-2]]
 # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N **Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N** (resumo export) status: active # Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. N ## Contexto "Atue como o Arquiteto de Governança de TI e Auditor de Baseline de Segurança. Nossa missão é realizar o 'Mapeamento de Dependências Externas' em nosso ecossistema de micro-serviços (/home/ubuntu/). Sua Missão: 1. Identificação de Ativos: Acione o módulo autonomous_search.py para listar 10 instâncias ativas de parceiros tecnológicos hospedados em *.vercel.app e *.lovable.app. 2. Auditoria de Baseline: Para...
 ### [[atue-como-o-arquiteto-de-governanca-de-ti-e-auditor-de-baseline-de-segur-3]]
@@ -403,23 +405,23 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
 - 
-- Parte 74/157
-- 51730 (1)
-- Carlinhos Maia vs 30 hates
-- Carlinhos Maia vs 30 hates
-- No Twitter, uma publicação falando sobre como funciona o comando/grok
-- /twitter_examples
-- /twitter_examples
-- /help
-- /kanban
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 198 ocorrencia(s)
+- `ROUTER` — 219 ocorrencia(s)
+- `CMD:` — 25 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
-- `CMD:/help` — 11 ocorrencia(s)
+- `CMD:/help` — 12 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
-- `CMD:` — 6 ocorrencia(s)
 - `CMD:find_targets "crm brasil lovable.app leads"` — 4 ocorrencia(s)
 - `CMD:vibe_scan https://supabase.meubanco.com.br` — 3 ocorrencia(s)
 - `CMD:Então com base nisso me explique o que cada um faz` — 3 ocorrencia(s)
@@ -444,18 +446,18 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 ### 8.4 Ultimos comandos Telegram registrados
 
 - 
-- Parte 74/157
-- 51730 (1)
-- Carlinhos Maia vs 30 hates
-- Carlinhos Maia vs 30 hates
-- No Twitter, uma publicação falando sobre como funciona o comando/grok
-- /twitter_examples
-- /twitter_examples
-- /help
-- /kanban
-- /kanban faça um prompt
-- /menu
-- https://drive.google.com/drive/
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 - /help
 
@@ -535,8 +537,9 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - **[[javvis-atue-como-um-engenheiro-de-integracao-de-dados-focado-em-depuraca]]** — # Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map **Javvis, atue como um Engenheiro de Integração de Dados focado em Depuração e Map** (resumo export) status: active # Javvis, atue como u...
 
 
-### Sessoes e interacoes indexadas (98)
+### Sessoes e interacoes indexadas (101)
 
+- [[2026-07-28-postiz-cortar-session]]
 - [[ache-5-sites-brasileiros-que-sejam-dashboards-ou-sistemas-feitos-em-lova]]
 - [[adicionei-um-comando-novo-no-meu-bot-do-telegram-cortar-video-voce-manda]]
 - [[agora-como-acessar]]
@@ -566,8 +569,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [[executar-para-executar-o-protocolo-raw-stream-sync-no-alvo-agridence-con]]
 - [[faca-publicacao-no-twitter-adicionei-um-comando-novo-no-meu-bot-do-teleg]]
 - [[faca-um-script-em-md-fazendo-tudoexecucao-do-protocolo-raw-stream-sync-p]]
-- [[faca-um-script-so-com-nano-que-faca-tudo-execucao-do-protocolo-raw-strea]]
-- ... +68 sessoes adicionais
+- ... +71 sessoes adicionais
 
 ### ai-memory MCP: indice remoto consultado; vault local como fonte primaria. (unhandled errors in a TaskGroup (1 sub-exception))
 
@@ -575,7 +577,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ## 11. Memoria Persistente do Bot
 
-302 itens em `cache/persistent_memory.json` (lista completa).
+304 itens em `cache/persistent_memory.json` (lista completa).
 
 - [2026-06-20 05:09:03 UTC] Pedido do usuario: /youtube https://youtu.be/HAkSUBdsd6M?is=nF5ZG2B-nd-i_hVa Resposta/solucao que funcionou ou contexto importante: ### RelatÃ³rio sobre o vÃ­deo do YouTube #### Resumo do VÃ­deo: Infelizmente, a transcriÃ§Ã£o fornecida para o vÃ­deo com ID `HAkSUBdsd6M` nÃ£o contÃ©m conteÃºdo Ãºtil. A maior parte da transcriÃ§Ã£o consiste em links e mensagens de erro, indicando que houve um problema ao acessar ou processar o vÃ­deo. #### O que foi aprendido: NÃ£o foram extraÃ­dos conceitos, tÃ©c... _(tags: auto)_
 - [2026-06-20 05:27:00 UTC] Pedido do usuario: /youtube https://youtu.be/TAirq97G7ow?is=qFYjOoI2UoWGUuQ5 Resposta/solucao que funcionou ou contexto importante: Erro Técnico: Modo API ativo: fallback local desabilitado. _(tags: auto)_
@@ -879,6 +881,8 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - [2026-07-16 04:54:49 UTC] Pedido do usuario: /kanban faça um prompt Resposta/solucao que funcionou ou contexto importante: Crie um quadro no Trello ou similar com listas para To-Do, Em Progresso e Concluido. Adicione cartoes para tarefas como encontrar sites com Supabase, realizar scan de vulnerabilidades e documentar resultados. _(tags: auto)_
 - [2026-07-16 23:01:51 UTC] Pedido do usuario: Adicionei um comando novo no meu bot do Telegram: /cortar_video. Você manda o link de um vídeo (YouTube, TikTok, Instagram, Twitter, Twitch, entre outros), escolhe um nome, e o bot faz o resto sozinho: → baixa o vídeo → corta automaticamente em pedaços de ~30 segundos → nomeia cada arquivo em sequência (ex: Podcast_001.mp4, Podcast_002.mp4...) → sobe tudo pra uma pasta no Google Drive Roda em background, então dá pra... Resposta/solucao que funcionou ou contexto importante: 📡... _(tags: auto)_
 - [2026-07-16 23:02:57 UTC] Pedido do usuario: faça publicação no Twitter Adicionei um comando novo no meu bot do Telegram: /cortar_video. Você manda o link de um vídeo (YouTube, TikTok, Instagram, Twitter, Twitch, entre outros), escolhe um nome, e o bot faz o resto sozinho: → baixa o vídeo → corta automaticamente em pedaços de ~30 segundos → nomeia cada arquivo em sequência (ex: Podcast_001.mp4, Podcast_002.mp4...) → sobe tudo pra uma pasta no Google Drive Roda... Resposta/solucao que funcionou ou contexto importante: 📡 D... _(tags: auto)_
+- [2026-07-28 07:49:04 UTC] Pedido do usuario: você tem acesso api do x consegui ver sim Resposta/solucao que funcionou ou contexto importante: Não, eu não tenho acesso direto à API do X (Twitter) para ler tweets em tempo real, postar ou extrair dados da plataforma. Eu sou um modelo de linguagem treinado com base em um vasto conjunto de dados, mas não possuo integração ativa com a API do X para realizar ações ou consultas ao vivo. _(tags: auto)_
+- [2026-07-28 07:49:51 UTC] Pedido do usuario: qual o comando certo pra isso? Resposta/solucao que funcionou ou contexto importante: Poderia detalhar o que você precisa fazer? Assim posso indicar o comando correto. _(tags: auto)_
 
 ---
 
@@ -8919,6 +8923,61 @@ faça publicação no Twitter Adicionei um comando novo no meu bot do Telegram: 
 ### Usuario
 ### Hermes
 
+## Export a206eaf9
+
+**Interacao 2026-07-28 07:45:37 UTC** (resumo export)
+
+## Interacao 2026-07-28 07:45:37 UTC
+### Usuario
+### Hermes
+
+## Export f2d84251
+
+**Interacao 2026-07-28 07:47:10 UTC** (resumo export)
+
+## Interacao 2026-07-28 07:47:10 UTC
+Conceitos: [[GitHub]], [[Dados]], [[SEU]], [[SynMateus]], [[Fonte]], [[VOC]], [[Perfis]], [[Suas]]
+### Usuario
+### Hermes
+Ex.: Plot twist in cybersecurity:   AI is helping a kids find real private keys in GitHub repos...
+Ex.: Se eu que usei git na linha de comando por pelo menos 10 anos não rodo git checkout na mão...
+
+## Export 86d04ec9
+
+**Interacao 2026-07-28 07:48:27 UTC** (resumo export)
+
+## Interacao 2026-07-28 07:48:27 UTC
+### Usuario
+### Hermes
+Não tenho acesso ao seu histórico de curtidas ou atividade pessoal em plataformas externas. Para ver o que você curtiu, consulte o registro de atividade da rede social ou aplicativo específico onde interagiu (como Instagram, Facebook, YouTube etc.), geralmente acessível nas configurações de conta ou em "Seu atividade". Se for algo relacionado a este bot, não há sistema de curtidas integrado aqui. Me avise se precisar de ajuda para localizar essas informações em algum serviço específico.
+
+## Export 80d4b16d
+
+**Interacao 2026-07-28 07:49:04 UTC** (resumo export)
+
+## Interacao 2026-07-28 07:49:04 UTC
+### Usuario
+### Hermes
+
+## Export 04126db7
+
+**Interacao 2026-07-28 07:49:51 UTC** (resumo export)
+
+## Interacao 2026-07-28 07:49:51 UTC
+### Usuario
+qual o comando certo pra isso?
+### Hermes
+Poderia detalhar o que você precisa fazer? Assim posso indicar o comando correto.
+
+## Export 14f53e3c
+
+**Interacao 2026-07-28 07:50:56 UTC** (resumo export)
+
+## Interacao 2026-07-28 07:50:56 UTC
+### Usuario
+### Hermes
+- Evite ferramentas terceirizadas que peçam sua senha do X; elas representam risco de segurança. Use apenas o painel oficial da plataforma ou aplicativos verificados pela X (como o TweetDeck, se ainda disponível para contas profissionais ou "c
+
 
 
 ---
@@ -8935,12 +8994,12 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Fonte | Registros | Caminho |
 |-------|-----------|---------|
-| Notas Memoria_Agente | 197 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
-| Memoria persistente | 302 | `cache/persistent_memory.json` |
+| Notas Memoria_Agente | 201 | `obsidian_vault/10_Projetos/Memoria_Agente/` |
+| Memoria persistente | 304 | `cache/persistent_memory.json` |
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 26873 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 27895 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8968,9 +9027,9 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 
 | Campo | Valor |
 |-------|-------|
-| Dados processados | 3.65 MB |
+| Dados processados | 3.72 MB |
 | Comandos catalogados | 157 |
-| Conexoes wiki no vault | 697 |
+| Conexoes wiki no vault | 702 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
