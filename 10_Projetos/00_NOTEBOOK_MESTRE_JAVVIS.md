@@ -8,8 +8,8 @@ tags:
   - memoria-agente
   - extracao-total
   - auto-sync
-created_at: 2026-07-28T02:00:12Z
-updated_at: 2026-07-28T02:00:12Z
+created_at: 2026-07-28T03:00:39Z
+updated_at: 2026-07-28T03:00:39Z
 source: memory-extraction-pipeline
 trigger: cron-export
 status: active
@@ -18,13 +18,13 @@ status: active
 # 00 — Notebook Mestre JAVVIS
 
 > Memoria unificada e **extracao total** do bot Hermes/JAVVIS.
-> Ultima consolidacao: **2026-07-28 02:00 UTC** (trigger: `cron-export`).
+> Ultima consolidacao: **2026-07-28 03:00 UTC** (trigger: `cron-export`).
 
 **Hubs:** [[MOC_Cerebro_Central]] · [[MOC_Indice_Geral]] · [[bootstrap]] · [[_HOME]]
 
 ---
 
-## 1. Manual de Comandos (152 detectados)
+## 1. Manual de Comandos (157 detectados)
 
 Hermes Bot — menu de comandos
 Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no botao / do Telegram.
@@ -201,6 +201,13 @@ Use /menu ou /help para ver esta lista. Comandos principais tambem aparecem no b
 💻 Shell (autorizados):
 /shell <comando> - Executa comando shell (autorizados)
 /cmd <comando> - Executa comando shell (autorizados)
+
+📦 Outros:
+/canais [limite] - Lista canais/grupos da conta (Telethon userbot)
+/ler_canal <@user|id|link> [limite] [all] - Le posts uteis do canal (Telethon; filtra vazios)
+/listar_canais - Alias de /canais
+/status_userbot - Comandos /canais, /ler_canal, /userbot_status via Telethon (conta pessoal).
+/userbot_status - Status da sessao Telethon userbot
 
 
 ---
@@ -395,7 +402,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.2 Resumo dos logs PM2 (telegram-bot-out.log)
 
-- Oi
 - /start
 - 
 - Parte 74/157
@@ -405,14 +411,15 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - No Twitter, uma publicação falando sobre como funciona o comando/grok
 - /twitter_examples
 - /twitter_examples
+- /help
 
 ### 8.3 Eventos frequentes nos logs
 
-- `ROUTER` — 196 ocorrencia(s)
+- `ROUTER` — 197 ocorrencia(s)
 - `AKITA` — 19 ocorrencia(s)
 - `CMD:/help` — 10 ocorrencia(s)
 - `CMD:Oi` — 10 ocorrencia(s)
-- `CMD:` — 5 ocorrencia(s)
+- `CMD:` — 6 ocorrencia(s)
 - `CMD:find_targets "crm brasil lovable.app leads"` — 4 ocorrencia(s)
 - `CMD:vibe_scan https://supabase.meubanco.com.br` — 3 ocorrencia(s)
 - `CMD:Então com base nisso me explique o que cada um faz` — 3 ocorrencia(s)
@@ -436,7 +443,6 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ### 8.4 Ultimos comandos Telegram registrados
 
-- Oi
 - /start
 - 
 - Parte 74/157
@@ -451,6 +457,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 - /kanban faça um prompt
 - /menu
 - https://drive.google.com/drive/
+- 
 
 ---
 
@@ -875,7 +882,7 @@ github.com-SymbioticSec-vibe-scanner.git" tier: episodic tags: - auto - telegram
 
 ---
 
-## 12. Arquivo de Sessoes (8 dias)
+## 12. Arquivo de Sessoes (9 dias)
 
 Transcricoes completas exportadas de `40_Arquivo/Sessao_*.md`.
 
@@ -8851,6 +8858,28 @@ faça publicação no Twitter Adicionei um comando novo no meu bot do Telegram: 
 ...[memoria destilada]
 
 
+### Sessao_2026-07-28
+
+# Sessao_2026-07-28
+
+
+## Export 8440f221
+
+**Interacao 2026-07-28 02:54:28 UTC** (resumo export)
+
+## Interacao 2026-07-28 02:54:28 UTC
+### Usuario
+### Hermes
+
+## Export 9c11ab22
+
+**Interacao 2026-07-28 02:55:45 UTC** (resumo export)
+
+## Interacao 2026-07-28 02:55:45 UTC
+### Usuario
+### Hermes
+
+
 
 ---
 
@@ -8871,7 +8900,7 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Historico repo_analyze | 19 | `memory/repo_analyze_history.json` |
 | Podcasts gerados | 31 | `cache/podcasts/` |
 | Repos clonados | 9 | `cache/codebase_repos/` |
-| Logs PM2 | 26590 linhas | `~/.pm2/logs/telegram-bot-out.log` |
+| Logs PM2 | 26657 linhas | `~/.pm2/logs/telegram-bot-out.log` |
 | Biblioteca OSINT | 1722 | `data/osint_library.json` |
 
 ### Podcasts em cache
@@ -8900,8 +8929,8 @@ Fonte completa: `10_Projetos/HISTORICO_TOTAL_MEMORIA.md` (upload separado no Not
 | Campo | Valor |
 |-------|-------|
 | Dados processados | 3.63 MB |
-| Comandos catalogados | 152 |
-| Conexoes wiki no vault | 696 |
+| Comandos catalogados | 157 |
+| Conexoes wiki no vault | 697 |
 | Trigger | `cron-export` |
 | Arquivo | `10_Projetos/00_NOTEBOOK_MESTRE_JAVVIS.md` |
 
