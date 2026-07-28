@@ -1,0 +1,17 @@
+---
+tags:
+  - conceito
+data: "2026-06-20"
+---
+
+# Pelo
+
+Resumo: Pelo que a transcrição informa, o [[MTP]] é uma novidade do [[Google]] chamada [[Multi_Token_Prediction]], também abreviada como [[MTP]].
+
+Conversas relacionadas:
+- [[Sessao_2026-06-20|Sessao_2026-06-20]]
+
+
+---
+
+> Arquivada de `30_Recursos/Pelo.md` em 2026-07-28.

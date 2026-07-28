@@ -1,0 +1,17 @@
+---
+tags:
+ - conceito
+data: "2026-06-20"
+---
+
+# Cloud Code
+
+Resumo: O vídeo mostra instalação com Go, Cloud Code e uso de plugins do Printing Press.
+
+Conversas relacionadas:
+- [[Sessao_2026-06-20|Sessao_2026-06-20]]
+
+
+---
+
+> Arquivada de `30_Recursos/video_mostra_instalacao_Cloud_Code.md` em 2026-07-28.

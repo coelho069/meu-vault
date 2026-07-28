@@ -1,0 +1,17 @@
+---
+tags:
+  - conceito
+data: "2026-06-20"
+---
+
+# Comandos
+
+Resumo: Comandos como summary, fix, dead code e dups mostram e corrigem problemas.
+
+Conversas relacionadas:
+- [[Sessao_2026-06-20|Sessao_2026-06-20]]
+
+
+---
+
+> Arquivada de `30_Recursos/Comandos.md` em 2026-07-28.
